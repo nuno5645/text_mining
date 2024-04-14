@@ -1,0 +1,21 @@
+combination,accuracy
+"clean, remove_stopwords, lemmatize",0.8063715100288391
+"clean, expand_contractions, remove_stopwords, lemmatize",0.7960281372070312
+"clean, lemmatize",0.7914770245552063
+"clean, expand_contractions, lemmatize",0.7823748588562012
+"clean, expand_contractions, remove_stopwords",0.7678940892219543
+"clean, expand_contractions, pos_tagging, lemmatize",0.8014066815376282
+"clean, pos_tagging, remove_stopwords, lemmatize",0.7844434976577759
+"clean, remove_stopwords",0.7699627876281738
+"clean, expand_contractions, pos_tagging, remove_stopwords, lemmatize",0.7997517585754395
+"clean, pos_tagging",0.7985105514526367
+clean,0.8026478886604309
+"clean, pos_tagging, remove_stopwords",0.8266445994377136
+"clean, pos_tagging, lemmatize",0.7823748588562012
+"clean, expand_contractions",0.7724452018737793
+"clean, expand_contractions, pos_tagging",0.797269344329834
+"expand_contractions, remove_stopwords",0.8076127171516418
+"clean, expand_contractions, pos_tagging, remove_stopwords",0.8005792498588562
+"expand_contractions, lemmatize",0.7993380427360535
+expand_contractions,0.7782374620437622
+"expand_contractions, pos_tagging",0.7869259119033813
