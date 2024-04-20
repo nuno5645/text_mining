@@ -82,7 +82,7 @@ review,sentiment_predicted
 "Chegou antes do esperado e estou gostando do produto!!
 ",positive
 "Não usei ainda a marca LENOVO.   Usei  ACER.  Gostaria de um outro ACER ou SAMSUNG.  Mas, creio que agora, todos são da mesma qualidade.  No que puder compro um.  Este LENOVO é exatamente tudo que quero.   Estou esperando um cartão de crédito.
-",positive
+",negative
 "Comprei para estudar, ainda não instalei um único programa e ele  já está travando, pelas configurações deveria ser muito melhor. Compre de outra marca, pelo preço que paguei você consegue produto melhor.  Samsung nunca muda essa travação nojenta.
 ",negative
 "Pena que não vem com reprodutor/gravador de dvd/cd.
@@ -172,7 +172,7 @@ review,sentiment_predicted
 "Muito bonito, leve, rápido e com bateria muito boa. Tela grande e está atendendo minha necessidade de desempenho para programas de engenharia.
 ",positive
 "Produto ótimo de fácil acesso , única reclamação é que vem com uns aplicativos de fabrica na qual não achei útil
-",positive
+",negative
 """NO MEU USO DIÁRIO é bastante econômico com relação a bateria, já consegui quase 5 horas. Teclado é excelente, a tela antirreflexo é ótima mas tive que me acostumar pq não tem """"aquele"""" brilho, entretanto, não troco mais pq na hora do clarão ela salva. <3 Não travou nada, nem jogo e nem programas pesados. Vou de celular Lenovo Motorola e agora Notebook também. Super indico! obs.: não vá atrás de quem diz que a bateria é ruim (isso serve pra qualquer notebook) pois depende muito de como o aparelho será usado, caso vc compre um aparelho e não lhe agrade, tem alguns dias pra trocar. obs.: minha compra foi feita no guichê da <empresa> no shopping, adorei a rapidez da entrega e a maneira como foi possível acompanhar o pedido no aplicativo.""
 ",positive
 "Excelente notebook para as tarefas diárias. Rápido e prático. E ainda roda vários jogos modernos.
@@ -184,7 +184,7 @@ review,sentiment_predicted
 "a placa mãe deu defeito e nem a samsung nem a <empresa> arrumam. computador não tem nem um ano. como vendem algo sem peça pra repor?
 ",negative
 "em um otimo notebook não é aquele notebook que tu olha e fala NOSSA QUE NOTEBOOK FODAAA MEU!!!! mas da pro gasto,se tu quiser pra jogar ou algo assim eu não recomendaria pois não vai rodar muita coisa,mas se cs go for o suficiente pode pegar que vai tranquilo haha.
-",negative
+",positive
 "Só deveria ter entrada pra cartão de memória, no mais tudo como descrito no anúncio
 ",positive
 "Gostei muito bacana msm,leve definido design perfeito
@@ -530,7 +530,7 @@ review,sentiment_predicted
 """Notebook Samsung Essentials E34 Intel Core i3 4GB 1TB Tela LED FULL HD 15.6"""" Windows 10 - Branco  www.magazinevoce.com.br/magazinevendarapido/""
 ",positive
 "Produto muito bom, pena que a entrega deu uma boa atrasada, tirando isso, tudo certo
-",negative
+",positive
 "O notebook n passa confiança,  temos a impressão que a qqr momento ele pode dar defeito, parece que foi feito nesse intuito,  n colocaram nada de qualidade nele. Por enquanto funcionando,  mas em uma vez demorou muito para ligar.
 ",negative
 "Amei a cor,design, entrega super rápida. Usei pouco mais, gostei muito!!!
@@ -642,7 +642,7 @@ review,sentiment_predicted
 """Chegou dentro do prazo, e em perfeito estado. Atende bem as minhas necessidades. É leve e com uma memória que serve bem aos meus objetivos. As vezes tenho a impressão que o cursor mouse """"some"""" por rápidos instantes, mas nunca tive problemas. Uma pena que não venha com windows """"fixo"""", vem apenas com o de teste por 30 dias e depois é preciso comprar ou formatar com nova instalação. Indico o produto.""
 ",positive
 "Ele também tem leitor de cartão de memória,coisa que não é citada aí.
-",negative
+",positive
 "Esse produto nao recomendo niguem comprar so conseguir usar ele quatro dias dai ele nao fucionol mais ja liguei pra empresa responsavel ficaram de mim retornar a ligacao e ate agora nada to com o notebook em casa quebrado quero uma providencia desde ja
 ",negative
 "gostei muito do produto não tenho o reclamar o meu filho esta muito feliz
@@ -688,7 +688,7 @@ review,sentiment_predicted
 "Prático para o dia-a-dia, por pesar cerca de 1,7kg e ter uma bateria boa, que dispensa levar o carregador. O processamento dá conta de sofwares de edição de vídeo, coisa que os notes de 1,2kg (chromebook, por exemplo) não dão conta.
 ",positive
 "Por ser windows 10 e eu estava acostumada com o 7, ainda estou aprendendo a mexer nele, achei um pouco lento, porém pra minhas necessidades funciona super bem.
-",negative
+",positive
 "O notebook é muito bonito e leve. A bateria tem boa duração. Serve para navegar e usar office, mas às vezes dá umas travadinhas. Em geral achei o processador muito fraco. Comprei por 999,00 na blackfriday. Então teve um bom custo benefício. Vou vender e comprar outro no mínimo um core i3.
 ",negative
 "Ótimo Custo Benefício. Vale a pena o valor pago e a praticidade no tamanho para mobilidade.
@@ -786,7 +786,7 @@ review,sentiment_predicted
 "Poderia sair a tela mas é bem rápido e compacto. Muito bom
 ",positive
 "Excelente produto, desempenho otimo...batetia dura em media 8 hs. O que deixou a desejar foi a demora de quase 2 semanas apos a data prevista pra entrega..<empresa> poderia rever isso...  Fora tdo ocorrido da entrega, recomendo o produto.  DELL É DELL
-",negative
+",positive
 "A Dell caiu muito em qualidade não compro mais dessa marca. Quanto ao produto, não sei se era uma peça reoperada e/ou deixaram cair em algum momento pois veio com duas bolhas de proteção estourada dentro da caixa e com o plástico que o envolvia rasgado, sem falar que não veio com as proteções adesivas na tampa nem com a proteção do teclado, como todos produtos novos tem.  Não compro mais eletrônico pela internet pois o transporte pode tê-lo danificado, pois não funcionou direito, só deu problemas me causando imenso transtorno.   O barato sai caro!  Quando a esmola é demais o santo desconfia! Isso vale para todos produtos de sites, quando anunciados muito abaixo do valor real!  Decepcionada!
 ",negative
 "Atendeu todas as minhas expectativas, chegou muito rápido
@@ -841,3 +841,4 @@ review,sentiment_predicted
 ",positive
 "produto de ótima qualidade e durabilidade,parabéns.
 ",positive
+,positive

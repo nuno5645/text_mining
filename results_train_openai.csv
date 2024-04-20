@@ -1,1999 +1,1999 @@
-sentiment,review_text,sentiment_predicted
+sentiment,review_text,sentiment_predicted,sentiment_predicted_2nd_prompt
 positive,"Estou contente com a compra entrega rápida o único problema com as <empresa> é se houver troca ou devolução do produto o consumidor tem problemas com espera.
-",negative
+",negative,negative
 positive,"Excelente!!! Produto muito bom, bonito, design super moderno. De ótima qualidade! Gostei muito!
-",positive
+",positive,positive
 positive,"Superou expectativas  É excelente para jogos, super rápido tela full hd tamanho ideal leve e Pratico
-",positive
+",positive,positive
 positive,"Comprei o mesmo para minha irmã e ela me contou que ele é ótimo, rápido e a imagem é muito bonita. Tive oportunidade de mexer com ele e realmente ele cumpre com o que disse. Recomendo demais para quem estuda ou trabalha com um. Obrigado a <empresa> e a Asus!
-",positive
+",positive,positive
 positive,"Notebbok muito bom! Rápido pequeno e leve para quem quer um notebook com um bom desempenho e que oculpa pouco espaço ele é perfeito. A autonomia da bateria é muito boa. Ele liga e desliga muito rápido.
-",positive
+",positive,positive
 positive,"Ótimo custo-benefício, abre todos os programas pesados, rápido e não trava.
-",positive
+",positive,positive
 positive,"O produto atendeu minha expectativa é de ótima qualidade e estou feliz com ele. A <empresa> entregou o produto antes do prazo, fiquei feliz e por este motivo que faço compras pelo site.
-",positive
+",positive,positive
 positive,"Muito bom o produto, quem está em dúvida de um notebook esse é um produto médio entre bom e barato.
-",positive
+",positive,positive
 positive,"Inicialmente gostaria de dizer que estou muito satisfeita com a qualidade do meu produto,não houve qualquer problema com avaria ou defeitos. Também gostaria de sinalizar a rapidez em que a entrega foi realizada. Quero deixar registrado minha satisfação pela compra deste produto. Muito obrigada à todos.
-",positive
+",positive,positive
 positive,"Equipamento muito bom utilizo para escritório de contabilidade
-",positive
+",positive,positive
 positive,"Leve e está atendendo as necessidades da faculdade da minha filha. Só está deixando a desejar o wi-fi. Não funciona direito.
-",negative
+",negative,negative
 positive,"O produto atendeu bem a todas as minhas expectativas. Recomendado!
-",positive
+",positive,positive
 positive,"Rápida entrega e atendeu a todas as minhas expectativas, a entrega estava prevista para 23 de janeiro e chegou dia 26 de dezembro, recomendo
-",positive
+",positive,positive
 positive,"dei de presente de natal para meus sobrinhos, eles adoraram como são 8 tive q dar um pra cada
-",positive
+",positive,positive
 positive,"Ótimo produto, bonito, leve, boa definição, instalei windows 10, equipamento para estudo e lazer, atende minhas necessidades, estou satisfeito com a compra, bem embalado, entrega no prazo.
-",positive
+",positive,positive
 positive,"Pode parecer estranho mas este DELL não é, assim, tão melhor do que meu HP que tenho há mais de quatro anos e funciona. O DELL é bom. Preferiria que existisse na cor preta.
-",negative
+",negative,negative
 positive,"OTIMO PRODUTO  RECOMENDO,FOI ENTREGUE ANTES DO PRAZO
-",positive
+",positive,positive
 positive,"Produto excelente, atendeu as minhas expectativas.
-",positive
+",positive,positive
 positive,"Ótimo produto com bom custo benefício. Recebi tudo em ordem!!!
-",positive
+",positive,positive
 positive,"Recomendo o produto para todos aqueles que pretendem comprar, agilidade na preparação do produto e na entrega
-",positive
+",positive,positive
 positive,"Atende super as necessidades, de fácil utilização, é bonito, não pesado.
-",positive
+",positive,positive
 negative,"Fotos muito bonitas, porém material plastico de baixa qualidade.
-",negative
+",negative,negative
 positive,"Satisfeito recomendo aos compradores das lojas <empresa>.
-",positive
+",positive,positive
 positive,"muito bom, dentro das expectativas. chegou dentro do prazo.
-",positive
+",positive,positive
 negative,"Se não falam da bateria, quantas células e tempo de uso, é porque tem baixa duração. Cuidado compradores! Para comprar notebook que a bateria demora uma hora e meia, é melhor não comprar.
-",negative
+",negative,negative
 negative,"Não recomendo esse notebook. Quando o Windows 10 é atualizado, o HDMI não consegue transmitir sinal para a televisão. Entrei em contato com o suporte Dell, eles fizeram inúmeros procedimentos, mas de nada adiantou. O problema persiste.  Além de que é muito lento. Não corresponde o que determina a configuração.   Solicitei devolução/troca.
-",negative
+",negative,negative
 positive,"Notebook 2 em 1 Compaq Presario CQ360 Intel Dual Core 4GB 500GB Tela 11 Windowns 10 Touch - Branco é excelente. Veio no prazo combinado pela loja.
-",positive
+",positive,positive
 positive,"amei..facil para usar e muito lindo...era o que eu queria
-",positive
+",positive,positive
 positive,"Excelente, adoreii  Chegou no prazo correto, super bem embalado e perfeito!!
-",positive
+",positive,positive
 positive,"Produto muito bom. Vale o preço que custou. Recomendo.
-",positive
+",positive,positive
 positive,"Produto muito bom. Computador com desempenho muito bom, ótimos recursos e fácil de transportar.
-",positive
+",positive,positive
 negative,"Não recebi o produto porque fui enrolada pela <empresa>.
-",negative
+",negative,negative
 positive,"Core i7 com qualidade Samsung por um preço bastante competiivo em relação a concorrência. O HD deixa a desejar por ser 5400RPM mas todo o resto do conjunto é válido.
-",positive
+",positive,positive
 positive,"Tela fosca confortável para horas de trabalho, bom custo benefício
-",positive
+",positive,positive
 negative,"Custo beneficio que não vale a pena..... e bla bla e bla é só para encher e atender o requisito de avaliação;;...
-",negative
+",negative,negative
 negative,"O Notebook foi um presente de Natal para minha filha. Nós o recebemos no dia 22/12 e, neste dia, funcionou sem problemas. No dia seguinte (23/12) o Note não ligou. Mesmo estando com a bateria carregada, só funcionava quando conectado na tomada.
-",negative
+",negative,negative
 positive,"até então, perfeito. Tudo que pretendia com ele, fiz........
-",positive
+",positive,positive
 positive,"Notebook muito bom, faz 1 mês que estou utilizando e até agora funcionando perfeitamente. DESTAQUES: Tela agradável de se trabalhar, teclados macios, audio satisfatório, ótimo desempenho no geral. DEIXA A DESEJAR: falta de leitor CD/DVD, pouca entrada para USB.
-",positive
+",positive,positive
 positive,"Notebook muito bom para trabalhos rapidos, pratico para reunioes!! altamente recomendado!
-",positive
+",positive,positive
 positive,"Melhor custo beneficio do mercado!  Até mesmo para usuários de games não tão pesados é uma excelente pedida.
-",positive
+",positive,positive
 positive,"Boa relação de custo x benefício. Produto de boa qualidade!
-",positive
+",positive,positive
 positive,"Recebi há pouco tempo, ainda estou avaliando mas está ótimo. Gostei !!
-",positive
+",positive,positive
 positive,"Tinha expectativas altas pelo produto e todas foram atendidas. Utilizo tanto para trabalhar com uso de programas como Photoshop, quanto para jogos.
-",positive
+",positive,positive
 positive,"Este computador é excelente para usuários de Linux. Após a atualização para o sistema 17.10 ele fica ótimo. A placa de vídeo é reconhecida automaticamente. Não tentei instalar o Windowns, mas não é difícil, basta colocar no modo Legacy. Vale  ressaltar que é um computador que não tem VGA. Além disso, pelo tamamho não é o mais adequado para quem visita muitos ambientes.  O que mais gostei dessa compra foi a relação custo benefício. Uma dificuldade que encontrei foi para descobrir quantos slots existem no computador pelo site da DELL. O teclado é feio, meio diferente, mas a qualidade das teclas é boa.  O único problema de comprar na <empresa> é a quantidade de dias de espera. Acho que eles ganham bastante dinheiro segurando o nosso dinheiro, já que paguei à vista.
-",positive
+",positive,positive
 negative,"A assistência técnica poderia dar um pouco mais de atenção pra nós, clientes, acessei no PC a assistência técnica e o computador não consegue nem carregar a página de forma correta, e olha que não é a internet da que de casa, por que meu celular é muito mais rápido que esse notebook, não recomendado, produto horrível, terei que contatar a assistência técnica, não vejo necessidade para algo assim, os produtos deveriam vir perfeitos.
-",negative
+",negative,negative
 positive,"Excelente o produto chegou bem antes do combinado, chegou em perfeito estado. Recomendo.
-",positive
+",positive,positive
 positive,"Adorei o produto, muito bom, excelente acabamento e ótima configuração. Porém achei 2 problemas, 1 que não tem entrada para o microfone, somente da para utilizar o que vem de fabrica internamente, e não apresenta luz de LED, indicadora, de carregamento concluído, e nem de caps look acionado, o que atrapalha e muito na utilização do mesmo.
-",negative
+",negative,positive
 positive,"Embora não seja um pc-gamer a configuração permite rodar tudo que preciso com excelente qualidade. Até o momento só felicidade com o note
-",positive
+",positive,positive
 positive,"Excelente produto, gostei muito e recomendo sua compra
-",positive
+",positive,positive
 negative,"Prós: Marca renomada/possível boa durabilidade. Contras: processador lento/ aparelho pesado/ bateria dura pouco/ não vem com Office
-",negative
+",negative,negative
 positive,"Bonito, leve e bom. Gostei muito, nada mais a declarar. Grato
-",positive
+",positive,positive
 positive,"Aparelho bastante rápido e de fácil acesso pelo wifi. Possui ótima configuração e também possui drive de CD e DVD, necessário para minhas tarefas. Estou satisfeito com essa aquisição e recomendo o produto. Parabéns às Lojas <empresa> pela entrega rápida.
-",positive
+",positive,positive
 positive,"Esse notebook foi presente para meu filho de 11 anos que queria um notebook gamer para poder jogar. No mercado os computadores com configuração para jogos são bem mais caros, porém a configuração desse notebook atendeu as plenamente às expectativas dele com um custo bem mais acessível
-",positive
+",positive,positive
 positive,"Houve extravio durante o transporte, mas tudo foi solucionado
-",negative
+",negative,positive
 positive,"Foi presente de Natal para meu filho e ele está se divertindo muito, não desgruda!
-",positive
+",positive,positive
 positive,"Gostei demais do PRODUTO ESTAR ME ATENDENDO EM TUDO QUE NECESSITO
-",positive
+",positive,positive
 positive,"Muito bom! A vista de outros, é um produto leve, prático e tem suprido minhas necessidades.
-",positive
+",positive,positive
 positive,"Vocês deveriam trabalhar com Sedex em todos os produtos, pq se eu compro muitas vezes eu quero entrega express.. pensem nisso. O aparelho não tem nem o que falar a marca Acer é excelente.
-",positive
+",positive,positive
 positive,"O produto tem desempenho excelente,acabamento de alta qualidade,no quesito dos cuidados ao transportar tambem nao há do q se reclamar...<empresa> nota 1000
-",positive
+",positive,positive
 negative,"Comprei o notebook,e no segundo dia de uso ele não liga mais,fora o transtorno da coleta que ainda não foi feita.
-",negative
+",negative,negative
 positive,"Muito bom. Produto de extrema qualidade, conforme o que esperava mesmo.
-",positive
+",positive,positive
 positive,"Produto chegou dentro do prazo, é leve, de design fino e elegante. Possui praticidade e vem com todos os programas necessários para o uso do dia a dia. Para quem usa de forma mais intensa (como quando for jogar, por exemplo) recomendo a compra de um cooler para ajudar no resfriamento do notebook. Excelente produto, atendeu minhas expectativas -- e até mesmo superou-as.
-",positive
+",positive,positive
 negative,"O produto nem sequer iniciou....estou insatisfeita.  Reinicia automaticamente e constantemente. ..Estou tentando a troca ou devolução do produto...no momento aguardando um retorno da <empresa> sobre minha solicitação. ..
-",negative
+",negative,negative
 positive,"Muito bom o Notebook, supre todas as minhas necessidades, bem rápido e eficiente ... E a entrega da <empresa> foi executada com excelência, entregaram antes do prazo, muito bom !
-",positive
+",positive,positive
 positive,"Notebook rápido bom para jogos, excelente compra pode comprar sem medo.
-",positive
+",positive,positive
 positive,"Chegou antes do prazo! O material confere com o anunciado!Sastifeita
-",positive
+",positive,positive
 positive,"Houve atraso na entrega  E rastreamento é deficitário  Mas o produto é ótimo
-",negative
+",negative,negative
 negative,"Usei o produto só algumas vezes durante  um período de menos um mês que recebi em minha casa dia 13 de dezembro guardei o computador e quando fui usar novamente no dia 30 ele já deu pau, ou seja o sistema operacional não abre mais.
-",negative
+",negative,negative
 positive,"Ótima velocidade de processamento, espaço de armazenamento, etc. vale cada real investido!!
-",positive
+",positive,positive
 positive,"Gostei muito do produto, e recomendo, produto bom, entrega dentro do esperado
-",positive
+",positive,positive
 positive,"Gostei bastante do produto e não possuo reclamações.
-",positive
+",positive,positive
 positive,"Gente, vale muito a pena. É simplesmente ótimo! Supriu muito minhas expectativas.
-",positive
+",positive,positive
 positive,"muito bom ....recomendo...atende as necessidaes ...vale a pena comprar
-",positive
+",positive,positive
 positive,"Gostei bastante, o notebook se comporta muito bem, mesmo em stress, da pra jogar bastante coisa (GTA V, Bf4, Lol...), o único problema é que o processador fica debaixo do W A S D, então esquenta muito, as vezes a ponto de incomodar. Alguns programas que vem pré-instalados atrapalham um pouco, como o anti-vírus. A tela é boa, mas nada excepcional, o som é de qualidade, mesmo em volumes mais altos ele não perde o foco. O HD faz um barulho característico, mas nada que atrapalhe, pode incomodar pra quem é mais exigente quanto a ruido. O acabamento é bonito e ele é bem leve, sem falar na possibilidade de adicionar um novo HD ou SSD, devido ao slot de gravador de CD estar vazio. No geral é um excelente computador, comprei com o intuito de usar para trabalho, mas como gosto de games, instalei alguns, os quais funcionaram muito bem, então mesmo sendo um computador de trabalho posso leva-lo onde for que vou me divertir.
-",positive
+",positive,positive
 positive,"Ótimo Produto!!! Com a grana que tá vendendo aqui eu viajei pros EUAs com a família e comprei um pra cada!!!! Somos em 4!!
-",positive
+",positive,positive
 negative,"Péssimo. Comprei desde o dia 4/12 e ate agora nem mesmo a nota fiscal eletrônica foi emitida. Estou achando que cai num golpe. Quero meu dinheiro de volta.Absurdo a lojas <empresa> permitir que esses sites sem credibilidades usem seu espaço para vendas. Estou extremamente chateada, pois nem mesmo uma ligação ou e-mail eu recebi para me esclarecerem o q esta ocorrendo com minha compra. Irei para justiça.
-",negative
+",negative,negative
 positive,"Notebook muito bom, leve e fácil de manusear. Super recomendado.
-",positive
+",positive,positive
 positive,"faz quase um mes que comprei esse notebook, e o que eu tenho a dizer, super recomendo, perfeito, rapido e com um lindo designer..
-",positive
+",positive,positive
 positive,"Produto muito bom! Mas poderia ter leitor de CD... :(  <empresa> está de parabéns pela agilidade na entrega!!!
-",positive
+",positive,positive
 positive,"A loja tem um atendimento ótimo e o produto chega antes do combinado.
-",positive
+",positive,positive
 positive,"Monto computadores há anos, e escolhi este como melhor relação custo benefício. Há modelos superiores mas de custo elevado. Para tarefas comuns até edição básica de vídeo este serve bem. Para games e edição avançada só maquinas com valor 50% superior.
-",positive
+",positive,positive
 positive,"Foi presente de Natal para a filha que ficou encantada.
-",positive
+",positive,positive
 positive,"Gostei muito do produto! A inicialização é rápida, bateria dura cerca de 7 horas dependendo do uso, tela linda e de ótimo tamanho.
-",positive
+",positive,positive
 positive,"Produto excelente, mas quase não compro devido ao elevado valor do frete. UM ABSURDO. R$128,00
-",negative
+",negative,negative
 positive,"Produto entregue dentro do prazo estipulado. Equipamento cumpre o prometido nas propagandas.
-",positive
+",positive,positive
 positive,"Computador show, fiquei impressionado com a responsabilidade dessa impressa a entrega é rápido mesmo. Só q tem site q acha mais barato.
-",positive
+",positive,positive
 positive,"Chegou hj, é lindo, leve, e muito rápido, estava previsto para chegar dia 19, tenho que parabenizar a <empresa> pela entrega, muito ágil, quanto ao note, só amores.
-",positive
+",positive,positive
 positive,"Muito satisfeito e fui muito bem atendido pela garantia dell.
-",positive
+",positive,positive
 positive,"É exatamento como o descritivo! super recomendo, e o preço aqui foi bem mais em conta!
-",positive
+",positive,positive
 positive,"Produto ótimo. Exatamente o que buscava. O prazo de entrega foi antecipado. Embalagem bem protetora. Recomendo fortemente
-",positive
+",positive,positive
 positive,"Produto leve,  excelente para viajar, bateria dura bastante, um otimo produto.
-",positive
+",positive,positive
 positive,"Produto de ótima qualidade, a duração da bateria é incrível!
-",positive
+",positive,positive
 negative,"Comprei a quase 2 meses e não efetuaram a entrega, hoje 05/01 já me cobraram 2 parcelas e nada de entregar meu produto.
-",negative
+",negative,negative
 positive,"Comprei esse notebook para jogar e até agora está me atendendo muito bem! Bateria dura bastante, to amando!
-",positive
+",positive,positive
 positive,"Produto veio antes do prazo. Chegou abrimos e foi súper fácil de configurar, funciona muito bem. Para entrar na internet e editar arquivos do Office é show! Muito bom!
-",positive
+",positive,positive
 negative,"Infelizmente, devolvi o produto, estava com defeito. Felizmente, consegui devolvê-lo, recebi SMS que será cancelada a compra. Somente terei certeza ao receber a fatura.
-",negative
+",negative,negative
 positive,"Não é um PC Gamer, mas até agora, aguentou bem tudo o que fiz... tenho que usar mais para chegar numa conclusão final
-",positive
+",positive,positive
 positive,"Excelente produto, preço competitivo, entrega rápida, recomendo!!!!
-",positive
+",positive,positive
 positive,"PRODUTO SENSACIONAL PADRÃO VAIO, MUITA QUALIDADE E MUITO DESEMPENHO
-",positive
+",positive,positive
 positive,"Produto enviado conforme combinado. Prazo correto.
-",positive
+",positive,positive
 positive,"O PRODUTO EM SI É OTIMO, MAS DEIXOU A DESEJAR POIS NÃO TEM EN TRADA PARA CABO DE REDE
-",negative
+",negative,negative
 positive,"superou minhas expectativas e é um note gamer que tem um preço muito acessível. chega a rodar ate PUBG.
-",positive
+",positive,positive
 positive,"Atendeu minhas expectativas, tamanho, peso, acabamentos, recomendo
-",positive
+",positive,positive
 positive,"Adquiri a R$ 1765,00 e não tenho do que reclamar, exceto talvez pela posição de algumas teclas que são um pouco confusas. Quanto ao hardware, excelente.
-",positive
+",positive,positive
 positive,"Excelente notebook, comprei 10 unidades para minha empresa.
-",positive
+",positive,positive
 positive,"RAPIDO, BATERIA DURA MUITO, AS PORTAS ESTÃO NA PARTE DE TRAS DAS LATERAIS ISSO AJUDA MUITO , ACER SEMPRE FOI BOA É MEU SEGUNDO NOTE EU RECOMENDO
-",positive
+",positive,positive
 positive,"Meu filho está amando, falou que é excelente consegue executar várias páginas ao mesmo tempo!
-",positive
+",positive,positive
 positive,"MUITO LEVE E PRATICO FÁCIL DE LEVA, ÓTIMO PRA TRABALHOS DE FACULDADE.
-",positive
+",positive,positive
 positive,"atende perfeitamente aos meus interesses. chegou antes do previsto.
-",positive
+",positive,positive
 positive,"Ótimo equipamento com um custo benefício muito bom. Ideal para tarefas do dia a dia.
-",positive
+",positive,positive
 positive,"Excelente notebook, muito bonito e rápido, bateria muito boa e roda grande maioria dos jogos atuais
-",positive
+",positive,positive
 positive,"produto muito bom, estou muito feliz com minha aquisição chegou antes da data prevista da entrega
-",positive
+",positive,positive
 positive,"chegou super rápido é perfeito para o q eu precisava
-",positive
+",positive,positive
 positive,"Pc atende as expectativas, mas a resolução da tela dele n eh a das mais top... mas da pra jogar de boa
-",negative
+",negative,negative
 positive,"Achei ele muito prático, leve e com ótimo desempenho. Gostaria de comentar sobre a entrega, que foi excepcional.
-",positive
+",positive,positive
 negative,"Recebi dia 20/11, no dia 02/12 não ligou mais, apenas conectado à tomada. Entrei em contato, levei para autorizada dia 05/12/17 e ao receber e fazer a vistoria já não ligava nem na tomada. Hoje, 30 dias depois, a única informação pelo site da Positivo é que está em manutenção, ligando na autorizada foi me dito que o problema é na bateria. Não quero mais o produto e não recomendo. Aguardando solução ainda.
-",negative
+",negative,negative
 positive,"Notebook bom e rápido, tem um HD espaçoso e uma configuração que atende muito bem para o trabalho diário.  Recomendo a todos para estudos e tarefas normais, como acessar a internet e ver filmes em alta definição
-",positive
+",positive,positive
 positive,"O produto, até o momento não apresentou problemas, tem ótimo desempenho inclusive em jogos, só a bateria que não aguenta muito tempo em jogos, de resto até o momento atendeu minhas expectativas.
-",positive
+",positive,positive
 negative,"Quanto ao atendimento da loja tudo ok,porem não tive sucesso com o produto ,pois o mesmo apresentou defeito (na abertura da 2ª janela ocorre travamento).
-",negative
+",negative,negative
 positive,"Ótimo atendimento, chegou antes da data, produto em perfeitas condições, parece bem maior que nas fotos. Até agora gostei muito.
-",positive
+",positive,positive
 negative,"Comprei de presente para minha filha. O notebook liga mas não carrega e fica o tempo todo com uma mensagem de atualização. Como moro um pouco distante dela, não tive a oportunidade de encontrá-la.
-",negative
+",negative,negative
 negative,"1º Para instalar o Windows é terrivel e dá uma enorme trabalheira pois ele não faz boot em um pendrive bootavel comum,  tem que baixar o RUFUS porque ele é bloq de fabrica só consegue fazer boot UEFI.  2º Nem tente instalar x32 ele so aceita Windows x64, o que não faz nenhuma lógica pois o notebook só vem com 1 slot de RAM e o processador já ão é lá essas coisas.
-",negative
+",negative,negative
 positive,"Estamos amando a tv imagem perfeita,super fácil de manusear e assistir a Netflix ficou bem melhor!
-",positive
+",positive,positive
 positive,"Ótimo produto. Vale a pena adquirir, eu recomendo. Atendeu sim todas minhas expectativas. Preço acessível!
-",positive
+",positive,positive
 positive,"gente gostei muito.. achei o notbook certo para me ajudar nos trabalhos da faculdade.. Não tive nenhum problema com ele, já estou com ele tem 5 meses, satisfeita. Indico para quem usa Muiiito.. no trabalho e na faculdade.. ele tem 8gb e é o processador mais avançado, o Core i7 .... bom e barato.
-",positive
+",positive,positive
 positive,"Show de bola esse not. Parabens a Samsung. Evoluiu na produção dos nots gamer.
-",positive
+",positive,positive
 positive,"Ótimo produto, leve e rápido, bom para quem necessita de um notebook para realizar atividades cotidianas, além do mais tem um bom custo. Recomendo! Entrega rápida.
-",positive
+",positive,positive
 positive,"Produto de alta qualidade, melhor custo-benefício entre os notebooks da mesma categoria.
-",positive
+",positive,positive
 positive,"Produto de extrema qualidade e muito veloz. Recomendo a todos!!!
-",positive
+",positive,positive
 positive,"O produto é ótimo e o atendimento das lojas <empresa> com relação ao custo, prazo são excelentes
-",positive
+",positive,positive
 negative,"Produto não correspondeu minha expectativa, bateria não carregava. Computador so funcionava conectado a rede elétrica.Desfiz  o negocio.
-",negative
+",negative,negative
 positive,"Ótimo produto com excelente prazo de entrega. O produto está com 10 dias de uso e só com mais tempo para uma avaliação melhor
-",positive
+",positive,positive
 positive,"Apenas o prazo de entrega eu achei muito extenso, já que a mercadoria saiu de SP para entregar em SC
-",negative
+",negative,negative
 negative,"A entrega da <empresa> foi bem rápida, o produto é bonito mas só funciona se estiver na tomada, não carrega a bateria. Pedi troca e a loja prontamente recolheu o produto com defeito e vai enviar outro.
-",negative
+",negative,negative
 positive,"Não fica devendo absolutamente nada para marcas mais caras, a única coisa que senti falta foi do teclado retro iluminado
-",positive
+",positive,positive
 positive,"Uma bela máquina para quem deseja alto desempenho e o melhor de tudo, um ótimo custo-benefício
-",positive
+",positive,positive
 negative,"A loja me atendeu bem, entregou antes do previsto, mas o aparelho trava muito, é mais lento que o antigo que tinha, NÃO TEM LEITOR DE CD \ DVD, tela com reflexo, comprei para trabalhar e está me dando muito mais trabalho me acostumar com ele.
-",negative
+",negative,negative
 positive,"produto muito bom faz uma semana que estou usando muito satisfeito recomendo.  excelente entrega, <empresa> entregou bem antes do prazo.
-",positive
+",positive,positive
 positive,"Excelente produto, chegou antes do pravo marcado. Recomendo.
-",positive
+",positive,positive
 positive,"Um notebook com o design bem mais bonito que eu imaginava. Desempenho maravilhoso. Entrega rápida.
-",positive
+",positive,positive
 positive,"Superou minhas expectativas produto, leve, design bonito, fininho tela bem grande não trava com jogos, memoria cabe muitaaaaaaaaa coisa tive um Acer anterior a esse era muito bom esse melhor ainda a entrega era pro dia 03/01 Chegou dia 27/12 satisfeita com entrega.recomendo a loja e o notebook
-",positive
+",positive,positive
 positive,"É um produto muito importante para o uso pra utilidades necessária pra boletos e.etc.
-",negative
+",positive,positive
 positive,"Ideal para atividades em geral, Bom recurso técnico, E de armazenagem.
-",positive
+",positive,positive
 positive,"Alguém sabe se é bom para rodar o Premiere?? Estou procurando um notebook para trabalho.
-",negative
+",negative,negative
 negative,"O computador parecia bom, mas só funcionou conectado na tomada. Se desligava aproximadamente 5 segundos após ser desconectado da fonte! E só religava conectado! Ou seja, na prática é como se não tivesse bateria! Devolvido no mesmo dia!
-",negative
+",negative,negative
 negative,"Notebook enviado após 3 dias de uso apresentou defeito, e o mesmo precisará ser enviado para a assistência!
-",negative
+",negative,negative
 negative,"Olá. Notebook muito lento na leitura do HD,  caro, sem leitor de CD/DVD, resolução da tela ruim,etc. Entrega e atendimento muito complicados. Só não devolvemos o produto por causa. do nosso projeto social. No geral, eu não recomendo essa compra.
-",negative
+",negative,negative
 positive,"Gostei muito do notebook.  É ótimo e de fácil manuseio! Chegou rapidinho!
-",positive
+",positive,positive
 positive,"Produto muito bom, preço bom e teclado numérico me agradou bastante, embora isso deixe o notebook maior. Excelente atendimento da Dell. <empresa> , como sempre, fez a entrega antes da previsão, mesmo na época de Natal.
-",positive
+",positive,positive
 positive,"Entre todos os produtos que pesquisei este foi o que melhor se encaixou no quesito custo/benefício e tem atendido bem as minhas necessidades.  Prós: - Silencioso - Rápido - Tela grande e confortável. - Bom acabamento - Som excelente - Roda jogos com um desempenho médio/bom  Contras: - Sinto falta de leds que sinalizem o que está ativo ou não (caps, leitura do disco, num lock...) - Drive cd/dvd
-",positive
+",positive,positive
 positive,"Gostei muito, vale o preço q paguei 1299,90!  A bateria dura 4h, tem um som muito bom, ótimo para ver Netflix etc  Roda the Sims 4, na qualidade mais baixa, já que não é um Notebook para jogos. Mas é muito bom para oq eu preciso!!
-",positive
+",positive,positive
 positive,"Ontem adquirido atende as expectativas do consumidor.
-",positive
+",positive,positive
 negative,"Produto chegou com bateria danificada, devolvi para a assistência técnica há mais de 10 dias e não tive mais retorno. Quando liguei disseram que estão esperando chegar uma bateria da positivo. Estou sem minha compra. Não recomendo.
-",negative
+",negative,negative
 positive,"Notebook muito Bom, atendeu completamente minhas expectativas.
-",positive
+",positive,positive
 positive,"Produto muito bom,  só faltou luzes indicativas de funções ativas.
-",positive
+",positive,positive
 positive,"A máquina é excelente, atenderá totalmente a minha necessidade. Porém, o Windows deu problema após atualização.
-",negative
+",negative,negative
 positive,"Muito bom, recomendo.Apesar do tamanho é bem compacto e versátil.
-",positive
+",positive,positive
 positive,"Recebi dentro do prazo, super bem embalado, dei de presente ao meu marido, que avaliou como excelente qualidade do produto, é um notebook muito bonito, leve!
-",positive
+",positive,positive
 positive,"Rapido, bateria dura muito, as portas são muito bem distribuidas, ja tive outro acer uma marca acima de qualquer suspeita, excelente
-",positive
+",positive,positive
 positive,"Gostei muito do notebook, do design, do peso, e dos programas instalados neste modelo q estão me atendendo muito bem. Recomendo a compra do produto pelas Lojas <empresa> que me deu suporte desde o pedido até a entrega. O produto veio no prazo e bem embalado.
-",positive
+",positive,positive
 positive,"desingner do produto bonito, entrega da loja no tempo previsto, recomendaria a um amigo, porém, hoje me senti preocupada, precisei utilizá-lo e ele travou pela primeira vez, não sei se é normal em apenas três meses de pouco uso e ele já estar travando.
-",negative
+",negative,negative
 positive,"o note é lindo, o tamanho é ideal, gostei muito. chegou super rapido, comprei na quarta e sabado de manha ja estava com ele. o processador dele é rapido, não trava, atende o que promete, é um bom investimento.
-",positive
+",positive,positive
 positive,"gostei muito deste notebook, vale a pena levar para casa.
-",positive
+",positive,positive
 positive,"Tem um desempenho bom em jogos e multitarefa, mas o HD realmente faz barulho e ele esquenta um pouco.
-",negative
+",negative,negative
 positive,"Computador super rápido, desempenho atende perfeitamente, também bem fácil de usar, e o novo sistema do cortana ajuda muito nas tarefas de trabalho, recomendo!
-",positive
+",positive,positive
 positive,"Notebook Excelente, alem de muito bonito tem desempenho muito bom e quase não esquenta!!
-",positive
+",positive,positive
 positive,"Produto excelente para o seu dia a dia. Além de rápido e prático, o produto ainda é bem leve para o transporte. Excelente produto!!!
-",positive
+",positive,positive
 positive,"O produto é bom, atende as minhas necessidades. Tem um designer bom, super fino. Gostei muito.
-",positive
+",positive,positive
 positive,"Compra efetuada sem dificuldades e entrega rápida. Senti apenas falta de maiores informações/descrição do produto no momento da busca.
-",positive
+",positive,negative
 positive,"Entrega pronta. Produto otimo em todos os aspectos com funcionamento muito eficaz
-",positive
+",positive,positive
 positive,"Entrega rápida,produto excelente site super mega seguro!!!Adorei
-",positive
+",positive,positive
 positive,"O produto é excelente e a entrega foi muito rápida. Parabéns! :)
-",positive
+",positive,positive
 positive,"Muito lindo o produto, design moderno, muito semelhante ao visto pelo computador. A entrega atrasou um pouco, mas nada que comprometesse.
-",positive
+",positive,positive
 positive,"Meu segundo notebook, primeiro Dell é claro, boa opção para quem estudante de cursos de Informática. Prós: design top, não esquenta muito, teclado muito bom, touchpad bom (mas prefiro um mouse bluetooth), não pesa muito comparado ao meu velho notebook LG, Sistema Linux sem problemas, pois já venho migrando desde 2016 para softwares livres. Contras: nenhum.
-",positive
+",positive,positive
 positive,"Produto em perfeito estado e ótimo funcionamento, recomendo a todos esses produto.
-",positive
+",positive,positive
 positive,"Ótimo custo e beneficio pela configuração, recomendo.
-",positive
+",positive,positive
 positive,"Não comprei ainda estou esperando 60% de desconto, tenho acompanhado desde de outubro este produto não foi dado desconto ainda,  como e que fica preciso comprar. Ex: 1700,00 - 60% = 1020,00 cadê o desconto do notebook,
-",negative
+",negative,negative
 positive,"Produto excelente, entregue no prazo, tudo de acordo com o anúncio.
-",positive
+",positive,positive
 positive,"Esse notebook é bom para jogar jogo de tiro fps em primeira pessoa?
-",negative
+",negative,negative
 positive,"Chegou antes do prazo. Notebook leve, rápido, não esquenta e processador muito rápido. ótimo para estudo, trabalho e alguns games.
-",positive
+",positive,positive
 positive,"ESTOU MUITO SATISFEITO E RECOMENDO SUA COMPRA. RECEBI UM BOM APARELHO EM UM CURTO ESPAÇO DE TEMPO. ENTREGA RÁPIDA.
-",positive
+",positive,positive
 positive,"COMPREI UM NOTEBOOK COM A EMPRESA <empresa> DA MARCA LENOVO. ALÉM DO PRODUTO POSSUIR UM ÓTIMO DESEMPENHO, A EMPRESA TAMBÉM MERECE SER CITADA PELO ÓTIMO SERVIÇO DE ENTREGA E PREÇO DO MESMO. RECOMENDO SEUS SERVIÇOS.   MANOELLA
-",positive
+",positive,positive
 positive,"Até o momento o notebook tem se comportado muito bem, dentro das minhas expectativas.
-",positive
+",positive,positive
 negative,"Óbvio que é uma máquina limitada, mas por enquanto tem sido útil para meu principal uso que é o produzir trabalhos acadêmidos (usando Word, Excel e ppt) e pesquisa de informações na internet. As vezes tem uma certa lentidão... fica meio travado.
-",negative
+",negative,negative
 negative,"Comprei o produto demorou 15 dias para chegar, usei o primeiro dia, no dia seguinte só funcionava com o carregador conectado na tomada mesmo com a bateria cheia, mandei de volta já faz 15 dias e até agora não recebi outro, recebi mensagem que vai chegar no dia 24/01/18, portanto já serão 45 dias de espera, brincadeira viu.
-",negative
+",negative,negative
 positive,"Gostei mto do produto e da entrega. Um excelente notebook gamer.
-",positive
+",positive,positive
 positive,"Rápida entrega das lojas <empresa>, marca renomada, o produto atende as necessidades básicas, é um pouco lento para jogos por exemplo. Mas assisto netflix, youtube, videos do facebook sem travar. Como outros aparelhos de outras marcas, precisa comprar a chave para utilizar office, vem com 1 mês gratuito. Tela bem grande, sério, Recomendo pelo custo benefício.
-",positive
+",positive,positive
 positive,"O recebimento do produto foi muito rápido, e o produto atende com satisfação a minha necessidade.
-",positive
+",positive,positive
 positive,"Excelente notebook, muito rápido, suporta até alguns games, aplicativos de filmes e muito bom para as atividades básicas no Office. Recomendo!
-",positive
+",positive,positive
 positive,"Prático para trabalho, fácil acesso, leve, design moderno!! Entrega antes do prazo!  Excelente custo-benefício.
-",positive
+",positive,positive
 negative,"Pela marca e pelo equipamento, eu esperava bem mais. Achei muito lento, pra tudo! A entrega foi muito lenta também.
-",negative
+",negative,negative
 positive,"AMEI ESSE PRODUTO, ELE É GRANDE, PROCESSADOR MUITO BOM, DESENVOLVE BEM, O SOM É MUITO LIMPO.]  SÓ NÃO SEI COMO ABRE A UNIDADE DE DISCO. NO MANUAL DIZ QUE VEM, MAS  NAO CONSEGUI ABRIR :i...ALGUÉM ME AJUDA Aí?
-",positive
+",positive,positive
 positive,"correspondeu as minhas expectativas, foi boa a compra recomendo
-",positive
+",positive,positive
 positive,"Excelente notebook, esperava mais da placa de vídeo, mas mesmo assim é ótimo
-",positive
+",positive,positive
 positive,"Bom desempenho, cumpre o que promete. Chegou bem rápido, é prático e fácil de carregar, um produto bem leve.
-",positive
+",positive,positive
 positive,"É um ótimo notebook para o dia a dia, mesmo sem a entrada para DVD, é perfeito, e por ser pequeno é bem prático. Feliz com a compra.
-",positive
+",positive,positive
 positive,"Recomendou-lhe apresentação conforme descrito nada a reclamar
-",positive
+",positive,positive
 positive,"comprei já tem 1 semana, funcionando perfeitamente... atende mais que minhas necessidades diarias... rápido.. bonito e tela grande.
-",positive
+",positive,positive
 positive,"Gostei muito desse note pequeno, leve bonito e por enquanto posso dizer que ele está sendo ótimo pra mim, pouco tempo de uso, a entrega desse produto foi rapida o que me deixou feliz ja o mouse até agora nada.
-",positive
+",positive,positive
 negative,"Não recomendo, Noteboock lento, periodicamente pede para atualizar algum programa e fica mais lento ainda. O problema não é minha internet, possuo 20 Megas.
-",negative
+",negative,negative
 positive,"""Máquina excelente para usuários básicos e intermediários.  Notebook com design incrível (lindo), porém as linhas cromadas e o logotipo cromado abaixo da tela por vezes proporcionam reflexos incômodos.   Estudantes: Desempenho um pouco a baixo do esperado quando lhe são instalados softwares """"pesados"""" de programação, cálculos e desenho (ex: MatLab, Python com as bibliotecas científicas), contradizendo o """"Aspire 5 foi pensado para quem precisa de alta performance e velocidade"""".""
-",negative
+",negative,negative
 positive,"Comprei um notebook deste A515-51G-58VH na promoção de natal e paguei 10 x 219,90 sem juros, vale cada centavo, é rápido, não esquenta, a bateria dura até 6 horas se estiver só navegando e vendo vídeos, mas jogando a bateria só dura umas 2 horas, ele é leve, silencioso demais, teclado confortável para digitar, o único porém é a tela espelhada, tem muito reflexo, e não é 1280x720 e sim 1366x768, ou seja, diferente de como é anunciado em alguns sites na internet. Mas eu recomendo.
-",positive
+",positive,positive
 negative,"Recebi o produto já faz 3 meses e 20 dias, é um computador regular, nada de espetacular, desempenho comum, todas as USBs (duas), são do mesmo lado, aliás...tudo fica do lado esquerdo, não tem entrada pra cartão, mas isso estava nas especificações e fotos. Hoje vou levá-lo à assistência técnica pois a placa de wifi, que já estava falhando, parou de funcionar de fez. Não compraria novamente, ele é um daqueles travados... com partições escondidas,difícil de trocar o sistema, e nem pode!!!! se vc ler a garantia vai descobrir que ela e torna nula se vc trocar  sistema ou usar alguma coisa que não é Samsung.
-",negative
+",negative,negative
 positive,"Leva o peso da qualidade DELL, não da pra achar um notebook com essa configuração por esse preço.  Muito satisfeito por essa compra, confiabilidade da entrega das Lojas <empresa>.
-",positive
+",positive,positive
 positive,"Produto muito bom conforme esperado. Entrega rápida.
-",positive
+",positive,positive
 positive,"Gostei muito do produto, veio certinho e chegou até antes do prazo. Super indico. <3
-",positive
+",positive,positive
 positive,"Excelente para minhas necessidades. Superou as expectativas!
-",positive
+",positive,positive
 negative,"Com três meses de uso a placa mãe queimou e agora com cinco meses de uso a placa de vídeo está queimando, produto de péssima qualidade. Nunca pensei que a positivo estivesse tão ruim, estou decepcionada.  O produto está barato mas é como dizem: O barato sai caro.
-",negative
+",negative,negative
 negative,"Fui muito mal atendido pelos consultores da <empresa>. Recebi meu produto com atraso, sendo que comprei este computador como uma ferramenta de trabalho.  O computador é lento e dificilmente consigo desempenhar as funções que necessito com ele.
-",negative
+",negative,negative
 positive,"Suficiente para uso básico, Office, navegação na internet, redes sociais, fotos, filmes e músicas! Neste aspecto atende plenamente!!!
-",positive
+",positive,positive
 positive,"Um produto muito bom, muito bonito e funciona muito bem, recomendo!!
-",positive
+",positive,positive
 negative,"Só funciona na tomada, decepcionante. Minha primeira e única experiência com a marca Positivo, que de positivo mesmo não tem nada!
-",negative
+",negative,negative
 positive,"bom chegou direitinho e rápido bom chegou direitinho e rápido bom chegou direitinho e rápido bom chegou direitinho e rápido bom chegou direitinho e rápido bom chegou direitinho e rápido bom chegou direitinho e rápido bom chegou direitinho e rápido bom chegou direitinho e rápido
-",positive
+",positive,positive
 positive,"Produto de ótima qualidade conforme descrição e chegou antes do prazo previsto
-",positive
+",positive,positive
 positive,"De acordo com as informações do site. Estou satisfeito com a aquisição.
-",positive
+",positive,positive
 positive,"Muito pratico, só faltou uma entrada RJ45 e um processador mais rápido (aí seria perfeito), mas atendeu bem minha necessidade. Recomendo.
-",positive
+",positive,positive
 positive,"muito bom o produto, entrega rápida e recomendaria para outro consumidor.
-",positive
+",positive,positive
 negative,"Tenho tentado entrar em contato inumeras vezes e não tenho conseguido resposta satisfatória.  vou procurar o o procon se o caso não for resolvido esta semana.  entrarei na justiça
-",negative
+",negative,negative
 positive,"Tenho um DELL a mais de 9 anos e realmente a qualidade é superior.
-",positive
+",positive,positive
 negative,"O notebook não realiza bem funcões básicas de um notebook qualquer. Ele é extremamente lento e demora até pra abrir uma página na internet. Não recomendo. Tenho uma prima que tem um igual e reclama da mesma coisa.
-",negative
+",negative,negative
 positive,"PRODUTO MUITO BOM CUSTO BENEFICIO OTIMO POREM O SISTEMA OPERACIONAL QUE VEM INSTALADO NELE É MUITO RUIM MAIS DEPOIS Q COLOCAR WINDOWS 10 ROOODA MUIIITO BEM RECOMENDO MUIIITO,ENTREGA SUPER OTIMA MUITO ANTES DA DATA PREVISTA.
-",positive
+",positive,positive
 positive,"""Esta pensando naquele Not brilhoso, pintura automotiva, fininho, levíssimo coisinha de princesa!?? Pois pode ir desistindo, este Not é para pessoas que querem algo durável, robusto, silencioso, que não esquenta, trabalha sempre no mesmo ritmo, quer um mais rápido!?? Então vá para um Dell Corel i5 ou i7, pq este i3 é pau para toda obra, não te deixa mão, trabalha até 7 horas sem parar, evitando aquele desconforto de """"uma tomada pelo amor de deus"""", na faculdade trabalha sem parar até o fim da aula como um maratonista, agora se você gosta dos casquinha de ovos, boa sorte!!!""
-",negative
+",negative,negative
 positive,"Gostei muito do produto e a entrega foi realizada conforme o acordado
-",positive
+",positive,positive
 positive,"Produto de qualidade, comprei com até 18 dias uteis para entrega e me entregaram com 3 dias.
-",positive
+",positive,positive
 positive,"Comprei o Note para atividades acadêmicas. Não tenho do que reclamar.  É rápido e fino.
-",positive
+",positive,positive
 positive,"Produto moderno , com requisitos avançados que permitem melhor agilidade no desenvolvimento de trabalhos e capacidade de armazenamento.  Recomendo , além disso , é leve e muito bonito.
-",positive
+",positive,positive
 positive,"Tela antirreflexo é um excelente acessório, além do processador ser bom. A bateria não dura muito tempo, porém no geral o notebook é muito bom.
-",positive
+",positive,positive
 positive,"Equipe das lojas <empresa>, existe alguma prévia de quando ele voltará para o estoque? Chateada porque não tem mais :'(
-",negative
+",negative,negative
 negative,"Esse modelo de notebook não suporta o sistema operacional e trava o tempo todo, até para tarefas simples como abrir uma pasta ele fica carregando! não indico.
-",negative
+",negative,negative
 negative,"Gostaria de saber sobre a garantia do notebook porque depois de algum tempo ligado o computador fica com a tela toda branca e linhas pretas, aí só desligando ele e ligando novamente volta a funcionar, mas em seguida fica novamente com a tela branca e linhas pretas, qual o procedimento pra concerto ou troca do produto.
-",negative
+",negative,negative
 negative,"O computador é muito lento, antes de comprar pesquisem.
-",negative
+",negative,negative
 positive,"A entrega foi realizada antes do prazo combinado. O produto chegou sem nenhum defeito ou arranhão e bem embalado. Só achei ele um pouquinho lento e travando as vezes para um i5 - 7ª Ger., mas está excelente para as minhas necessidades. Muito bonito, simples e bonito. Recomendo!!!
-",positive
+",positive,positive
 positive,"""Notebook Lenovo 2 em 1 Yoga 520 Intel Core i7 8GB 1TB Tela 14"""" Windows 10 - Platinum""
-",positive
+",positive,positive
 positive,"O notebook é ótimo em termos de funcionalidade e não deixa a desejar para execução de atividades básicas como navegação e uso do pacote office. Pontos para melhorias: - o botão de liga/desliga é na lateral direita do aparelho e provoca vários desligamentos acidentais.   - a fonte de carregamento é ligada no lado esquerdo do aparelho, portanto, se for usar o modo tablet, é preciso ter cuidado para não desligar o aparelho, pois, o botão de desliga está justamente no lado onde será apoiado para uso. - as teclas do teclado poderiam ter sido feitas de outro material. O plástico usado é duro e não oferece conforto durante o manuseio, além de provocar um barulho que incomoda.
-",positive
+",positive,negative
 positive,"Recomendo pois é ótimo custo beneficio E bem estiloso.
-",positive
+",positive,positive
 positive,"Produto muito bonito, som de ótima qualidade, pena que é um pouco lento, muitas atualizações do windows. Mas foram isso é top
-",positive
+",positive,positive
 positive,"O Samsung Essentials E35S é uma ótima compra, não esperava eu fosse gostar tanto. É fino, considero pequeno, apesar de ter uma tela 14, e apesar de ser um dos mais leves, ainda acho que é pesado. O material é resistente, não corre o risco de abrir de quebrar a tapa, é uma material resistente. Não usei muito, tem só 24 hrs que chegou, e acredito que tenha sido uma compra satisfatória, o sistema fluir rápido, não lento. Eu gostei muito, e recomendo para quem busca um Notebook para o laser, ou mesmo para estudo e trabalhos para a Universidade. É satisfatório, e o preço está bom.
-",positive
+",positive,positive
 negative,"Pela demora na entrega, solicitei o cancelamento! Comprei em outra loja!
-",negative
+",negative,negative
 positive,"Computador com ótimo design, software excelente, como esperado
-",positive
+",positive,positive
 positive,"<empresa> está de parabéns pela rápida entrega e pelo produto que é excelente.
-",positive
+",positive,positive
 negative,"Aparelho esta apresentando tela vermelha apos os 7 dias de uso.
-",negative
+",negative,negative
 negative,"As imagens apresentadas no topo do anúncio não retratam todo o texto da descrição do equipamento. Nas imagens do topo não aparece o teclado numérico e mais abaixo diz que tem (dúbio). No título diz que tem placa de vídeo Nvidia mas nas características no final da página diz ser Intel (dúbio). Enfim, anúncio totalmente confuso, fica complicado confiar no site e imaginar o que de fato será entregue.
-",negative
+",negative,negative
 positive,"Ótimo Custo Benefício. Vale a pena comprar! Recomendo a todos!
-",positive
+",positive,positive
 positive,"O notebook tem um designer muito sofisticado. Recomendo a todos.
-",positive
+",positive,positive
 negative,"Vendido com 8 GB. Mas quando vc consulta tem apenas 5.8 GB. Um absurdo. É fazer o consumidor de otário.
-",negative
+",negative,negative
 positive,"Pesquisei muito antes de compra, sem duvida este notebook tem o melhor custo benefio.
-",positive
+",positive,positive
 positive,"Achei muito bom,recebi muito antes da data prevista.
-",positive
+",positive,positive
 positive,"Adorei o MEU computador, ERA O QUE REALMENTE esperava. Quando comprei, estava ciente que o PRODUTO era BOM, e quando chegou, aí QUE NÃO TIVE DÚVIDAS!!! Ele é nota 1000,00!!!  COMPRE!!! a ENTREGA FOI RÁPIDA E O COMPUTADOR É MARAVILHOSO!!! PARABENS para SANSUNG, <empresa>, TRANSPORTADOR e para MIM que comprei o COMPUTADOR!!!
-",positive
+",positive,positive
 positive,"Até o momento ótimo custo beneficio, utilizo para desenhos CAD e BIM, excel e word.
-",positive
+",positive,positive
 negative,"Produto que não recomendo, com pouco mais de 1 ano de uso o produto apresentou defeito na tela LCD, na ventoinha, e depois na placa mãe. Tenho notebooks bem mais antigos sem ter apresentado qualquer defeito desse tipo em tão pouco tempo de uso.
-",negative
+",negative,negative
 positive,"A entrega foi super rápida, chegou antes do previsto e em perfeito estado. Estou adorando o produto
-",positive
+",positive,positive
 positive,"Achei rápido, e ainda gostei muito porque tem teclado numérico, a bateria carrega rápido e tem uma boa duração.
-",positive
+",positive,positive
 positive,"Produto incrível. Impressionou a mim e quem viu ele até agora, tanto pelo visual quanto pela qualidade. Computados de ótimo desempenho. Comprei para utilizar em trabalhos da faculdade e no trabalho. Mas não deixei de testar alguns jogos como minecraft que rodou bastante bem sem ter que reduzir resolução ou algo parecido. do jeito que instalei o jogo ele está rodando com as mesmas configurações, sendo possível até melhorar os gráficos. Instalei outros jogos mais antigos como GTA San Andreas e ele rodou no máximo. Então estou impressionado. Mas essa não é a finalidade dele. Acho que ele já ta se saindo bem demais. Em relação a entrega o produto chegou com atraso de 5 dias mas não achei isso um problema.
-",positive
+",positive,positive
 positive,"O Produto chegou em perfeito estado e antes da data.
-",positive
+",positive,positive
 positive,"Produto excelente pra qualquer atividade,rápido,alta capacidade de armazenamento,e preço bem razoavel...super recomendo  Gostei muito
-",positive
+",positive,positive
 positive,"Comprei 5 são otimos e com um preço muito bom. Recomendo.
-",positive
+",positive,positive
 positive,"Vendi meu carro a adquiri essa maquina!Andar de onibus passou ser divertido depois dessa compra .Faltou apenas o ar condicionado, mas ta valendo.Excelente produto!
-",positive
+",positive,positive
 positive,"MUITO Bom, este notebook fez minha vida desmoronar, perdi casa, perdi carro, perdi até minha familia e meu precioso Rim, mas estou aqui jogando todos os jogos da atualidade no full a 60fps
-",negative
+",negative,negative
 positive,"A flexibilidade é o q mais chama a atenção, a possibilidade de transformar o notebook em um roteador para até 8 dispositivos, além muito bonito. Vale muito a pena!
-",positive
+",positive,positive
 positive,"Produto bom e no preço, super recomendo! O prazo para entrega foi razoável, veio bem embalado.
-",positive
+",positive,positive
 positive,"Excelente notebook. Chegou rápido e não tem problemas. Memória reduzida, mas suportou todos os meus arquivos.
-",positive
+",positive,positive
 positive,"produto é muito bom. atende todas as expectativas!
-",positive
+",positive,positive
 positive,"Equipamento com ótimo acabamento e muito rápido o desempenho ao executar vários programas ao mesmo tempo. Recomendo!
-",positive
+",positive,positive
 positive,"Gostei muito do produto, e excelente, sastifez minhas expectativas.
-",positive
+",positive,positive
 positive,"Produto muito bom e muito bonito... A única coisa que me deixou desapontado é que me entregaram o produto dia 3 de Janeiro de 2018 e no sistema consta dia 30 de Dezembro de 2017 kkk Mais do resto, super recomendo o notebook :D
-",positive
+",positive,positive
 positive,"Meu produto além de ser excelente, ele chegou 5 dias antes do prazo!!
-",positive
+",positive,positive
 positive,"Até agora excelente,grande custo benefício. Pelo preço não compro nem um i3 na minha cidade.
-",positive
+",positive,positive
 negative,"O computador foi adquirido não tem um mês e já está esquentando muito, travando e lento. Não consegui resolver pelas <empresa>, pois aparentemente terá que ser diretamente com o fornecedor. Não estou gostando do desempenho do produto.
-",negative
+",negative,negative
 positive,"Design lindo, fácil de mexer, ótimo para desenvolver as atividades que preciso! Excelente custo beneficio. Recomendo!
-",positive
+",positive,positive
 positive,"Porém, no meu caso houveram ruídos internos, como se estivesse algo raspando constantemente. Mas o produto é rápido, estiloso e compacto, perfeito para a rotina.
-",negative
+",negative,negative
 negative,"""Considero o Notebook Dell Inspiron i15-5566-A30P Intel Core i5 4GB 1TB Tela LED 15.6"""" Windows 10 - Preto Lento demais!""
-",negative
+",negative,negative
 positive,"Chegou antes do prazo. Veio bem embalado e o notebook está atendendo ao que preciso.
-",positive
+",positive,positive
 positive,"PRODUTO MUITO BOM PARA ATIVIDADES DO DIA DIA. ENTREGA ANTES DO PRAZO, RECOMENDO À TODOS.
-",positive
+",positive,positive
 negative,"É pesado, lento e vem com sistema operacional Windows que não facilita o trabalho, um sistema que sobrevive por causa da fama e monopólio, para quem não pode ter acesso a um Apple, as atualizações quando começam seu ia foi perdido!
-",negative
+",negative,negative
 negative,"Após atualizar a placa NVIDIA o notebook simplesmente parou de funcionar, dando o erro NVLDDMKM.SYS. Não recomendo
-",negative
+",negative,negative
 positive,"Excelente, amei. Super indico. Produto de alta qualidade . Entrega antes do prometido
-",positive
+",positive,positive
 positive,"Atende perfeitamente o que eu preciso. Recomendo. Ótimo custo benefício.
-",positive
+",positive,positive
 positive,"Produto excelente, design moderno, velocidade de processamento boa. Atende perfeitamente aos usuários que utilizam softwares de projetos de desenho técnico.
-",positive
+",positive,positive
 positive,"Muito bom, design super lindo, facil  de manusear, rapido  e funcional.
-",positive
+",positive,positive
 positive,"PRODUTO DE EXCELENTE QUALIDADE, LEVE, TECLADO MACIO, DE FÁCIL TRANSPORTE. SUPER RECOMENDO.
-",positive
+",positive,positive
 negative,"O notebook é ótimo, até o momento. Porém para minha grande decepção, o careegador veio com defeito. Quero a troca do produto.
-",negative
+",negative,negative
 positive,"Atende as necessidades, apenas a bateria poderia durar mais.
-",negative
+",negative,negative
 positive,"O produto  corresponde aos anúncios das lojas <empresa> em 100%.  A entrega foi feita antes do prazo final estipulado.
-",positive
+",positive,positive
 positive,"Produto muito bom super rápido e surpreendeu minhas expectativas
-",positive
+",positive,positive
 positive,"muito bom, mas aquece bastante em jogos e fica facil perceber pela superficie de aluminio.
-",positive
+",negative,positive
 positive,"Gostei recomendo a compra,  muito bom leve e atendeu as minhas necessidade
-",positive
+",positive,positive
 positive,"Produto muito bom, por um preço bem razoável. Entrega dentro do prazo.
-",positive
+",positive,positive
 positive,"Otimo produto, recomendo  produto e a <empresa>.
-",positive
+",positive,positive
 positive,"Produto excelente, recomento. Agilidade na entrega.
-",positive
+",positive,positive
 positive,"Compraria novamente. Produto bem acabado, bonito e o teclado numérico ajuda muito.
-",positive
+",positive,positive
 positive,"Produto de ótima qualidade e a entrega muito rápida , produto chegou em 10 dias corrido, moro em Brasiléia Acre.
-",positive
+",positive,positive
 positive,"leve, rápido, bonito. O único detalhe é a capacidade do SSD, de 128GB. Contanto que a pretensão de uso leve isso em conta, não vejo maiores problemas.
-",positive
+",positive,positive
 positive,"Estou gostando muito do produto que comprei, ainda estou analisando mas muito satisfeita.
-",positive
+",positive,positive
 negative,"Galera eu tenho um positivo estilo esses computadores são frágeis vc tem q ter muito cuidado a bateria não dura nada ,eu tenho um mais não recomendo pra ninguém...
-",negative
+",negative,negative
 positive,"O produto é excelente!!!  O único problema foi referente a entrega.
-",positive
+",positive,negative
 positive,"Design elegante e bem acabado, notebook leve, com bom nível de brilho e bons recursos. Teclado macio e funcionamento estável. Ideal para estudos e pesquisas :)
-",positive
+",positive,positive
 positive,"Excelente notebook, além de muito bonito. Ótima configuração. Atendeu minhas expectativas. E entrega rápida, chegou em 3 dias úteis e grátis.
-",positive
+",positive,positive
 positive,"O produto chegou no prazo, possui bom acabamento e razoável velocidade. Estou muito satisfeito. Recomendo para trabalho!
-",positive
+",positive,positive
 positive,"muito bom para navegar na internet e para serviços graficos como o atocad2018
-",positive
+",positive,positive
 positive,"Muito bom. Atingiu todas expectativas de desempenho e beleza. Perfeito para jogos, ou programas mais pesados. Recomendo demais este produto.
-",positive
+",positive,positive
 positive,"Excelente equipamento. Comprei dois, apesar de não ter tido desconto no segundo que estava com preço acima do primeiro.  Tem um hardware bom, e para o uso de aplicações que exigem mais recursos opera muito bem.  Entrega dentro do esperado.
-",positive
+",positive,positive
 positive,"Atende as minhas necessidade mínimas. Não avalio como excelente porque em uma atualização apresentou problemas e o sistema precisou ser formatado, mas fora isso, o notebook apresenta bom desempenho.
-",negative
+",negative,negative
 positive,"o MELHOR LAPTOP QUE JÁ TIVE EM CAPACIDADE DE PROCESSAMENTO , DESIGN E TUDO MAIS!!!! RECOMENDO. E COM ÓTIMO PREÇO!!!!
-",positive
+",positive,positive
 positive,"Efetivamente comprei o que paguei.Atende perfeitamente minhas necessidades,para trabalhos e algum entretenimento leve é otimo.Valeu cada centavo.SHOW
-",positive
+",positive,positive
 positive,"Produto conforme o anunciado, entrega dentro do prazo.
-",positive
+",positive,positive
 positive,"Bom desempenho ....facil acesso...muito bom compacto tb para locomoção com Ele.
-",positive
+",positive,positive
 positive,"A bateria dura pouco, mas de modo geral tem um exelente desempenho.
-",positive
+",positive,positive
 positive,"Notebook Dell com ótima qualidade, chegou dentro do prazo dado pelo site.
-",positive
+",positive,positive
 positive,"O produto atendeu completamente as minhas expectativas. Muito bom e ótima resolução.
-",positive
+",positive,positive
 negative,"Eu odiei o produto. Era presente para minha mae e ele simplesmente nao funciona. Quero meu dinheiro de volta
-",negative
+",negative,negative
 positive,"""Deixei de dar entrada na minha casa para comprar esse notebook, mais não me arrependo, ele é muito top, configuração  """"parruda"""" da para jogar Crysis no """"maximo"""" vale cada centavo, top muito top..""
-",positive
+",positive,positive
 positive,"Comparei aprovei os criterios para comprar ....RESFRIAMENTO....SOM....TELA....melhores que os concorrentess
-",positive
+",positive,positive
 positive,"Corresponde ao que eu esperava. Chegou rápido e bem embalado.
-",positive
+",positive,positive
 positive,"Produto muito bom e entrega, como sempre, muito rápida
-",positive
+",positive,positive
 positive,"O Laptop até então atendeu as minhas expectativas, tem um ótimo acabamento, é muito rápido; pois eu paguei um ótimo preço por um produto bom, eu recomento a todos, mas só tem um detalhe que eu não observei na hora de comprar, ele não vem com leitor de mídia, mas vale apena!
-",positive
+",positive,positive
 positive,"Me saiu por R$ 1.700, então valeu muito a pena! Não percebi nenhum barulho, como mencionado por alguns consumidores. Na verdade acho que o cooler é perceptível quando o lugar está muito silencioso.     Não vem com entrada de mídia, apesar de isso já estar sendo extinto eu senti falta e diria como um ponto negativo. Outra coisa é a bateria, acho que tem uma duração de 3h, mas pelo preço do produto não da pra reclamar, foi o que a lenovo conseguiu fazer...     O design é muito bonito, recomendo o uso de capa protetora para os desastrados com eu. Resumindo: Melhor custo benefício. Jogo lol, cs go, uso vários editores pesados, e nem sinal de travamento hehe
-",positive
+",positive,positive
 positive,"Entrega quase imediata! muito antes do prazo... Produto perfeito e super bem embalado! Super recomendo o produto e a Loja...
-",positive
+",positive,positive
 positive,"Eu comprei o computador para trabalho e ser banco de dados de um sistema, além de outros apps. Ele é ótimo, resposta rápida e ainda não tive nenhum problema de travamento ou afins. A entrega atrasou um pouco, em torno de 7 dias.
-",positive
+",positive,positive
 positive,"Eu esperava uma performasse maior, mas está funcionando a contento.
-",negative
+",negative,positive
 positive,"Ótimo produto. Rápido, confiável e eficiente. Recomendo.
-",positive
+",positive,positive
 positive,"Excelente compra como um todo da compra até a entrega.
-",positive
+",positive,positive
 positive,"O produto foi o esperado e ele chegou antes do prazo
-",positive
+",positive,positive
 positive,"Produto excelente. Atende as necessidades de todos, tem um ótimo desempenho e um lindo designe. Possui alta potência de som. Adorei.
-",positive
+",positive,positive
 positive,"Produto muito bom. Entrega no tempo previsto. Rapidez e agilidade.
-",positive
+",positive,positive
 positive,"Meus últimos dois notebooks foram da marca DELL, a qual possui ótima reputação e credibilidade, e que me fizeram adquirir o Notebook Dell Inspiron i15-5567.  O notebook tem um design bonito, é relativamente leve e possui boa performance.  Quando o recebi, ele estava com o sistema operacional Linux Ubuntu, e durante os primeiros 3 dias ele chegou a travar várias vezes, forçando-me a reiniciá-lo diretamente no botão Power. Porém, após formatá-lo e instalar o Windows 10 Pro, em nenhum momento ocorreu qualquer tipo de travamento.  Quanto a entrega, considero muito boa, pois foi antes do prazo estipulado, de forma que pude antecipar os trabalhos.
-",positive
+",positive,positive
 positive,"Além de lindo é perfeito para as minhas necessidades. Simplesmente amei.
-",positive
+",positive,positive
 positive,"Tirando os programas nativos Acer, o restante tá ok.
-",negative
+",negative,negative
 positive,"Produto de excelente qualidade e com bom desempenho, foi entregue dentro do prazo, contido até o presente momento não recebi o e-mail da garantia estendida que contratei.
-",positive
+",positive,positive
 negative,"Por se tratar se um produto novo e com essas especificações, ele é bastante lento e trava em funções básicas (usando o google chrome ou o word, por exemplo). Complicado pagar esse preço nessas condições. Não recomendo. Sobre a entrega, foi rápida e chegou tudo certo. Minha queixa é apenas quanto ao produto.
-",negative
+",negative,negative
 positive,"Ótimo, rápido, uso pra edição de fotos, recomendo!
-",positive
+",positive,positive
 positive,"Quanto ao produto,  nada a reclamar, mas quanto a entrega... atrasou bastante, e a entregadora, praticamente, só entrou em contato comigo na terceira tentativa.
-",negative
+",negative,negative
 negative,"O produto foi entregue com defeito de fabricação . Não carrega a bateria . Não consegui falar por telefone paratropas a mercadoria , somente on line . Muita demora para narrar em contato comigo . Enfim , nunca mais desejo comprar nessa loja . Não recomendo para ninguém !!!
-",negative
+",negative,negative
 positive,"Produto leve para carregar, simples de manusear, rápido o processador. Eu e meu marido compramos igual de tanto que gostamos.
-",positive
+",positive,positive
 positive,"Me senti presenteada com a promoção do meu produto
-",positive
+",positive,positive
 positive,"Estou começando a utilizar, por isso a avaliação que é pedida de maneira imediata, não dá para ter toda a garantia. Mas até agora acho muito bom. Ainda melhor do que eu esperava em termos de velocidade.
-",positive
+",positive,positive
 positive,"O produto é excelente e a entrega foi espetacular. Foi a entrega mais rápida que já tive. Parabéns
-",positive
+",positive,positive
 negative,"Ñ é o q esperava, a bateria descarrega muito rápido.
-",negative
+",negative,negative
 positive,"Estou muito satisfeita com o notebook, muito rápido, bonito, leve, carrega rápido a bateria e ela dura bem. Superou minhas expectativas. Preço acessível e qualidade de produtos mais caros.
-",positive
+",positive,positive
 positive,"estou muitissimo satisfeito, vendi meu rim, da minha mulher e do meu filho pra comprar mas  a maquina é muito rápida. CS sem lag. \o/
-",positive
+",positive,positive
 positive,"Produto rápido, tela boa, ótima qualidade, adorei.
-",positive
+",positive,positive
 positive,"produto conforme expectativa. Poderia acompanhar capa e mouse da Samsung.
-",positive
+",positive,positive
 positive,"""Leve, compacto e rápido, veio a substituir perfeitamente meu velho PC (com configurações bem parecidas) e liberando espaço na minha mesa. A placa de vídeo ajuda significantemente no trabalho de edição gráfica. Minha única ressalva é a troca de posição do símbolo """"?"""" no teclado, ficando na mesma tecla que a letra """"W"""", sendo portanto acionar a tecla Alt Gr para poder usá-la. leva um tempo para se acostumar a essa mudança, o que reduz a velocidade de digitação em pouco.""
-",positive
+",positive,positive
 positive,"Entrega dentro do prazo, produto excelente em questão de desempenho, ótimo para jogos e demais funções comuns.
-",positive
+",positive,positive
 positive,"o notebook é ótimo,inclui o Windows 10. é perfeito,não tem o que reclamar.
-",positive
+",positive,positive
 negative,"Comprei ele dia 15 de novembro e dia 15 de Dezembro a tela começou a piscar e buuu ficou cheia de linhas na tela, e não funciona pra nada..  não comprem não presta.
-",negative
+",negative,negative
 negative,"comprei esse produto na certeza de q era confiável, pois estava comprando em.uma das maiores lojas de departamento do Brasil, porém o produto chegou com defeito, tenho q mandar para assistência em Coritiba,  sendo q moro em Goiânia,  totalmente arrependida por ter comprado esse produto. A minha maior indicação é  que não  comprei da positivo e sim das lojas <empresa>. Pensarem duas vezes antes de comprar um produto  dessa loja.
-",negative
+",negative,negative
 positive,"Atende bem, para que não necessita de alta performance.
-",positive
+",positive,negative
 positive,"comprei para trabalhar e jogar jogos relativamente leves.  está dando conta do recado muito bem.
-",positive
+",positive,positive
 positive,"dá pra jogar minecfrat e escutar uns gemidão do zap suave
-",negative
+",negative,positive
 negative,"quando entreguei o presente para os meus filhos eles detectaram que a tela tinha um pixel queimado, mas o prazo de devolução já havia terminado.
-",negative
+",negative,negative
 negative,"Todos defeitos possíveis, mega lento, descarrega rápido, não conseguir usar para finalidade que comprei. Só não devolvi pq comecei usar após uma semana que chegou e por isso perdi o prazo legal.
-",negative
+",negative,negative
 positive,"Boa capacidade interna e externa, o tornando ágil, para trabalho e estudo atende à necessidade, tela grande, bom preço, indico a compra.
-",positive
+",positive,positive
 positive,"Note absolutamente fantástico, super rápido e leve, ergonômico, bonito, e UTIL para o dia dia. Falta a placa de video dedicada para quem quer algo sobrenatural, mas duvido ser melhor por conta disso.
-",positive
+",positive,positive
 positive,"Notebook muito bonito e de bom desempenho, mesmo para o windows 10 que é bem pesado, as conectividades são bem modernas mas confesso que esperava mais da placa de vídeo, não senti grande diferença em relação a Intel hd 620, uma leve melhora apenas.
-",positive
+",positive,negative
 negative,"Ao ligar pela primeira vez já vi que a bateria estava com problemas pois não carregava. Mesmo apresentando alguma carga só funcionou na tomada. Ao tirar da tomada, mesmo com 80% de carga, desligava. Depois não ligou mais. Desisti da compra para adquirir um de outra marca.
-",negative
+",negative,negative
 positive,"A entrega foi dentro do prazo previsto. O computador é lindo, recomendo.
-",positive
+",positive,positive
 positive,"O produto e muito bom para que e estudante e precisa de uma máquina com boas especificações
-",positive
+",positive,positive
 positive,"O notebook tem um bom acabamento e estou muito contente com ele. Não uso para programas muito pesados, mas posso dizer que para usar internet, Photoshop e usar várias abas ao mesmo tempo está sendo excelente, não trava e é muito eficiente até então. Recomendo!
-",positive
+",positive,positive
 positive,"Na categoria é o melhor, tela anti-reflexo, bem nítida e cores vivas. Sou designer gráfico e pra mim tem sido muito útil, roda bem os programas. Estou jogando bem também, rodas jogos pesados em full. Designer fosco é bem útil pois dificilmente fica sujo. Eu recomendo, parabéns samsung.
-",positive
+",positive,positive
 positive,"Bom pra quem usa o notebook pra estudar ou trabalhar. Ainda estou acostumando com o linux,  mas não apresenta grande dificuldades nas tarefas que faço normalmente no computador. Sem contar que tive um notebook positivo que durou 10 anos sem apresentar defeito.
-",positive
+",positive,positive
 positive,"O HD que vem de fábrica é de péssima qualidade. No entanto, se você colocar um SSD, fica fantástico. Tirando o HD, a construção é de alta qualidade, a tela é perfeita, com ótima densidade de pixels, notebook de 14' com tamanho de 13', por causa das bordas super finas.
-",positive
+",positive,negative
 negative,"Boa tarde! Comprei o produto no boleto e paguei, porem o produto chegou com defeito e até o dia de hoje(17/01/2018) não resolveram o problema, o suporte da dell fica de resolver e não resolve, vou ter que acionar o Procon, pois tem quase 30 dias que comprei o produto e não pode usar e pior que esse notebook comprei para dar de presente. descrição o problema: quando colocar para carregar a bateria , ela quando chega em 55% de carga informa que está conectada e sem carregar. passei essa informação para Dell e pediram para fazer vários testes e até hoje não trocaram o notebook para eu dar de presente que tinha prometido e olha o constrangimento causado, dei o produto de presente e a pessoa teve que me devolver o presente e até hoje não retornei com o presente.
-",negative
+",negative,negative
 positive,"Ótimo notebook, excelente preço comparada a qualidade do produto, a entrega foi bem rápida.
-",positive
+",positive,positive
 positive,"Produto de ótima qualidade. Chegou antes do prazo previsto. Um bom atendimento
-",positive
+",positive,positive
 positive,"Primeiro por que gosto da marca Samsung  Pesquisei bastante é preço estava mais encota  que outros site. Produto chegou antes da data.
-",positive
+",positive,positive
 positive,"Para mim atendeu todas as expectativas,comprei dois ,meus filhos amaram ,roda os jogos deles perfeitamente.So tenho elogios quanto a entrega,como sempre as lojas <empresa> é rápida nas entregas,estão de parabéns!
-",positive
+",positive,positive
 negative,"CORRAM, CORRAM, CORRAM DESSE PRODUTO!!! COMPREI O PRODUTO E 1 SEMANA DEPOIS APRESENTOU PROBLEMA NA BATERIA. SÓ FUNCIONA COM O CARREGADOR CONECTADO. NÃO COMPREM JAMAIS!!
-",negative
+",negative,negative
 negative,"Comparando com os outros notebooks que tive, achei este inferior, lento para executar os programas, o mouse é ruim de movimentação. Não entendo muito, não sei se pode ter relação com o sistema, que é windows 10, os anteriores que eu usava eram o windows 7, que é mais leve.
-",negative
+",negative,negative
 positive,"Ótima imagem de tela. Chegou antes do prazo estipulado.
-",positive
+",positive,positive
 negative,"O computador trava quando se usa o power point. E a DELL nao sabe o porque... JOga a culpa na microssoft. material bem fraco, delicado.... nao vale a pena
-",negative
+",negative,negative
 positive,"Ótimo produto q tem como única falha o HD q é lento, mas o resto é excelente.
-",negative
+",negative,negative
 negative,"Não comprem gente péssimo produto chegou num dia no outro nem quiz ligar mais
-",negative
+",negative,negative
 positive,"E um note que atende as minhas expectativas em todos os sentidos,
-",positive
+",positive,positive
 positive,"Muito satisfeita com o produto superou as expectativas de uso
-",positive
+",positive,positive
 positive,"Notebook bonito, rápido, chegou super rápido e custo muito abaixo de outro notebook de mesma configuração e outras marcas.
-",positive
+",positive,positive
 positive,"Recebi o produto com 1 dia após o prazo previsto,mas completamente aceitável por ser fim de ano!! Produto excelente,entrega ok. Para mim o melhor site para compras.
-",positive
+",positive,positive
 positive,"O produto chegou no prazo certo e está funcionando corretamente. Estou satisfeito com a compra.
-",positive
+",positive,positive
 positive,"Prós -- Bonito, leve, rápido. Contra -- Tive que pagar para um técnico tirar o Windows 10 pois é horrível, pede atualizações diárias e demora demais, é lento pra mexer. Mas agora com o Windows 7 o notebook funciona muito bem. Obs.: Uso para trabalho.
-",negative
+",negative,negative
 positive,"Foi tudo perfeito desde a compra até a entrega. Recebi o produto conforme o que eu queria. Eu recomendo esse site.
-",positive
+",positive,positive
 positive,"Atendeu todas as minhas expectativas, o que não gostei foi da transportadora, que deixa a desejar sobre informações da localização e status da encomenda.
-",negative
+",negative,negative
 positive,"tenho este produto a 2 anos , nunca pegou vírus , não trava , bateria duradora , custo beneficio para uso domestico, só os apricativos que são ilimitados precisando desenvolver apricativos para este programa de computador.
-",positive
+",positive,positive
 positive,"Tela grande.  Memória muito boa. Meu filho gostou muito, foi um excelente presente.
-",positive
+",positive,positive
 positive,"Muito bom, está atendendo minhas expectativas. Agora por ser um processador I3 eu pensei que seria bem mais rápido do que meu notebook anterior pois este ainda não está nem cheio de aplicativos mas a velocidade é comparável com os processadores anteriores.
-",negative
+",positive,positive
 positive,"sem alteração , muito bom mesmo , foi eu que escolhi dentro da configuração
-",positive
+",positive,positive
 positive,"Gostei da atenção que vcs tiram tirando dúvidas, sobre a entrega chegou antes do prazo o produto muito bom, ele é além do que eu imaginava.
-",positive
+",positive,positive
 positive,"PC ótimo para quem utiliza para estudos e pesquisas na internet...
-",positive
+",positive,positive
 positive,"Dentro das expectativas ; ainda tive pouco tempo de uso mais não decepcionou
-",positive
+",positive,positive
 positive,"Esquenta bastante rodando jogos como lol, tera, diablo 2 em gráficos altos. ótimo desempenho e design. Adorei e está servindo muito bem todos os meus requerimentos.
-",positive
+",positive,positive
 positive,"Configuração simples mas que atende muito bem as tarefas do dia a dia.
-",positive
+",positive,positive
 positive,"As <empresa> está de parabéns a entrega foi antes do prazo, super rápido! Recomendo.
-",positive
+",positive,positive
 positive,"Áudio excelente, ótimo para quem estuda e muito bonito por sinal !
-",positive
+",positive,positive
 negative,"Fico pensando como uma empresa de renome como a DELL coloca uma máquina tão fraca  como essa no mercado.A insatisfação começa logo na hora de ligar.É uma eternidade até abrir o windows, e continua com o uso,travando e demorando para processar coisas simples.O design do notebook é fraco e sem atrativos,nem se comparando ao VAIO,que ai sim,tem uma máquina elegante e realmente bonita.Me enganei por achar que comprando um notebook DELL core i5 de sétima geração  estava fazendo um ótimo negócio.Para finalizar estou esperando terminar de pagar a máquina para comprar algo realmente de qualidade e que me entregue o que se propõe.
-",negative
+",negative,negative
 positive,"Gostei muito do produto.  Gostei muito do produto.  Gostei muito do produto.
-",positive
+",positive,positive
 positive,"Produto ótimo e chegou em perfeito estado, eu super recomendo porque ele é bom de verdade tem que respeitar a Dell e a empresa <empresa>.
-",positive
+",positive,positive
 positive,"Super recomendo melhor aquisição já realizada e chegou antes do prazo informado
-",positive
+",positive,positive
 positive,"O notbook é auto de data e é incrível como ele facilita nosso acesso, sem falar da aparência.. lindo ... lindo ... lindo !
-",positive
+",positive,positive
 positive,"Produto de ótima qualidade. A única coisa é que a entrega demorou para acontecer. Recebi o produto com atraso.
-",negative
+",negative,negative
 positive,"Só não é excelente porque não vem com o pacote do Office. No mais...é top.
-",positive
+",positive,positive
 positive,"Ótimo produto, de extrema qualidade!! A entrega foi mais rápida do que eu esperava, recomendo a todos!!
-",positive
+",positive,positive
 positive,"É um excelente produto da Samsung,com ´recursos  ótimos.Recomendo.
-",positive
+",positive,positive
 positive,"produto de otima qualidade,recomendo a quem quiser adquirir
-",positive
+",positive,positive
 positive,"Computador excelente, muito rápido e o designer é top!
-",positive
+",positive,positive
 positive,"Tinha visto um comentário sobre a lentidão do produto, e comprovei isso quando chegou. Fiquei frustrado, mas então vi que tinha um monte de atualizações para serem feitas. Depois de fazer, o notebook está muito rápido. Realmente valeu a compra. Recomendo!
-",negative
+",negative,positive
 positive,"Por um preço acessível adquiri um produto com uma qualidade maravilhosa. Obrigado <empresa> por preços imbatíveis e qualidade monstra !!!
-",positive
+",positive,positive
 positive,"produto superou as expectativas, muito bom, valeu a pena.
-",positive
+",positive,positive
 positive,"vale fazer u upgrade, trocar o hd por ssd. Super recomendo.
-",positive
+",positive,positive
 positive,"Só carece de driver de CD e DVD. No mais, o equipamento é bom.
-",negative
+",negative,positive
 positive,"Trabalho com desenvolvimento Android, e rodar o emulador sempre foi um problema, essa máquina com essa configuração e principalmente pelo SSD, melhorou demais o desenpenho e a minha produtividade
-",positive
+",positive,positive
 negative,"Comprei o not quando fui jogar observei que a taxa de fps tava em 30 sendo que ele termina boa placa de vídeo capas de chegar até 192 de ms realizei tudo que meus amigos falaram att entre outros mais permanece assim Américas oque eu posso fazer
-",negative
+",negative,negative
 positive,"De acordo com as especificações técnicas do produto.
-",positive
+",negative,positive
 positive,"Produto atende às expectativas e a negociação foi rápido e fácil
-",positive
+",positive,positive
 positive,"Òtima compra, tela fina super leve e bonito. Recomendo.
-",positive
+",positive,positive
 positive,"Leve, silencioso, muito rápido, som límpido, teclado confortável. Recomendo.
-",positive
+",positive,positive
 positive,"Super indico Vale a pena comprar Ele é lindo Slim E a cor é Maravilhosa (para quem gosta da cor aço escovado)
-",positive
+",positive,positive
 positive,"A Samsung sempre foi minha marca de produtos favorita. Celular, TV, Notebook... E esse Notebook é excepcional, tela, processamento dos dados, ótimo para rodar as coisas diárias, Word, Internet, Youtube tudo na mesma hora, sem travar. Ainda dá para arriscar uns jogos de 2016 para baixo.
-",positive
+",positive,positive
 negative,"No segundo dia de uso, travou, tenho internet de 30 mega e não esta abrindo as páginas da internet, fica travando!!! Irei devolver o produto, sem contar que hoje pela manhã ele iniciou com um ruído interno, como se tivesse algo batendo, que só parou depois de mudar ele de posição.
-",negative
+",negative,negative
 positive,"Se você deseja um computador pra editar vídeo, jogos, etc. Nada pesado, que exige o MÁXIMO DO MÁXIMO do seu PC, ele é super ideal, jogo normalmente, edito videos normalmente. Navego muito bem nos navegadores, parece que minha velocidade de internet é maior do que contratei por causa do hardware desse equipamento. Recomendo. Muito bom.
-",positive
+",positive,positive
 positive,"O que mais me surpreendeu foi a rapidez da inicialização do Windows. Inicialmente o navegador não queria acessar todos os sites, mas em uma ligação para o suporte técnico da Lenovo (excelente atendimento)  e um procedimento orientado por eles, o problema foi resolvido.
-",positive
+",positive,positive
 positive,"Preço bom para as configurações (I7 com placa off board ge-force).
-",positive
+",positive,positive
 negative,"Produto chegou com defeito, não ligava, fiz o contato com a loja e devolvi no dia seguinte.....nao recomendo a ninguém..
-",negative
+",negative,negative
 positive,"Notebook, com design bem fino, leve e atende as minhas expectativas.E o melhor, chegou antes do prazo previsto.
-",positive
+",positive,positive
 positive,"Ótimo custo beneficio , excelente qualidade,compto ideal para levar a qualquer lugar, duração da bateria excelente...
-",positive
+",positive,positive
 positive,"Produto muito bom, mas o teclado apresenta instabilidade.
-",negative
+",negative,negative
 positive,"O produto é ótimo, porem a transportado direct deixa a desejar. Entregou o produto com 3 dias de atraso e não deu nenhuma justificativa, inclusive a <empresa>.
-",negative
+",negative,negative
 positive,"A entrega foi rápida, foi por Sedex, mas ainda prefiro pela transportadora Direct, mas chegou direitinho e rápido, o notebook é muito bom, está funcionando perfeitamente até agora, gostei bastante, Samsung é uma ótima marca.
-",positive
+",positive,positive
 positive,"Eu comprei esse notebook, após várias decepção com a lenovo, notebook caro e defeito que não foram reparados, também tive decepção com a samsung. Então,   pelo excelente preço do notebook positivo e como ele será usado somente para acesso à Internet e impressão, achei custo beneficio. Chegou perfeito, até o momento não tenho problemas. Só estou tendo um cuidado redobrado, pois ele é bem sensível, frágil, então, utilizo e guardo na caixa com muito cuidado. Eu compraria outro desse, se necessário, cansei de comprar notebook caríssimo e só decepção.
-",negative
+",negative,negative
 positive,"Notebook Top... Excelente compra...entrega super rápida (antes do prazo até) com certeza recomendo tanto a Dell qto à <empresa>...
-",positive
+",positive,positive
 positive,"O produto  é bom. Recomendo aos usuários por apresentar um bom  desempenho.
-",positive
+",positive,positive
 negative,"Note Booker deu problema no segundo dia de uso. Fiz a devolução.
-",negative
+",negative,negative
 positive,"é um note muito bom , vale a pena compra lo ..o processador é excelente
-",positive
+",positive,positive
 positive,"Leve e fino por um preço acessivel, peguei no preço de black friday então foi um ótimo custo beneficio, estou usando a um mês, ele é perfeito para meus estudos e trabalhos.O sistema é o Openmandriva e qualquer um com um pouco de paciencia e coragem aprende a usar em um mês, mas se a diferença de preço desse pra versão com i3 for de menos de 300 reais acho melhor o positivo com i3
-",positive
+",positive,positive
 positive,"Vendi minha casa e um Rim e um córnea no mercado negro, mas agora o Minicraft rosa filé....
-",negative
+",negative,negative
 positive,"Comprei para presentear um amigo ele adorou disse quê foi o melhor e mais útil presente na sua vida e ele usa para trabalhar
-",positive
+",positive,positive
 positive,"A mercadoria chegou no prazo e em ótimo estado.Ele atende as minhas necessidades.
-",positive
+",positive,positive
 negative,"Não imaginei que a resolução da imagem na tela fosse tão ruim.
-",negative
+",negative,negative
 positive,"Acredito que fiz uma ótima compra ao escolher o Notebook Samsung Expert22 nas lojas <empresa>, pois além de uma excelente configuração, designer, preço, tive acesso a todas as etapas do processo de entrega e chegou antes do prazo estimado.
-",positive
+",positive,positive
 positive,"Produtos da Dell não tem comparação. Muito bom mesmo.
-",positive
+",positive,positive
 positive,"Produto atendeu minhas expectativas e a entrega foi muito rápida, recebi bem antes do prazo previsto.
-",positive
+",positive,positive
 positive,"Este  é o quarto produto que adquiri da marca. Todos foram satisfatórios. Este ultimo  adquiri para substituir um I5 da Lenovo que desisti de usar por tão lerdo. Este I3 da Asus funciona mais fluído, sem os travamentos constantes do Lenovo. Além disto, foi bem mais barato, e ainda veio com leitor de CD / DVD, ausente no da outra marca.
-",positive
+",positive,positive
 positive,"Nao vi defeito ate agr ja tenho ele 1 semana e te agr nao deu problema e vem super protegido em duas caixas etc (nesse momento eu estou usando ele..) muito bom viuuu
-",positive
+",positive,positive
 positive,"Preço incrível, só vai me custar um Rins ,mas para que dois rins mesmo se posso usar só um e ainda usufruir de uma maquina dessa com essa super placa de videio .
-",negative
+",positive,positive
 positive,"Achei o preço excelente, então eu comprei 3, pretendo ouvir musica e usar internet.
-",positive
+",positive,positive
 positive,"O produto chegou no prazo estipulado e é muito fácil de manusear. Super recomendo.
-",positive
+",positive,positive
 positive,"Ótimo produto, atendeu às minhas expectativas. Chegou bem antes do prazo. Estou muito satisfeita.
-",positive
+",positive,positive
 negative,"Na segunda vez q tentei usar não funcionou mais estou por uma semana tentando entra em contato com a Asus para obter a garantia é até agora nada. Espero conseguir pelo menos mandar para assistente para poder usar.
-",negative
+",negative,negative
 positive,"Excelente produto! Vale a pena o investimento! Conjunto muito equilibrado, desempenho bom para jogos não muito pesados.
-",positive
+",positive,positive
 positive,"100 satisfeito com o note book, vale muito apena adquiri
-",positive
+",positive,positive
 positive,"Muito bom, excelente produto, bem embalado, chegou em perfeito estado, funcionando tudo certinho como deveria. Parabens recomendo bastante a compra deste produto
-",positive
+",positive,positive
 positive,"Produto de excelente qualidade, aconselho para quem deseja um notebook rápido e estável.
-",positive
+",positive,positive
 positive,"A compra foi rápida e fácil. O produto chegou antes da data prevista e em perfeito estado. O produto é excelente!!!
-",positive
+",positive,positive
 positive,"Ola, bom dia!  Recebido corretamente. Muito obrigada!
-",positive
+",positive,positive
 positive,"O produto é ótimo, chegou intacto e muito antes do prazo combinado.
-",positive
+",positive,positive
 positive,"Comprei para minha filha, produto bom, bastante versátil.
-",positive
+",positive,positive
 positive,"Produto muito bom e foi presente para o meu afilhado.
-",positive
+",positive,positive
 positive,"Queria um computador para tarefas de rotina e que me proporcionasse qualidade de vídeo para séries e filmes. Este notebook tem me atendido neste sentido.
-",positive
+",positive,positive
 positive,"otimo notebook , configuração excelente , acabamento premium muito sofisticado... velocidade inigualável dentre os  pcs que já tive. Entrega na <empresa> foi super rápida . RECOMENDO
-",positive
+",positive,positive
 positive,"Produto muito bom, perfeito mesmo, entrega rápida, produto melhor do que eu esperava.
-",positive
+",positive,positive
 positive,"Ótima qualidade de construção. Não é pesado pra um computador de 15.6. Som excelente. Os poréns são q a porta vga nao entra até o fim (mas funciona), a interrogação no teclado fica num lugar estranho (tem q usar alt gr) e tem hora q parece q o windows 10 é meio pesado
-",positive
+",positive,positive
 negative,"A  empresa esta de parabéns pela agilidade da entrega,mais o produto não presta seria mais interessante juntar mais um pouco de grana e comprar outro produto para lhe atender pois esse e dinheiro jogado fora,leiam o que escrevo pois me arrependi.
-",negative
+",negative,negative
 positive,"Ele é um produto excelente,super leve e sem falar que é dujeito que eu imaginei.E a entrega foi super rapida.
-",positive
+",positive,positive
 positive,"a entrega foi rápida, o produto é excelente e o preço foi cerca de 400 reais a menos em relação ao mesmo produto em lojas físicas de outras empresas.
-",positive
+",positive,positive
 positive,"bom laptop para escritório apesar do Windows 10. Programas 3D leves como Sketchup rodam bem.  Não acompanha os jogos contemporâneos.
-",positive
+",positive,positive
 positive,"Acabamento, velocidade, comodidade, recomendo. Não deixa a desejar pra nenhuma máquina, gostei muito.
-",positive
+",positive,positive
 positive,"Entrega rápida e sem problemas. Atendeu as expectativas
-",positive
+",positive,positive
 positive,"Pesquisei por meses e consegui o melhor custo benefício do mercado.
-",positive
+",positive,positive
 negative,"Produto veio com defeito e não acessa nada. Liguei pra assistência técnica e não foi possível resolver pediram pra levar numa assistência na Barra Funda e não era lá mas sim em Pinheiros. Muito  ruim.
-",negative
+",negative,negative
 positive,"Além de chegar dentro do prazo o produto chegou em ótimo estado e é maravilhoso. Podem comprar sem medo algum!!!
-",positive
+",positive,positive
 negative,"Poucas existem palavras para definir uma coisa tão ruim, quanto mais quando falo de um notebook que compro para utiliza-lo em locais com pouco ou nenhum fornecimento de energia elétrica, pois a bateria é um lixo não suporta um segundo se desconectado da tomada.
-",negative
+",negative,negative
 positive,"Máquina boa, design bonito, teclado macio. Bom custo beneficio. Às vezes pensa demais, poderia ser mais rápido e mais leve. Recomendo pela configuração equilibrada.
-",positive
+",positive,positive
 positive,"Boa configuração, entrega antes do prazo. Recomendo!
-",positive
+",positive,positive
 positive,"Chegou antes da data prevista, muito bem embalado, funciona perfeitamente.
-",positive
+",positive,positive
 positive,"Produto de qualidade, leve, maus pad que se assemelha ao Apple e memória SSD que faz a diferença. Tela touch muito boa de usar e bateria que dia mais. Recomendo.
-",positive
+",positive,positive
 negative,"Só funciona conectado na tomada, maior dor de cabeça só em entrar em contato com a loja e a assistência só pra trocar. Odiei
-",negative
+",negative,negative
 positive,"FIQUEI BASTANTE SATISFEITA COM O PRODUTO QUE COMPREI. A ENTREGA FOI  RÁPIDA .
-",positive
+",positive,positive
 positive,"Um ótimo custo-benefício. A Bateria dura bastante, tem uma excelente resposta ao abrir os programas e inicializa muito rápido.
-",positive
+",positive,positive
 positive,"Muito bom, excelente configuração por um preço bom.
-",positive
+",positive,positive
 positive,"Excelente oportunidade Equipamento que atendeu minha necessidade
-",positive
+",positive,positive
 positive,"Recomendaria sem problemas, ótimo produto. Entrega  adiantada. Parabéns!
-",positive
+",positive,positive
 positive,"Falta um suporte na região. O atendimento por telefone deixa muito a desejar.
-",negative
+",negative,negative
 positive,"Muito bom custo e benefício.mas estou testando ainda mas pelo que percebi é muito bom. A loja entregou bem rápido, só falta entregar um outro produto que comprei no mesmo dia e até agora não entregaram.
-",positive
+",positive,negative
 positive,"Muito bom eu recomendo a tds, chegou muito rápido !!!
-",positive
+",positive,positive
 positive,"O notebook cumpre o que promete, o único problema que os compradores devem ficar atentos é que nele a versão do Office já instalada é a 2016 e você terá que assinar uma conta para poder acessá-la já que o teste dura poucos dias, e além do mais o notebook não possui entrada para cd, vale ressaltar também que ele não possui entrada para adaptador de sd card.
-",negative
+",negative,negative
 positive,"O único ponto fraco é a bateria que não dura muito, principalmente quando utilizo programas mais pesados. Gostei do desempenho. É rápido. Consegui rodar todos programas e jogos que testei até agora. Todos em configurações entre médio e máximo.
-",negative
+",negative,negative
 positive,"O notebook atende totalmente às minhas necessidades. Gostei muito e recomendo.
-",positive
+",positive,positive
 positive,"Realizei a compra e dentro de 12 dias já obtive o produto em excelentes condições. Super indico.
-",positive
+",positive,positive
 positive,"Excelente produto para necessidades de trabalho e uso pessoal. Início estranhei o teclado, mas já acostumei.
-",positive
+",positive,positive
 positive,"muito bom notebook pelo preço e oque entrega, só tem um detalhe o hd faz muito barulho so pesquisar ai no youtube ideapad 320 faz um barulinho chato.
-",negative
+",negative,negative
 positive,"Excelente produto,entrega chegou no prazo correto,
-",positive
+",positive,positive
 positive,"Vir com  distro do linux faz o preço cair, e é só formatar e por windows.
-",negative
+",negative,negative
 positive,"Fantastic this laptop, I would like to buy several of this...
-",positive
+",positive,positive
 positive,"Muito bom atende bem as expectativas e as necessidades do universitário
-",positive
+",positive,positive
 negative,"Tenho dois Notebook Dell Inspiron i5, ambos apresentaram problemas. Um deles não funciona mais o teclado e nem o som. O outro apresentou problema na placa mãe  e a assistência da DELL  cobrou R$ 1.200,00 (isso mesmo) para  fazer o reparo e vc. só encontra a placa na  Dell. Ou seja, não compensa consertar.
-",negative
+",negative,negative
 positive,"Cumpre o que promete. Notebook fantástico. Melhor custo benefício.
-",positive
+",positive,positive
 positive,"Comprei a pouco tempo entrega super rápida , e produto me parece ser muito bom
-",positive
+",positive,positive
 negative,"Existe a possibilidade de comprar uma máquina e eventualmente ela dar problema, ocorre que comprei duas e elas estão em constante problema e iguais. Para ligar, vc pode primeiro liga, depois vai tomar banho tomar seu café da manha e ai sim ela terá ligado. Quando liga o monitor pisca feito falta de energia. tente conectar em seu televisor, impossível, a TV sansung não consegue espelhar a máquina, não consegui resolver isto. Por vezes elas apresentam apagão e diz que foi desligada incorretamente, Gente, foram as minhas primeiras compras de um Dell, e esta semana tive de adquirir mais dois para a empresa e não tive na Dell minha opção.  Um computador I7 de 7a. geração, é brincadeira de ruim. Cada um na sua, mas sugiro outra opção.
-",negative
+",negative,negative
 positive,"Notebook lindo, leve, rápido, qualidade imagem excelente. Foi indicação e estou amando o produto.
-",positive
+",positive,positive
 negative,"Meu notebook chegou dentro do prazo. Dia 18/01 no final da tarde. Fui utiliza-lo no dia 20/01 para fazer um trabalho, no paint mesmo.  Quando eu estava quase terminando, simplesmente o notebook desligou e eu perdi tudo que havia feito. Alem do que ele trava! Solicitei devolução  e aguardo o reembolso.
-",negative
+",negative,negative
 positive,"Entrega no prazo esperado. Ótimo notebook. Sem problemas. Por enquanto estou gostando muito. Estou a 1 mês com ele.
-",positive
+",positive,positive
 negative,"Muito Ruim, ele deu problema no mesmo dia realmente fiquei decepcionada com esse produto
-",negative
+",negative,negative
 positive,"Ótimos produtos, bom acabamento, porém faltou o leitor de cd/dvd
-",positive
+",positive,positive
 positive,"Excelente. Recomendo. Potente e rápido e fácil manuseio.
-",positive
+",positive,positive
 positive,"PROduto maravilhoso, leve, pratico, bonito, e configuração excelente. Recomendo demais!!!
-",positive
+",positive,positive
 positive,"Apesar de não usar muito o aparelho, ele atende todas as minhas necessidades. Design bonito, a bateria poderia durar mais, mas ta ótimo, pelo preço está de bom tamanho.
-",positive
+",positive,positive
 positive,"já conheço o equipamento, então sei da qualidade do produto
-",positive
+",positive,positive
 positive,"Ótimo Notebook, e consegui comprar por um ótimo preço. Valeu muito a pena.
-",positive
+",positive,positive
 positive,"Estou muito satisfeito com este notebook. Atende às necessidades.
-",positive
+",positive,positive
 positive,"Tudo perfeito: compra, prazo de entrega, notebook de excelente qualidade. Indico.
-",positive
+",positive,positive
 positive,"Produto conforme descrição no anúncio. Atende todas as expectativas. Recomendo!
-",positive
+",positive,positive
 negative,"meu amigo compro para joga fifa 18 e nao pego ! ele disse que travava nos treinamentos , foi um desperdicio !!!
-",negative
+",negative,negative
 positive,"É muito bom, mas as vezes dá umas travadas que não deveria pela qualidade do produto...
-",negative
+",negative,negative
 positive,"O produto é ótimo e o design é incrível. Cumpriu com todas as minhas expectativas.
-",positive
+",positive,positive
 positive,"Chegou rápido e tudo certo conforme anuncio.  Recomendo.
-",positive
+",positive,positive
 positive,"Parabéns a <empresa>, prazo de entrega rápido, excelente serviço.
-",positive
+",positive,positive
 positive,"Excelente! Ótimo produto! Tanto o produto quanto o atendimento conforme o esperado!!!!!!!!!
-",positive
+",positive,positive
 negative,"O produto veio com problemas de lentidão, não carrega nada. A <empresa> me deixou por conta própria me comunicar com a positivo que não resolveu nada e não responde as mensagens que envio.
-",negative
+",negative,negative
 negative,"No dia 11/01 comprei este produto,só no dia 22/01 que nota fiscal ficou pronta,era pra de chegado no dia 23/01 e ater agora nada...meu produto ainda não foi enviado pra transportadora..só dor de cabeça..mt cuidado com este produto é lojas <empresa> e péssima
-",negative
+",negative,negative
 positive,"O produto ASUS VIVOBOOK superou minhas expectativas e o site de vendas da <empresa> é sempre muito eficiente. EU RECOMENDO!
-",positive
+",positive,positive
 positive,"Usei dois dias e é bem bom, no inicio achei lento mas depois ficou bom
-",positive
+",positive,positive
 positive,"Gostei muito do produto. Moderno e com as características que preciso.
-",positive
+",positive,positive
 negative,"Produtor de péssima qualidade! Não é o que promete ser!
-",negative
+",negative,negative
 positive,"NA VERDADE FIQUEIUM POUCO PREUCUPADO PQ NÃO CONHECIA NOTEBOOK LG SÓ CONHECIA CELULARES MAS MIM SUPRIENDEU ATE O MOMENTO MINHA ESPERIENCIA COM O NOTE ESTA MUITO BOA.
-",positive
+",positive,positive
 positive,"Boa máquina. Porém não vai com reprodutor de DVD/CD, mas vai com bluetooth integrado. Tem 3 portas USB, o que é bom. O botão de ligar e desligar não tem luz, mas no fim das contas não influencia em nada. O botão de caps lock tem luz forte quando o botão é ativado, e a luz é apagada quando o caps lock é desativado. Teclado com botões mais colados um nos outros, dificultando um pouco pra quem utilizada anteriormente teclado com botões mais espaçosos. A única desvantagem é a falta de leitor de DVD/CD, e o peso do notebook, é um pouco pesado. O leitor de DVD/CD terá que comprar a parte e instalar no espaço interno, ou comprar um externo que conecta na porta USB. De resto está ok para o preço. Um excelente custo benefício da excelentíssima marca Dell.
-",positive
+",positive,positive
 positive,"entrega bem mais rapida que o previsto, otima interface e muito pratico.
-",positive
+",positive,positive
 positive,"esse produto vale apena usá-lo é muito bom. recomendo a todos quem possui esse aparelho é muito bom, .
-",positive
+",positive,positive
 positive,"Um pouco lento, alguns programas pré-instalados apresentam falhas, mas no geral, um bom produto.
-",negative
+",negative,negative
 negative,"Estou com problema no equipamento há vários dias e a Dell não consegue solucionar.  Garantia em Domicílio da DELL é pura balela!
-",negative
+",negative,negative
 positive,"1500 reais mais barato que no SiTE DELL. COMPLETO TELA PERFEITA
-",positive
+",positive,positive
 positive,"Ainda é recente pra eu falar muito bem do produto pois, agora que vou começar a fazer uso dele frequente. Mas acredito que pelas informações de terceiros que já possuem o produto, fala muito bem dele.
-",positive
+",positive,positive
 positive,"Ótimo produto, porém seria melhor ainda se a sensibilidade do touchpad tivesse resposta mais rápida ao comando.
-",negative
+",negative,negative
 positive,"Amei por ser leve, comodo para locomover na bolsa para trabalho, moderno, rápido, completo.!
-",positive
+",positive,positive
 positive,"Produto de excelente qualidade e entrega muito rápida
-",positive
+",positive,positive
 positive,"comprei para dar de presente e a pessoa adorou o produto esta super satisfeita, nos comentarios eu quase desisti mas analisei tudo e achei que as pessoas que tiveram uma avaliação ruim era porque queria uma maquina potente e não um completemento para suas tarefas basicas e esse produto corresponde muito bem ao que se espera de um bom notebook.
-",positive
+",positive,positive
 negative,"Logo quando ia fechar a compra, aumentaram o valor. Aff
-",negative
+",negative,negative
 positive,"Até o momento está perfeito, atende minhas necessidades! Recomendo!
-",positive
+",positive,positive
 positive,"O produto é de ótima qualidade, supre bem pra quem usa computador pra estudar, usar o office, assistir videos/netflix. É leve, não pesa muito na mochila.
-",positive
+",positive,positive
 positive,"otimo para navegar, assistir filme . ouvir musicas e muitas outras coisas
-",positive
+",positive,positive
 positive,"As <empresa> fornece exatamente o que divulga. Sem propaganda enganosa. O produto é realmente muito bom e está de acordo com a propaganda exibida.
-",positive
+",positive,positive
 positive,"Estava procurando um notebook de 14 polegadas com boa configuração, o que hoje em dia é difícil, pois a maioria são com tela de 15. Dentro das possibilidades e das avaliações optei por esse. Achei um pouco lento, então tirei o hd e coloquei um ssd de 240, e fiz do HD dele um externo. Ficou show! Claro que não é top de linha, seu teclado não é retroluminoso, não acende a tecla capalock e a tela tem reflexos, além do acabamento ser de plástico. Mas pelo preço vale a pena, ele é bonito, leve, lembra um ultrabook por ser fino, já que não tem drive de dvd. Como estava procurando algo mais compacto e leve para facilitar o transporte em viagens achei ele ótimo nesse sentido. Gastei mais 300 reais para colocar o ssd, ( esse mesmo modelo com ssd sai 3 mil) peguei ele na promoção por 1850, valeu a pena pelo preço. Não me arrependo, acho que vale o custo beneficio. Para a minha finalidade de uso estou satisfeita.
-",positive
+",positive,positive
 positive,"Produto muito bom. Além de ser bonito é de muita qualidade. Recomendo.
-",positive
+",positive,positive
 positive,"A entrega foi bem rápida e o produto chegou em perfeito estado, mas, dependendo da tarefa a fazer nele ele trava um pouco, principalmente se for algo muito pesado como jogos. Para o restante é perfeito!
-",negative
+",negative,negative
 positive,"Produto excelente, inicialização super rápida... A entrega da <empresa> foi na metade do prazo, que há era curto. Muito satisfeita com a compra!
-",positive
+",positive,positive
 positive,"o produto foi dentro do anunciado. A entrega foi dentro do combinado, O produto veio intacto.
-",positive
+",positive,positive
 positive,"Excelente produto, recomendo! Preciso aprender mais sobre o produto...
-",positive
+",positive,positive
 positive,"Parabéns pelo compartimento com seus clientes, atendimento rápido e excelente !!!
-",positive
+",positive,positive
 negative,"Vem faltando vários programas que antigamente vinha quando comprava e que agora você tem que pagar pra ter. Exemplo o pacote office.
-",negative
+",negative,negative
 positive,"Equipamento muito bom, ágil e de alta performance. recomendo,
-",positive
+",positive,positive
 positive,"Cumpre as finalidades a que se propõem com um bom desempenho.
-",positive
+",positive,positive
 positive,"Notebook atende as minhas necessidades. Bem melhor que meu velho HP.
-",positive
+",positive,positive
 positive,"Gostei muito do produto e o preço tava bem bacana!
-",positive
+",positive,positive
 negative,"Achei que a velocidade de processamento fosse mais rápido até navegar na internet demora!
-",negative
+",negative,negative
 positive,"""Comprei há um mês. O notebook é bom. Parece um 14"""" não prejudica em nada seu tamanho de tela. O volume é bom, as teclas também além de ter opção de iluminá-las para usar no escuro. A função tablet é um charme e comodidade a mais, com uma boa resposta no touch. O acabamento é ótimo! A parte exterior é tipo um aço preto escovado, porém fica as marcas de dedo, pra quem se incomoda, pra mim achei muito bonito. As vezes não dá a impressão de estar num Core i5 mas não significa que ele é lento. A bateria dura umas 6 horas e o carregamento é consideravelmente rápido. O único ponto que deixa um pouco a desejar é a tela, se quiser ver um filme ou alguma coisa e estiver um pouco de lado não conseguirá enxergar nada, tem que estar de frente pra ele. Recomendo desde que o encontre por até 2 mil reais, encontrei por menos que isso e creio que fiz a melhor escolha.""
-",positive
+",positive,positive
 positive,"Rápido e potente, está com um mês de uso e não vejo travar em nenhuma operação! Sou programadora e utilizo vários softwares ao mesmo e tempo, ele tem suportado bem.
-",positive
+",positive,positive
 positive,"Muito bom; só acho que o teclado deveria ser iluminado.
-",positive
+",positive,positive
 positive,"Gostei muito do produto, tem um peso ideal para levar a qualquer lugar e a entrega foi super rápida!
-",positive
+",positive,positive
 positive,"Excelente qualidade, bonito, moderno, fácil de usar. Exatamente o que esperava!!
-",positive
+",positive,positive
 positive,"No meu relato, professor de info e comunicações, analiso esse not positivamente. Traz o bluetooth, 15 meses de McAfee gratuitos, 3 entradas USB, HDMI e SD card, o que muito se considera pelo seu valor. O teclado é super macio e confortável, um padrão um pouco diferente por ser mais estreitos, mas nada que dificulte a digitação, muito pelo contrário. O que deixa a desejar é a pouca memória ram. Pela config. da máquina (7ªg. do Core i5), deveria portar ao menos 8mb, o que diminuiria os bugs que as vezes acontecem. Vejo que necessitária de alguns LEDs na parte frontal, mas isso é quase que incomum quando tratamos de Dell. A bateria é excelente, chegando a durar 4:30h de uso contínuo. Vale a pena. Bom custo benefício. Faz jus, e muito jus ao preço!
-",positive
+",positive,positive
 positive,"Somente um ponto negativo as vezes ao baixar algum filme por exemplo ele trava.
-",negative
+",negative,negative
 positive,"Sou professor de MATEMÁTICA. Uso o notebook para elaborar provas, estudar e visualizar e manipular imagens, além do acesso as redes sociais. Máquina ágil, excelente custo benefício. Muito satisfeito, inclusive com a duração da bateria.
-",positive
+",positive,positive
 positive,"Note bem fino, teclado maravilhoso. Quanto ao desempenho, ainda estou avaliando.
-",positive
+",positive,positive
 positive,"Produto bom, com várias opções de uso e prático, pois é notebook e tablet ao mesmo tempo.
-",positive
+",positive,positive
 negative,"O Notebook e muito lento, demora iniciar, Trava constantemente!! O aparelho só tem 2 meses de uso. Muito decepcionado!!
-",negative
+",negative,negative
 positive,"O produto chegou rápido e atendeu minhas expectativas!
-",positive
+",positive,positive
 positive,"Muito bom, bonito, rápido, um pouco grande mas gostei bastante :D
-",positive
+",positive,positive
 positive,"É uma excelente compra pessoal, a <empresa> está de parabéns, pois eu comprei na sexta a noite e terça feira já havia entregue. Realmente  nunca vi nada tão rápido, parece que até foi comprado na loja física, muito bom tb o sistema operacional linux, apesar de muitos não concordarem, é só uma questão de adaptação, na verdade ele esse sistema é superior ao windows.  Recomendo muito....
-",positive
+",positive,positive
 negative,"Optei pela marca mas tive a pior decepção de minha vida! O primeiro que chegou travou na configuração inicial, precisou ser trocado; com o segundo eu não tive a mesma sorte, pois gostaria que também fosse substituído. Resumindo, estou há um ano com essa bomba, não tenho mais garantia (coisa que não altera em nada, já que durante o período meus problemas nunca foram resolvidos) e logo vou ter que adquirir outro note, mas dessa vez, voltarei para o Acer, pois o meu de 8 anos ainda funciona razoavelmente bem.
-",negative
+",negative,negative
 positive,"Parabens para as <empresa> pela entrega nota dez porque chega bem antes do cobinado na compra
-",positive
+",positive,positive
 positive,"Muito satisfeito com a aquisição! Compra certa! Top demais.
-",positive
+",positive,positive
 positive,"Muito bonito, um computador para funções básicas, bateria dura muito, o computador carrega em cerca de 1 hora e 30 minutos e não esquenta. Deixa a desejar pois não tem leitor de DVD e CD
-",positive
+",positive,positive
 positive,"Notebook bonito, leve, prático e com boa capacidade. Chegou um dia antes do prazo de entrega. Gostei!
-",positive
+",positive,positive
 positive,"ótimo not com muita tecnologia muito rapido recomendo com certeza
-",positive
+",positive,positive
 positive,"Comprei o equipamento pensando que ele iria durar sem que eu mexesse na configuração dele. Então tive de colocar mais um pente de memoria para que ele abrisse o Windows mais rápido, isso até ajudou mas ainda assim não estava do jeito que gostaria a vantagem dele é também poder colocar um SSD M.2 que pode trabalhar em conjunto com o próprio hd que já vem nele então fiz a opção e realmente a performance mudou da água para o vinho. Recomendo o equipamento pois ele é simples, bem acabado e com ótimo custo beneficio.
-",positive
+",positive,positive
 negative,"Pode ser bom em outros quesitos, mas um de extrema importância e básico não possui: Não acessa o meu HD Externo Seagate 1 TB. Fiz contato com a Lenovo que diz não ser ser um problema dela, mas fica claro que se trata de um problema na máquina pois pesquisando nos fóruns da lenovo vemos que vários usuários passam pelo mesmo problema com ideapad320 com diversas marcas de HD Externo. Além disso o HD funciona em todos os outros computadores, inclusive em um lenovo mais antigo, e também fiz contato com o suporte da Seagate que confirmou que não existe nenhuma incompatibilidade com sistema ou máquina.   Se vc precisa usar um HD externo com esse notebook, não compre.
-",negative
+",negative,negative
 positive,"Excelente produto. Ótimo custo-benefício. Recomendo.
-",positive
+",positive,positive
 positive,"""Muito lindo, e muito rápido ( pelo menos para tarefas básicas como fazer pesquisas, assistir vídeos, netflix ) muito bom!! Chegou antes do prazo de beeemm embalado rsrs!! Muito contente!!  Ainda estou testando mas mostrou ser um notebook de muita qualidade, afinal """"Dell""""!""
-",positive
+",positive,positive
 positive,"Atendeu nossa expectativa chegou antes do prazo dado ótima entrega produto funcionando muito bem recomendo a compra do mesmo
-",positive
+",positive,positive
 positive,"Muito bom , rápido, compacto , bonito , processador excelente desempenho e muitos recursos que meu antigo DELL não tinha.
-",positive
+",positive,positive
 positive,"Produto bom. Preço bom. A entrega foi excelente, como tudo na <empresa>. O que atrapalha nesses novos computadores é a quantidade de atualização e informações que acabam deixando o computador um pouco lento.
-",negative
+",negative,negative
 positive,"Muito lindo, rápido e mais teclado para recorrer na navegação, entrega no prazo estipulado pelo DELL. Estão de parabéns. Valeu
-",positive
+",positive,positive
 positive,"Recomendo,um bom preço e boa performance do Windows 10!
-",positive
+",positive,positive
 positive,"Entrega pela transportadora  bem Rápida. Produto muito bom excelente configurações mais as atualizações deixam ele lento (selecione não permitir atualização)
-",negative
+",negative,negative
 positive,"Ele chegou em perfeito estado cem nenhum arranhão é um excelente notebook funciona perfeitamente tão de parabéns valeu
-",positive
+",positive,positive
 positive,"Gostei muito do notebook, a Samsung está de parabéns!  Agradeço as Américanas, pois entregou o  produto em tempo hábil. O produto chegou sem problemas. Recomendo com certeza.
-",positive
+",positive,positive
 positive,"Excelente!!!! Super recomendo! Ótima qualidade superou minhas expectativas muito bom mesmo.
-",positive
+",positive,positive
 positive,"muito excelente o produto  adorei super recomendo , muito bom mesmo.
-",positive
+",positive,positive
 negative,"Bateria não é removível e não tem entrada de Disco rígido....em relação a entrega chegou antes da data...
-",positive
+",positive,negative
 positive,"Recomendo ótimo produto, além de design bonito por ser vermelho
-",positive
+",positive,positive
 positive,"Acho que tem uma configuração forte, um preço muito bom, e a única coisa que poderia ter também seria um SSD, porém ele já tem um slot vazio que é possível colocar o SSD, então é um excelente produto.
-",positive
+",positive,positive
 positive,"O notebook e muito bom eu adorei e recomendo ! o único ponto fraco e que só tem dias entradas USB, e não tem leitor de mídia, mas e um ótimo negocio !
-",positive
+",positive,positive
 positive,"super recomendo, ótimo produto, super recomendo, ótimo produto,
-",positive
+",positive,positive
 negative,"Adquiri o Notebook Samsung E25s, quando liguei o aparelho começou um chiado que quando em silêncio é horrível e irritante. Entrei em contato com a Samsung, visto que já havia passado 1 semana que recebi o produto,pois estava viajando e não pude resolver antes, pediram para encaminhar na assistência técnica (CenterCell). Para minha surpresa, o notebook não veio reparado é muito menos com um laudo ou algo da empresa explicando sobre. Esse barulho não é normal!!!
-",negative
+",negative,negative
 positive,"Ainda no tive tempo de usar, mas assim que usar avaliarei.
-",positive
+",negative,positive
 positive,"O modelo da descrição esta errado, se for adm e 17ACL não 15 ACL
-",negative
+",negative,negative
 negative,"Recebi o note e nao ligou. Tentei por um dia e quando ligou ao usa/lo o mesmo reniciava. Não recomendo, estou esperando a retirada do note para devolução e cancelamento da compra.
-",negative
+",negative,negative
 positive,"Chegou antes do prazo, ótimo computador gostei bastante, Cortana sua linda s2
-",positive
+",positive,positive
 positive,"Muito bonito e ágil. Ainda estou fazendo algumas adaptações para uso de trabalho, mas já é notável sua agilidade de leitura.
-",positive
+",positive,positive
 negative,"Muito lento, devolvi a loja, e estou aguardando reembolso para efetuar nova compra de outro notebook. Mais esta difícil . Não consigo entrar em contato com a loja. Sempre a mesma mensagem  .e agora?
-",negative
+",negative,negative
 positive,"achei caro demais. existe similares no mercado bem mais barato.
-",negative
+",negative,negative
 positive,"O produto é ótimo, eu recomendo, porém tenho que relatar minha enorme insatisfação com a <empresa>. Meu pedido foi aprovado no dia 02/12 e o prazo para a entrega era até o dia 28/12. Chegou um dia após o prazo acabar. Eu já tinha comprado várias vezes na <empresa> e não tinha tido esses problemas, porém agora está se tornando frequente. Minha irmã acabou de comprar um celular e está passando pelo mesmo problema, cada vez que entramos em contato com a <empresa> a empresa sempre dá a mesma resposta. Essa transportadora direct também não tem respeito pelo cliente.
-",negative
+",negative,negative
 positive,"Fiquei impressionado com o serviço da Direct. Fiz a compra na sexta-feira dia 02/02/2018, no dia 05/02/2018 minha compra já tinha chegado na minha residência! Estão de parabéns! E quanto ao notebook, só uso pra game e até agora só joguei o csgo, rodou muito limpo! Notebook até agora, nota 10!
-",positive
+",positive,positive
 positive,"Estou usando a uma semana e até o presente momento está funcionando perfeitamente, rodou até jogos pesados.
-",positive
+",positive,positive
 positive,"Super adorei o produto, superou minhas expectativas. Sem falar na entrega e atenção recebida pela loja, excelente!
-",positive
+",positive,positive
 negative,"Se você dá importância ao touchscreen ou quer mais usar o notebook como tablet, não compre este aparelho. Tenho uns 8 meses com ele e volta e meia a tela touch deixa de funcionar e não há nada que você faça que resolva, olhe nos foruns da própria Lenovo para ver quantas pessoas têm o problema, tentam de tudo e nada resolve. O aparelho parece ter um bom hardware, mas o casamento com o Windows 10 foi péssimo, a reprodução de arquivo de vídeo por exemplo é pífia e vive travando, mesmo com um bom pacote de codecs.
-",negative
+",negative,negative
 negative,"Comprei o notebook dia 23/01/2018 e até hoje não chegou, produto esta parada a menos de 50 minutos da minha residência e a transportado não entrega, péssima transportadora, péssimo atendimento <empresa>, não compro mais nessa loja e olha que era cliente a anos.
-",negative
+",negative,negative
 positive,"Após várias pesquisa escolhi esse notebook por três motivos principais, além do preço promocional: 1º) ele tem espaço para adicionar um SSD padrão M.2 2280 (assim, não é preciso tirar o HD); 2º) memória de 8G; 3º) portas USB, inclusive do tipo C (vi na concorrência notebook sem USB do lado esquerdo. No geral é muito bom. Não tem tela Full HD mas seu monitor é bom. . As primeiras inicializações são lentas, principalmente por causa das várias instalações de atualizações do Windows. Depois das atualizações passou a iniciar normalmente, mas nada de extraordinário. Quando instalei o SSD e coloquei o Windows no SSD, o sistema passou a funcionar igual uma bala. Muito rápido!!! E ainda tem a vantagem do espaço do HD. Não sou de jogar em computadores por isso não saberia dizer como ele se sai com games. Enfim recomendo, principalmente se adicionarem um SSD.
-",positive
+",positive,positive
 negative,"<empresa> deixando a desejar na entrega. Quando pensava em agilidade lembrava logo das Lojas <empresa>, agora recorda-me lentidão.
-",negative
+",negative,negative
 positive,"Marca considerada no mercado, ótimo design e excelente custo-benefício.
-",positive
+",positive,positive
 positive,"Muito bom produto, excelente custo beneficio. Muito bom produto, excelente custo beneficio.
-",positive
+",positive,positive
 positive,"Produto muito bom. Atendeu minhas necessidades. Recomendo a todos que precisem de um notebook para tarefas diárias.
-",positive
+",positive,positive
 negative,"Esse Notebook  NÃO TEM ENTRADA para Cartão SD/Mini SD Não tem DVD,  Não tem som Potente,  Não tem uma boa imagem (mesmo com TODOS os Drives Instalados da Nvidea).  E pior! Seu sistema de ventilação do Processador, aquela janelinha pra resfriar o Notebook FICA EMBAIXO, ou Seja, se vc usa ele em uma Mesa ou no colo, PROVAVELMENTE ELE VAI AQUECER e perder performance! talvez funcione bem voando, ai resfria melhor!!!  Enfim, se voce procura um notebook, para games leves ou softwares que exigem muito do processador, ESSA NÃO É UMA BOA OPÇÃO!!
-",negative
+",negative,negative
 positive,"Produto muito bom. Positivo vem se superando. Produto leve, rápido e com um designe bom. Único detalhe é ter que instalar o Windows, porém esse é o  de menos!
-",positive
+",positive,positive
 negative,"Esse Notebook  NÃO TEM ENTRADA para Cartão SD/Mini SD Não tem DVD,  Não tem som Potente,  Não tem uma boa imagem (mesmo com TODOS os Drives Instalados da Nvidea, que aliás é dedicada).  E pior! Seu sistema de ventilação do Processador, aquela janelinha pra resfriar o Notebook FICA EMBAIXO (olhe na foto ali em cima), ou Seja, se vc usa ele em uma Mesa ou no colo, PROVAVELMENTE ELE VAI AQUECER e perder performance! ....talvez funcione bem voando, ai resfria melhor!!!  Eu tenho um, comprei pq confio na Marca Samsung, mas me arrependi. Enfim, se voce procura um notebook, para games leves ou softwares que exigem muito do processador, ESSA NÃO É UMA BOA OPÇÃO!!
-",negative
+",negative,negative
 positive,"Relação custo-benefício muito boa! Atendeu as expectativas.
-",positive
+",positive,positive
 positive,"<empresa> como sempre nos surpreendendo. Entregou o produto em tempo recorde 03 dias. Produto maravilhoso.
-",positive
+",positive,positive
 positive,"É leve, fino e possui um bom desempenho para programas relativamente pesados. Assim como eu fiz, vale muito a pena trocar o HD de 1Tb por um SSD de pelo menos 240Gb.
-",positive
+",positive,positive
 negative,"PQP <empresa>, vcs me fazem pesquisar cerca de dois meses por um notebook bom e barato, e quando eu compro um mais caro e inferior, vcs me vêm com esse notebook que eu tanto queria por 1300 reais. #revoltado
-",negative
+",negative,negative
 negative,"produtos descartáveis por este preço da para pegar um note de marcas de qualidade alem de ser caro é uma porcaria e vem com linux muito podre
-",negative
+",negative,negative
 positive,"Chegou rápido como sempre, bom produto e tudo certinho.
-",positive
+",positive,positive
 positive,"Notebook muito bom,de ótima qualidade . Entrega em menos  de uma semana. Recomendo.
-",positive
+",positive,positive
 positive,"Para mim que estou utilizando para estudo,  não tenho o que reclamar, rápido e não trava, vale ressaltar que o win 10 me surpreendeu
-",positive
+",positive,positive
 negative,"Produto não chegou, não comprem na <empresa>, comprei produto em janeiro e até hoje o produto não chegou na minha casa, liguei eles não atendem, no site não respondem.
-",negative
+",negative,negative
 negative,"Veio com defeito. Foi pra assistência 2 vezes. Na terceira foi trocado por outro de mesmo modelo. Defeituoso novamente. Mais duas vezes pra assistência e veio com mais dois defeitos. Depois de quase um ano lutando, consegui meu dinheiro de volta.
-",negative
+",negative,negative
 negative,"Por que vocês mostram na descrição do produto um vídeo em que o teclado destaca da tela transformando-se em um tablete se esse aparelho não faz isso?
-",negative
+",negative,negative
 negative,"Trava toda hora. Demora pra abrir fotos ou videos.  Lerdo d+. Nem parece um I3.
-",negative
+",negative,negative
 positive,"Um produto excelente, atendeu as minhas necessidades.
-",positive
+",positive,positive
 positive,"Leve, fino e muito potente. Tem que ter paciência nos 5 primeiros dias, pois ele vai atualizar muuuuitos arquivos além do próprio Windows. Então tenha paciência, porque depois o notebook fica normal. Roda vários jogos além de gráficos em imagens. Aconselho adicionar um ssd ou substituir o HD que vem junto que não é muito bom. Eu optei por colocar um ssd na entrada que ele possui. SIM ELE POSSUI ENTRADA PARA SSD ADICIONAL.
-",positive
+",positive,positive
 positive,"Atende todas as minhas necessidades. Recomendo este produto.
-",positive
+",positive,positive
 negative,"Arrependimento total ao comprar este produto. Foi o primeiro e último notebook da Vaio que consumo. Extremamente lento - inclusive mais lento que um LG que tenho de 5 anos! Definitivamente não recomendo.
-",negative
+",negative,negative
 negative,"O produto é péssimo por ser um Dell. É lento para iniciar ...o teclado é pequeno para digitar ... fora que a licença do office é provisória... fica só um mês...após isso vc ê obrigado a comprar uma licença ou mandar alguém instalar... uma porcaria de produto
-",negative
+",negative,negative
 positive,"Tudo certo com produto comprado. Entrega a tempo. Embalagem segura.
-",positive
+",positive,positive
 positive,"O produto é muito fino e leve, tem uma tela enorme e uma bateria que dura bastante. A junção dos 8GB de Ram com o processador e a qualidade dos componentes que a Asus utiliza, faz dessa uma ótima escolha (mesmo que as vezes um pouco mais cara que as demais) Super recomendo a compra do produto.
-",positive
+",positive,positive
 negative,"Estou revoltado pois comprei esse i3 e quero trocar pelo i5, mas no sistema consta que foi entregue dia 06/02/18, sendo que na minha casa foi entregue dia 08/02/18, pois minha vizinha que recebeu, e ela ainda trabalha no fórum. Enviei e-mail e não aceitam. Liguei e a secretaria eletrônica não passa para o ramal de compras.Hoje estarei tomando minhas providências junto ao fórum. Estou chateado, pois já é a 2ª vez que tenho problemas com vocês.
-",negative
+",negative,negative
 negative,"Ele trava muito, não tenho nada e demora muito para carregar.
-",negative
+",negative,negative
 positive,"comprei na loja <empresa>, com outra empresa de entrega a Directstock, foi a minha primeira compra por a internet, tive medo não chegar como desejado, mais enfim chegou muito rápido graças a Deus, veio em perfeita qualidade e só tenho a agradecer .
-",positive
+",positive,positive
 negative,"esse produto não apresenta as entradas descritas nas especificações, não possui placa de rede e nem muito menos a entrada RJ45 não comprem se precisarem desses itens, é propaganda enganosa e estão lesando os clientes, adquiri esse produto e só percebi a falta dos mesmos ao receber, e demoram demais pra responder o cliente, te direcionam para a Dell e a Dell direciona para a <empresa>... tremenda falta de respeito com o consumidor!!
-",negative
+",negative,negative
 positive,"atende as expectativas, porém em matéria de preço e benefícios este computador aqui é melhor: http://zipvale.com/Bp1X
-",negative
+",negative,negative
 negative,"Só utilizo os aplicativo que veio instalados e o mesmo se mostra muito lento, apesar da configuração ser boa. Tenho outro Lenovo (Importado) com 4 anos de uso e a mesma configuração, que faz o trabalho sem travar e com rapidez. Pesquise na internet e verá as reclamações sobre o produto.
-",negative
+",negative,negative
 positive,"O notebook tem uma apresentação excelente é muito leve e fino.
-",positive
+",positive,positive
 negative,"Produto chegou com defeito, precisei fazer a devolução.
-",negative
+",negative,negative
 positive,"O produto é muito bom,mas ele podia vim com mas memoria...mas ele esta ótimo pra eu fazer meus trabalhos na faculdade,super leve e fino gostei muito.. Sobre a entrega foi muito rápido mesmo....
-",positive
+",positive,positive
 positive,"Para uso doméstico é muito bom! Responde rápido é leve fora que é lindo!
-",positive
+",positive,positive
 positive,"Um produto excelente, não toma muito espaço, tem rapidez, muito facil para utilizar
-",positive
+",positive,positive
 positive,"Excelente nootbook super indico! O produto é lindo e facil de usar. Muito feliz co a Américana entregou antes do prazo.
-",positive
+",positive,positive
 positive,"Chegou antes do prazo, as vezes o notebook tranca e o mouse dele também, mas ainda assim é muito bom.
-",negative
+",negative,negative
 negative,"Comprei e desde o início começou apresentar um erro com tela azul. Depois parou de funcionar. Entrei em contato com a assistência e estou aguardando. Comprei novo para evitar problemas e já arrependi, tô precisando do notebook e não está funcionando. Espero resolver com urgência.
-",negative
+",negative,negative
 positive,"Muito bom. Vale a pena comprar. Não tenho reclamações.
-",positive
+",positive,positive
 positive,"Entrega super rápida,gosto muito de comprar nas lojas <empresa>
-",positive
+",positive,positive
 positive,"Entrega sempre super rápida, produto bom se qualidade, preço acessível e ótimo desempenho! Dependendo de qual for sua necessidade ele atende tranquilamente. Super recomendo.
-",positive
+",positive,positive
 positive,"Apos um tempo de uso percebi que é um ótimo computador. bem leve, entradas e saídas essenciais, a qualidade da tela impressiona também. No inicio trava muito devido as atualizações do sistema. O ponto ruim é que nao tem teclado retroiluminado e o acabamento dele da um aspecto de barato. Mas valeu pelo custo-beneficio. Um dos melhores do mercado e ainda vem com placa de video dedicada.
-",positive
+",positive,positive
 positive,"Produto entregue conforme oferta. Embalado eficientemente. Entrega rápida.
-",positive
+",positive,positive
 positive,"Um bom produto o preço condiz com as configuraçoes . Uso domestico atendeu minhas necessidades.
-",positive
+",positive,positive
 positive,"Amei este notebook, pois além de ser compacto atendeu todas as minhas expectativas. E tem a vantagem do custo-benefício,  sem contar com a rapidez da entrega. Muito satisfeita!
-",positive
+",positive,positive
 negative,"Há aproximadamente dez meses comprei um notebook Samsung Odyssey e, embora pouco utilizado, a tomada liga/desliga afundou e não consigo mais recarregá-lo. O atendimento pelo chat atendimento é muito ruim. A página de acesso pela Internet também deixa a  desejar. Em mais de vinte anos nunca tive um notebook tão ruim. Estou lutando para conseguir mandá-lo para a assistência técnica. Não recomendo o produto.
-",negative
+",negative,negative
 negative,"Produto ruim, apresenta problemas de travamento e congelamento de tela. Assistência péssima também, e só se faz pelos correios. Mandei duas vezes e volta com o mesmo problema! Se comprarem rezem para não apresentar problemas!
-",negative
+",negative,negative
 positive,"Tenho um notebook 15 polegadas e a opção de ter um 14 polegadas facilita minha vida, gosto de levar para aula e reuniões. Ótimo custo benefício e desempenho. Super recomendo!
-",positive
+",positive,positive
 positive,"Entrega rápida, Produto de extrema qualidade. Estava com preconceito de comprar um Celeron, mas fiquei surpreendido pelo bom desempenho do produto. Recomendo! Excelente custo beneficio para quem deseja um produto para uso doméstico.
-",positive
+",positive,positive
 positive,"bonito, teclas bem legíveis e boas, cor bonita, tamanho da tela é bom.
-",positive
+",positive,positive
 negative,"Muito lento, demora para fazer login,para abrir Word e internet junto tem que esperar muito tempo, não vem driver do áudio é  possível  baixar.
-",negative
+",negative,negative
 positive,"Otimo produto, bonito, atendeu minhas expectativas, uso para faculdade, ele é muito bom.
-",positive
+",positive,positive
 positive,"Chegou antes do prazo, entrega eficiente, ótimo produto, parabéns...
-",positive
+",positive,positive
 positive,"Era o Notebook que precisava para meu dia a dia. Vendi meu carro para adquirir, mas não me arrependo.
-",positive
+",positive,positive
 positive,"Meu notebook chegou hoje 20/02 depois de algumas horas ele apagou e não ligou mais...  esperando o contato da loja pra fazer a troca!
-",negative
+",negative,negative
 negative,"Comprei o modelo anterior o x510ur-166 pois este nem estava a venda ainda, paguei por frete expresso mas até agora não recebi meu produto que ja se encontra fora de linha substituido por este modelo, o prazo para entrega do produto que paguei para ser expressa venceu ontem! Decepsionante.
-",negative
+",negative,negative
 negative,"Com menos de seis meses a alça da tampa quebra e a noa trocam, alegando mau uso. Noa recomendo!!!!!!!!
-",negative
+",negative,negative
 positive,"GOSTEI MUITO, CHEGOU ANTES DO PRAZO,VEI BEM EMBALADO,FÁCIL DE MEXER,NÃO TENHO NENHUMA RECLAMAÇÃO. EU RECOMENDO!
-",positive
+",positive,positive
 positive,"Notebook inicia muito rapido! Tem tela relativamente pequena, porém o suficiente para tarefas do dia a dia! Já vem com o pacote office e uma nuvem de 64gb para compensar os 32 no SSD. Gostei muito do pc para tarefas simples! Mas para executar aplicações de maior complexidade indico notebook mais turbinado.
-",positive
+",positive,positive
 positive,"Adquiri o produto que chegou 10 dias antes do previsto e ele tem um ótimo desempenho e as <empresa> tb presta um serviço de entrega muito bom. Muito satisfeita
-",positive
+",positive,positive
 positive,"Eu gosto muito dessa marca, nunca tive problema. o meu filho teve um quando tinha 7 anos e super durou na mão dele rsrsrsrsr, e so estragou quando ele deixou cair algumas vezes rsrs ai não teve jeito ne rsrsrsr
-",positive
+",positive,positive
 positive,"Produto de excelente qualidade e foi entregue antes do prazo determinado. Recomendo!
-",positive
+",positive,positive
 positive,"PRODUTO E MUITO BOM GOSTEI MUITO E BEM RÁPIDO PRÁTICO E LEVE
-",positive
+",positive,positive
 positive,"Produdo muito bom. E chegou antes mesmo da data prevista. So nao gostei de terem cobrado 3 fretes se foi de uma compra so. Mesma cesta.
-",negative
+",negative,negative
 negative,"Achei o notebook normal, se não fosse, é dar defeito em menos de 3 meses, do nada, tendo usado muito pouco, tipo 20 min por dia de internet, quando estava na internet a tela ficou sem imagem e nada, desliguei e liguei de novo já algumas vezes e continua a mesma coisa, enfim, agora é correr atrás da assistência técnica.
-",negative
+",negative,negative
 negative,"Equipamento mesmo Depois de realizar todas as atualizações continua lente e com problema de reconhecimento de Drives, logo no primeiro mês soltou as borrachas traseiras, além da tela ser ridícula pois a imagem fica distorcida devido o LCD ser o pior do mercado. Equipamento descartável. E não espere bom atendimento do suporte vc vai se enganar.
-",negative
+",negative,negative
 positive,"Ótima marca, excelente produto, excelente preço, e bem durável. Já faço uso a mais de uma década.
-",positive
+",positive,positive
 positive,"Produto atendeu às minhas necessidades e expectativas.
-",positive
+",positive,positive
 negative,"Esse computador é horrível, muito ruim mesmo! Não vale a pena.
-",negative
+",negative,negative
 positive,"Entrega super rápida.... Chegou bem antes do previsto. Produto é ótimo
-",positive
+",positive,positive
 positive,"Estou muito satisfeito o produto é muito bom.  O atendimento foi muito bom, O produto chegou bem rapto.
-",positive
+",positive,positive
 negative,"o produto é extremamente lento, levando minutos para abrir um simples programa como word, pesquisei e descobri que isso não é um problema singular, mas grande parte apresentam esse defeito.
-",negative
+",negative,negative
 positive,"Adorei. Comprei com base em avaliações de terceiros e, por sorte, muito bom. Adorei. O som é maravilhoso para um notebook. Qualidade e potência (sabendo que é um notebook). Tela boa. A única coisa que não gostou é o touchpad. É extremamente sensível (não é defeito; apenas não me adaptei).  Uso mouse e teclado sem fios. Compre sem dúvidas. Troquei o Linux pelo Win10.
-",positive
+",positive,positive
 positive,"adorei o note e chegou dias antes do prazo, muito legal
-",positive
+",positive,positive
 positive,"Notebook super leve, rápido e preço muito bom. A entrega foi super rápida.
-",positive
+",positive,positive
 negative,"Comprei o Notebook após pesquisar sobre a Marca Asus e as configurações, o meu tem 8GB de memória, demora demais pra iniciar, pra fazer qualquer coisa. Ainda tou na garantia, vou fazer uma reclamação no Reclameaqui pra Asus, pois não creio que seja normal!
-",negative
+",negative,negative
 positive,"Corresponde ao que foi divulgado Pouco tempo estou usando  ,espero não ter problemas.
-",negative
+",positive,negative
 positive,"Uma notebook rápido que atendeu as minhas expectativas, além do transporte rápido e eficaz. E indico este produto como sendo de qualidade.
-",positive
+",positive,positive
 positive,"Até o momento está suprindo minhas necessidades ,como sempre a entrega foi rápida,produto de boa qualidade; Eu recomendo a compra do produto e o site da <empresa> tbm ;
-",positive
+",positive,positive
 positive,"rápido, de fácil manuseio, bateria durável... respondeu bem as minhas expectativas
-",positive
+",positive,positive
 positive,"Entendendo que, buscando praticidade e custo benefício,deveria abrir mão de um acabamento mais refinado, não tenho do que reclamar do produto. Atendeu plenamente minhas expectativas.
-",positive
+",positive,positive
 positive,"Extremamente leve e rápido, é equivalente a um MacBook Air no mundo dos PCs. O único defeito é a câmera, que tem uma resolução baixa e fica posicionada na dobradiça da tela, e não no alto. O ângulo é péssimo e uso sempre uma câmera externa quando preciso fazer um Skype. Fora  esse detalhe, é perfeito!
-",negative
+",negative,positive
 negative,"Devolvi esse note porque além de ser mega lento a tela dele parece de computador de 3° categoria.  Imagem horrivel. Me decepcionei porque já tive um Dell montado pela propria empresa.
-",negative
+",negative,negative
 positive,"Muito bom em desempenho, bonita aparencia e fácil de manusear, recomendo.
-",positive
+",positive,positive
 positive,"recomendo esse produto e a entrega foi muito rápido.
-",positive
+",positive,positive
 positive,"Adorei... otimo preço em um otimo computador. Amo a marca samsung
-",positive
+",positive,positive
 positive,"Estou satisfeito com o produto pois já conheço a marca e a empresa que comprei.
-",positive
+",positive,positive
 positive,"Gostei muito desse notebook. Sou fotógrafa, e ele é excelente para o meu trabalho.
-",positive
+",positive,positive
 positive,"O único ponto que não aprovei é com relação ao Windows, o equipamento ficou 2 dias atualizando.
-",negative
+",negative,negative
 positive,"Leve, fino. Funciona bem com Windows 10 Pro. Ótimo custo benefício.
-",positive
+",positive,positive
 positive,"é bem rapido, muito bonito, custo beneficio é muito interessante, acredito ter feito otima compra. A entrega foi rapida 8 dias corridos, mesmo morando proximo ao uruguay. recomendo.
-",positive
+",positive,positive
 negative,"o notebook tem dado muitos problemas, muitos mesmo, estou muito contrariada, já vai fazer dois meses que comprei , um mês e pouco que chegou.está cheio de problemas, desliga de repente, ou simplesmente some tudo, ou fica indo e voltando , e às vezes fica passando umas imagens tremidas na tela. sei que está na garantia ,mas estou tão chateada que nem ânimo de ligar lá eu tenho.
-",negative
+",negative,negative
 negative,"Faz 60 dias desde que meu pedido foi enviado e aprovado e até hoje nada! É uma falta de respeito!!! Já paguei 3 parcelas do produto e nada ainda. E ainda por cima, aguardei os outros 30 dias para chegar, porque segundo a empresa <empresa> o produto estava sendo reenviado, porém, enviaram o produto para outro município, e nem se quer consigo entrar em contato com a empresa <empresa>. Já enviei emails e liguei, mas ninguém me responde! Os emails que envio não são respondido, que falta de vergonha! Não recomendo de jeito nenhum!!!
-",negative
+",negative,negative
 positive,"É um produto bom, de qualidade. Único problema é o tempo de atualização (mais de 4 horas para atualizar as primeiras vezes). Fora isso, não tenho o que reclamar. É muito bom!
-",positive
+",positive,positive
 positive,"muito bom super recomendo ótimo meu filho tá adorando
-",positive
+",positive,positive
 positive,"Gostei muito do produto, excelente!!!! Ótima aquisição e excelente entrega. Foi bem antes do prazo. Espero que continue assim....
-",positive
+",positive,positive
 positive,"Ótimo produto, preço bom,e rápida entrega. E O designer é lindo.
-",positive
+",positive,positive
 negative,"O equipamento é bom para atividades normais, mas pelo preço que paguei, ele não mostrou um desempenho tão superior a outro ACER i5 da minha esposa que compramos a 2 anos atrás por um valor bem baixo na promoção. Este antigo que temos está funcionando bem, por isso confiamos na marca ACER, porém, pelo preço que paguei esperava uma máquina muito superior de alto desempenho com boa bateria. O notebook é pesado e a bateria dura igual ao nosso i5 ou menos. Eu precisava de um notebook i7 com 16 GB de RAM, fiquei decepcionado com a compra!
-",negative
+",negative,negative
 positive,"""O equipamento vem com o windows 10 home instalado, afora uma série de programas pesados que, no meu caso subjetivo, são pouco relevantes. O tal win 10 home não permite o funcionamento da máquina em sua amplitude. Logo, no imediato concreto, você lida com um dispositivo novo, porém aparentemente lerdo, fazendo-o cogitar que algo está muito errado... A solução que encabecei aqui foi, formatar a máquina e instalar o windows 10 pro, a fim de """"alcançar o paraíso"""". Só quando me livrei do 10 home, obtive um note adequado aos meus reais interesses, enfim, rápido e funcional.""
-",negative
+",negative,negative
 positive,"Gostei muito do produto. Preço excelente. Vale a pena.
-",positive
+",positive,positive
 positive,"Um mês de uso e até o momento tem satisfeito as expectativas, mas não supera. O note é leve, bem fino, o teclado é bastante confortável ( apesar de não ter a tecla que faz a função do botão direito do mouse).  O desempenho também é bastante bom, apesar de em jogos mais pesados não chegar rodar os gráficos no máximo e esquenta bastante na parte superior. Ainda não chegou a travar nem nada porém durante o uso cotidiano (internet, leitura, trabalhos no office...), ele roda com tranquilidade, aquecendo o mínimo. Ainda não o usei para trabalhos gráficos, mas acredito que o fara tranquilamente.  A bateria é bem fraca. Com uso constante e o brilho da tela no máximo dura 3 horas, no máximo.   O touchpad multitoque é excelente, pois tem opção de rolagem de página e zoom (tanto em fotos, quanto em softwares como chrome, office...).  No geral uma boa escolha. Recomendo.
-",positive
+",positive,positive
 positive,"Atendeu as minhas expectativas. Chegou antes do esperado. Gostei bastante!;)
-",positive
+",positive,positive
 positive,"O produto é ótimo! Cumpre o que promete! É bom para tarefas simples como o pacote Office e internet. Pra quem é professora, como eu, tem ajudado nas tarefas e apresentações.  Nao espere abrir jogos ou muitas janelas porque trava devido à memória de 4gb. Mas se for para estudos e apresentações de trabalho, é muito bom!  Pesquisei muito os tipos de notebook para meu perfil. E esse modelo está entre os 10 melhores disponíveis no mercado. E sem contar que a Lenovo está entre as 3 marcas mais bem avaliadas. O notebook é leve, tem espaço de sobra enfim! Recomendo!  Ps. <empresa> tem as entregas mais rápidas do mercado! Melhor impossível!
-",positive
+",positive,positive
 negative,"O produto veio com defeito e imediatamente entrei em contato com as lojas <empresa> e até agora nada. Estou decepcionada com o atendimento da loja. Já tem quinze dias e nenhuma solução para o meu problema.
-",negative
+",negative,negative
 positive,"Notebook de ótima qualidade! Atende a todas as descrições, leve e ideal para quem trabalha como designer gráfico. Recomendo para quem estiver ainda na dúvida da compra. A compra e entrega pela <empresa> foi tranquila e de ótima qualidade também.
-",positive
+",positive,positive
 negative,"Comprei o produto a menos de um mês porém ele ja esta mostrando sinais de problemas.  O computador está desligando sozinho, mesmo estando carregado.
-",negative
+",negative,negative
 positive,"entrega muito rapido e gostei muito do notebook supriu minhas necessidades
-",positive
+",positive,positive
 positive,"Comprei para substituir o desktop. Ainda não posso avaliar a substituição.
-",negative
+",negative,negative
 positive,"""O produto tem um bom custo x benefício. Levando em consideração que é um """"Positivo"""". Poderia ter mais entradas USB (só tem 02 entradas). Mas elas são 3.0 o que ajuda bastante.  Ele vem bloqueado para não instalar outros sistemas operacionais, mas com uma rápida pesquisa no Y outube e G oogle, você consegue instalar uma cópia de Windows.""
-",positive
+",positive,positive
 positive,"EXCELENTE PRODUTO! ÓTIMO CUSTO BENEFICIO, LEVE, RECOMENDO
-",positive
+",positive,positive
 negative,"Veio com defeito, enviei e-mail e até agora nenhum solução para o meu problema.
-",negative
+",negative,negative
 positive,"É um computador que se apresenta de acordo com as minhas necessidades.
-",positive
+",positive,positive
 positive,"Atendeu minha expectativa. Rápido e estável. Recomendo. Preço acessível e frete gratuito. A entrega foi antes do prazo final.
-",positive
+",positive,positive
 positive,"Ele roda pubg, um note que roda pubg liso roda tudo.
-",positive
+",positive,positive
 positive,"Comprei para uso de trabalhos e pesquisas, atendeu a minha expectativa quanto a isso. A única coisa é que por ser um note novo, ele é lento e já chegou a travar várias vezes em coisas bobas, como abrir um e-mail. O técnico me disse que por ele vim com muitas configurações de fábrica, elas são pesadas e o torna mais lento que o habitual, mas se formatar resolve o problema.
-",negative
+",negative,negative
 positive,"Esse produto é muito bom. Chegou bem antes do prazo. Ele Superou minhas expectativas.
-",positive
+",positive,positive
 positive,"Comprei o meu faz 3 anos. Desempenho maravilhoso,nunca deu problema, Estou super satisfeita, Excelente notebook
-",positive
+",positive,positive
 negative,"Comprei este produto, mas, como foi junto com um outro, desisti de devolver. O motivo: um notebook com armazenamento APENAS de 32GB. Não havia notado isso. Como pode fazer isso um produto com tal capacidade de armazenamento? Não deveria ser feito e nem tão pouco estar no mercado à venda. Eis a minha opinião.
-",negative
+",negative,negative
 positive,"Excelente! Gostei muito do produto! Recomendo este produto.
-",positive
+",positive,positive
 positive,"O produto é lindo, o processamento é supre as necessidades muito bem de quem usa o PC para a fazeres do dia-a-dia, a bateria dura cerca de 5 horas com carregamento total. Particularmente eu amei a compra que fiz.
-",positive
+",positive,positive
 positive,"Notebook atende todas as minhas necessidades, super leve, um teclado maravilhoso, super rápido, bateria duradoura. Veio 10 dias antes do prazo de entrega. Estão de parabéns.
-",positive
+",positive,positive
 positive,"Correspondeu totalmente às minhas expectativas. É o primeiro notebook que compro e com certeza não errei na escolha. Vale cada centavo.
-",positive
+",positive,positive
 positive,"Muito bom, ótimo notebook, chegou antes da previsão.
-",positive
+",positive,positive
 negative,"Recebi o produto dentro do prazo, no entanto, não funciona. Ao ligar a tela trava e aparece mensagem de erro e desliga sozinho. Quero solicitar a devolução do produto mas não encontro essa opção no site da <empresa>.
-",negative
+",negative,negative
 positive,"A configuração é modesta, mas para uso doméstico, atende perfeitamente.
-",positive
+",positive,positive
 positive,"Produto ótimo.  Meu filho amou!!! E a entrega foi até antes do prazo.
-",positive
+",positive,positive
 positive,"Notebook,muito bom, entrega rápida...achei excelente comprar pela site da <empresa>.
-",positive
+",positive,positive
 positive,"atendendo todas as minhas nescessidades,otimo produto.com uma tela incrivel, imagem espetacular e processador veloz para navegaçao.excelente compra! e entrega rápida sem burocracia.
-",positive
+",positive,positive
 positive,"adorei o produto, a entrega foi rápida eu recomendo .
-",positive
+",positive,positive
 positive,"Notebook muito bom, leve e estiloso, bem potente, valeu a pena o investimento...
-",positive
+",positive,positive
 positive,"Achei leve, tamanho ótimo para levar nos lugares (aula e reuniões) - Cuidado porque não tem drive para colocar CD/DVD, ai para instalar programas de CD tem de baixar na rede ou por Drive externo/pen drive. Atendeu minhas necessidades.
-",positive
+",positive,positive
 positive,"Ótimo produto já uso ele à mais de 3 meses e não me arrependo de ter comprado, não dá engasgos e os melhores pontos dele são: Bateria, Tela e destacando o Áudio que é de altissíma qualidade se o preço à ser pago for o mesmo que eu pagei que foi $2.000; é um bom investimento à ser feito.
-",positive
+",positive,positive
 positive,"Aparelho muito bom agora falta só o mouse e o teclado.
-",positive
+",positive,positive
 positive,"Gente, o notebook é muito bom... assim que chegou (inclusive bem antes do prazo), o windows 10 fez variaaas atualizações, normal e quando terminou e finalmente comecei a aproveitar, é sensacional. O meu não trava como todos estão dizendo...não tenho visto essa lentidão, acredito que as pessoas querem comprar um notebook desse para jogar jogos pesadíssimos, mas ele é mais pra uso doméstico... Tela boa e grande, teclado excelente e som de boa qualidade, a duração da bateria é boa também, chega a durar 5h usando continuamente... enfim, amei o produto!
-",positive
+",positive,positive
 negative,"produto descartavel. processador lento , acabou a garantia deu problema na placa mãe levei na assistencia tecnica e não tem placa de reposicão e o preço é mais de 1000.00  só a placa !  Produto descartavel pois o processador e memoria e outros mais não sâo removiveis e sem manutencao na placa .
-",negative
+",negative,negative
 negative,"Comprei pelo custo/benefício porque só uso internet e pacote office, mas vem muita porcaria instalada que deixa ele muito lento. Estou tentando limpar pra deixá-lo mais rápido.
-",negative
+",negative,negative
 positive,"Notebook de excelentíssima qualidade. Super recomendo. Pra mim é o melhor!
-",positive
+",positive,positive
 positive,"Primeiro em relação à entrega, foi excelente! Chegou muito rápido, fiquei impressionada, e tudo muito bem embalado e é pq foi pro Maranhão. E em relação ao notebook, até agora estou muito satisfeita, o som dele é muito bom, além de ser muito bonito! Gostei demais, vale a pena o investimento.
-",positive
+",positive,positive
 positive,"Comprei para presentear minha filha, ela adorou, produto de ótima qualidade e desempenho.
-",positive
+",positive,positive
 positive,"Recomendo o produto pois é muito bom, a dell é tudo de bom.
-",positive
+",positive,positive
 positive,"O notebook tem uma configuração boa e uma ótima construção! Serve para fazer bastante coisa. Poderia já ter abandonado o HD comum e ter assumido um SSD. Sorte que a porta M.2 já adianta muito um upgrade sem perder a garantia.
-",positive
+",positive,positive
 positive,"Produto excelente!  Aparência linda e desempenho ótimo! Me surpreendi.
-",positive
+",positive,positive
 positive,"Produto perfeito. Entrega antes do prazo. Super recomendado.
-",positive
+",positive,positive
 positive,"Recebi o notebook há uma semana e a tela e o som são realmente maravilhosos! Vale a pena fazer uma limpa no Windows pq vem muita coisa junto e pode sim travar nos primeiros dias, fora isso ele é maraa! Ótimo custo beneficio, até agora valeu muito a pena!
-",positive
+",positive,positive
 positive,"Custo/Benefício  layout moderno muito leve prático
-",positive
+",positive,positive
 positive,"Notebook, rápido, leve, com design perfeito, capacidade excelente de processamento, suporta várias funções ao mesmo tempo, não trava, perfeito para quem precisa de velocidade, uso para estudo, trabalho e jogos, atendeu todas minhas necessidades, entrega pelas <empresa> está de parabéns.
-",positive
+",positive,positive
 positive,"Como disse no titulo....um bom produto fala por si...
-",positive
+",positive,positive
 positive,"Produto de ótima qualidade e chegou antes do esperado.
-",positive
+",positive,positive
 positive,"o produto é bom, só não gostei que tem somente duas entradas USB e a entrada para o fone de ouvido é no lado esquerdo. Poderia ser avisado na descrição do produto.
-",negative
+",negative,negative
 positive,"Amei o notebook, ele é maior do q o tradicional, tem um som super alto o que o diferencia dos outros notebooks totalmente. Eu recomendo! Bonito e completo! Utilizo pro trabalho e tem superado bem minhas expectativas!
-",positive
+",positive,positive
 negative,"não gostei foi decepcionante!! nao aconselho a compra
-",negative
+",negative,negative
 positive,"Produto excelente! Ótima qualidade e custo x benefício
-",positive
+",positive,positive
 negative,"Alguns vem com defeito, liga e depois se desliga e não funciona mais, usei o meu por menos de 30 min, e tive que fazer a devolução. No fórum da hp também tem reclamações do mesmo tipo. O suporte para devolução da hp e <empresa> é bom.
-",negative
+",negative,negative
 positive,"Muito bom ate o momento está suorindo minhas necessidades
-",positive
+",positive,positive
 negative,"Acho que a especificação deste produto está errada e gera confusão na hora da compra. O produto é apena s de um tablet no formato de notebook, a capacidade de memória é muito pequena e limita a instalação de outros programas.
-",negative
+",negative,negative
 positive,"Atende minhas necessidades perfeitamente, porem utilizo mais para lazer não a trabalho.
-",positive
+",positive,positive
 positive,"Atende muito bem minhas necessidades. Uso pra trabalho e pessoal.
-",positive
+",positive,positive
 negative,"O referido equipamento é lento não sei se pelo processador ou pelo tal windons 10 zicado, abre inúmeras paginas de propaganda das quais não habilitei. Tornando a navegação dispendiosa, até ele resolver dar acesso a internet
-",negative
+",negative,negative
 negative,"Bom, gostaria de iniciar essa crítica ao aparelho parabenizando a Dell. No conceito de estrutura física e design, a Dell é referência. Porém, não sou técnico de informática, mas o computador tem um desempenho aquém do esperado, apesar da tradição da marca. Para começar, o computador tem sérios problemas de travamento, trava a tela, o mousepad, dentre outras funções do Windows. Outro fator com desempenho questionável é a capacidade gráfica, pois, ao se utilizar aplicativos como Facebook, Netflix e Youtube o computador começa a projetar na tela vários defeitos gráficos. A tela fica preta, piscando, muitas vezes cheia de pontos coloridos, traços, sem a possibilidade de visualização. Então, gostaria de dizer que não estou satisfeito com a máquina.
-",negative
+",negative,negative
 positive,"Muito bom, bem como especificado no site, a entrega também foi denrro do prazo, excelente !
-",positive
+",positive,positive
 positive,"A refrigeração do Odyssey realmente faz a diferença, antes desse tinha um Acer que esquentava muito e por isso tinha que acoplar um coler externo e desligar de tempos em tempos.  Já tenho há quase um ano e funciona perfeitamente.
-",positive
+",positive,positive
 negative,"Esquenta muito, tem que parar de jogar de hora em hora.
-",negative
+",negative,negative
 negative,"Nao sei se é a placa de video ou o processador, mas ficou devagar com 3 meses de uso.
-",negative
+",negative,negative
 negative,"Produto superaquece e tem que desligar de hora em hora.  Mas se pensa que isso é um problema, espere até ver o atendimento.
-",negative
+",negative,negative
 positive,"<empresa> esta de parabéns, entregar super rápida, um notebook muito elegante, super fino e veloz, comprei o meu recentemente  e estou adorado !
-",positive
+",positive,positive
 negative,"Trabalho com desenho gráfico, achei que este PC me daria suporte e agilidade pq trabalho com muitas janelas abertas e programas específicos, mas só trava... não é um bom negócio.
-",negative
+",negative,negative
 positive,"Muito bom, e chegou antes do prazo estabelecido. Recomendo.
-",positive
+",positive,positive
 positive,"Fiquei satisfeita com o produto. O processador atende às minhas necessidades (estudos, vídeos on line). É muito bonito e leve. Teclado suave. Optei por ele depois de pesquisar bastante. Dentro do preço que eu podia pagar, foi a melhor opção. Recomendo.
-",positive
+",positive,positive
 positive,"Pra o que eu quero ele estar me servindo quero ele pra estudar os slides da faculdade e fazer pesquisas na internet e sem contar que ele é bem leve posso me locomover com ele sem problemas e sem transtornos e um detalhe sua cor é linda coloquei até papel contact transparente nele todo pra conservar ele e não manchar.
-",positive
+",positive,positive
 positive,"Produtos Dell são sempre de muito boa qualidade. Este notebook tem um ótimo tamanho de tela, teclado bem dividido com o numérico também separado do lado direito (o que me agrada muito) e um visual limpo. Como ponto negativo, achei que demora muito no processamento inicial. Somente depois de alguns minutos quando já  terminou o carregamento dos aplicativos iniciais é que ele passa a ser mais agil em seu processamento. Mas no geral é um produto muito bom. Recomendo.
-",positive
+",positive,positive
 positive,"Falo com tranquilidade Me vejo obrigado a concordar com o Palestrinha
-",positive
+",positive,positive
 positive,"Para uso intermediário como estudo, um produto muito bom.
-",positive
+",positive,positive
 positive,"Acessível e de ótima qualidade, amei! O produto com tela grande me supriedeu,  recebi o produto rápido.
-",positive
+",positive,positive
 positive,"o produto veio dentro do prazo e em excelente estado. no primeiro uso o notebook se mostrou um pouco lento, no entanto depois de baixar o navegador chrome (o navegador padrão pré instalado é lento e insatisfatório), e baixar e instalar todas as atualizações pendentes o desempenho melhorou muito. excelente custo benefício para aqueles que procuram um notebook com boa performance e versatilidade! recomendo.
-",positive
+",positive,positive
 positive,"Chegou antes do prazo combinado, bem embalado e de acordo com o que foi comprado.
-",positive
+",positive,positive
 negative,"O desempenho do aparelho não condiz com suas especificações, sendo que até para entrar no e-mail demora horrores e trava fazendo operações simples
-",negative
+",negative,negative
 positive,"Adorei o notebook , achei leve, rápido, lindo, atingiu minha expectativa. A entrega foi rápida, chegou antes da data estimada. Super recomendo.
-",positive
+",positive,positive
 positive,"Otimo mesmo... recomendo a todos!! Hiper veloz. Processador e 10.
-",positive
+",positive,positive
 negative,"O produto só funcionou um dia!!! Depois não ligava, mais!!!
-",negative
+",negative,negative
 positive,"Além de ser muito lindo e ótimo, é levinho é fácil de carregar. Lembra o netbook... adorei.
-",positive
+",positive,positive
 positive,"bom produto. recomendo. o produto chegou antes do prazo. a única coisa que me aborreceu foi que, pelo anuncio, tinha o office no notebook, mas quando chegou verifiquei que é somente por dez dias. agora, tenho que adquirir o office.
-",negative
+",negative,negative
 positive,"Primeiras impressões muito boas, produto muito bem embalado, muito bonito , processamento rápido a única coisa que sente falta foi das luzes do CAPS look e num look
-",positive
+",positive,positive
 positive,"Bom produto, fácil uso e rápido como eu esperava. Para quem quer fazer uso para trabalhos escolares e pesquisas e também bom para jogos. Chegou dentro do prazo
-",positive
+",positive,positive
 positive,"Notebook com ótimo desempenho, versátil e muito bonito. Chegou dentro do prazo.
-",positive
+",positive,positive
 negative,"Comprei esse notebook pra minha mãe, com menos de um mês, de pouco uso, ele não ligava mais foi pra assistencia. Lá detectaram que o carregador que veio nele é usado, o cabo está mordido em uma parte, minha mãe não tem cachorro. Além disso tiveram de trocar a placa mãe.  O técnico foi instalar o Windows e disse que o notebook tem aparência de bastante usado. Um absurdo, eu estou indignada, não solicitei a troca porque não moro na mesma cidade da minha mãe e só tive a oportunidade de falar com técnico hoje.
-",negative
+",negative,negative
 positive,"Muito bom!   Nota 10 para a entrega da <empresa> que entregou antes da data prevista.
-",positive
+",positive,positive
 positive,"Produto muito bom recomendo entrega no prazo previsto tudo ok
-",positive
+",positive,positive
 positive,"Produto com boa qualidade e resistência. Uma das melhores marcas de notebook.
-",positive
+",positive,positive
 positive,"O produto chegou hoje, e estou muito satisfeito. Acabamento perfeito, é uma máquina muito potente, que roda tranquilamente softwares pesados. Utilizo Revit, AutoCAD, Lumion, Corel e Photoshop. As luzes são um diferencial muito interessante. O design é incrível, com acabamento refinado, e material fosco. Recomendo.
-",positive
+",positive,positive
 positive,"Desempenho e designer satisfatórios. Não aprovei a blindagem da bateria, pois pode deixar o cliente refém da compra de outro notebook, caso o item em questão dê defeito ou tenha sua vida útil comprometida.
-",negative
+",negative,negative
 positive,"gostei do produto, veio antes do prazo, é rapido, recomendo
-",positive
+",positive,positive
 positive,"Produto muito bom vai atender todas as minhas necessidades,  e da os parabéns <empresa> pela entrega super rápida.
-",positive
+",positive,positive
 positive,"Notebook excelente para uso doméstico estou muito satisfeito
-",positive
+",positive,positive
 positive,"adorei, chegou antes do tempo esperado! superou minhas expectativas!!
-",positive
+",positive,positive
 positive,"Muito bom o produto é a entrega foi super rápida. Estou muito satisfeita.
-",positive
+",positive,positive
 positive,"para quem quer estudar é ótimo, operação leve,  bateria dura demaisssss...
-",positive
+",positive,positive
 negative,"Pensava que era mais rápido achei muito lento.  Esse Windows 10 tbm não gostei
-",negative
+",negative,negative
 positive,"Se vcs comprarem não iram se arrepender, o produto é excelente
-",positive
+",positive,positive
 positive,"Otimo produto e entrega antes do prazo... super recomendo
-",positive
+",positive,positive
 negative,"Péssimo. Teclado desconfigurado. Computador tranca.
-",negative
+",negative,negative
 positive,"Ótimo custo benefício! Chegou em menos de uma semana.
-",positive
+",positive,positive
 positive,"Excelente produto! Imagem muito boa ,rapido . Entrega antes da data prevista!
-",positive
+",positive,positive
 positive,"Bom custo benefício, bem leve e bonito. A entrega foi bem rápida.
-",positive
+",positive,positive
 positive,"Para as minhas atividades esse notebook foi essencial, pois eu não preciso de muita memória. Mas quem está procurando um notebook para baixar muitos programas e arquivos esse não é indicado porque tem apenas 2GB de memória interna.. E realmente é muito pouco. A tela é relativamente pequena mas para mim está ótimo. Bem leve e fácil de carregar.
-",positive
+",positive,positive
 positive,"Excelente notebook!! Chegou antes do prazo esperado, recomendo.
-",positive
+",positive,positive
 positive,"Perfeito, produto de ótima qualidade até o momento. Muito rápido, super prático, amei o Windows 10. Preço super bom.
-",positive
+",positive,positive
 positive,"O produto muito bom ate o momento está atendendo minhas espectativas com um bom funcionamento, e a entrega foi super rápida!
-",positive
+",positive,positive
 positive,"Satisfeita com o produto e com a entrega rápida feita através das lojas <empresa>
-",positive
+",positive,positive
 positive,"Ótimo notebook para realizar tarefas diárias: bom desempenho e bom sistema operacional Linux (Ubuntu), além de ser muito bonito e ter uma marca confiável (Dell).
-",positive
+",positive,positive
 positive,"Adorei o notebook, lindo, fininho,leve, e fiquei muito satisfeita. Chegou rápido e certinho.
-",positive
+",positive,positive
 negative,"Muito ruim, santo deus! Demora para iniciar, trava, mais lento que uma tartaruga!
-",negative
+",negative,negative
 positive,"Ótimo produto. Fácil manuseio, atendeu as expectativas,  ótimo desempenho,  rápido. Adorei.
-",positive
+",positive,positive
 positive,"Muito bom. Bom desempenho, memória grande, muito leve embora seja de 15.6'. E chegou em 5 dias, recomendo !!
-",positive
+",positive,positive
 positive,"Produto chegou mto bem embalado, caixa discreta e dentro do prazo, mesmo c o carnaval atrapalhando... Kkkk... parabéns, <empresa>!!
-",positive
+",positive,positive
 negative,"""O produto é muito bonito, fino, ótima bateria, porém na maioria do tempo é MUITO lento. Funções simples como abrir as """"notas alto adesivas"""", carregar um """"navegador"""" qualquer, carregar uma nova aba ou até mesmo abrir o word ou é feito com muita dificuldade causando aborrecimentos e atrasando eventuais trabalhos.""
-",negative
+",negative,negative
 positive,"O produto é excelente, de ótima qualidade e bonito, super recomendo!!!!
-",positive
+",positive,positive
 positive,"Comprei e gostei. Pra quem quer um notebook de entrada com todas as funcionalidades basicas e um bom custo beneficio, esse é o ideal. Agora, se quer melhor, tem que ter mais diinheiro.
-",positive
+",positive,positive
 positive,"notbook de qualidade, design bonito e boa funcionalidade
-",positive
+",positive,positive
 negative,"Não faz sentido o preço desse item que tem 4Gb de memoria ram estar mais caro do que o que tem 6 GB de memoria ram.  Isso porque estão no MESMO site.
-",negative
+",negative,negative
 positive,"Notebook rápido e design bonito, uso para estudos e corresponde muito bem as expectativas, para quem procura um notebook intermediário que possa também rodar alguns games é uma ótima opção. Destaque para a qualidade do som.
-",positive
+",positive,positive
 negative,"O produto trava o tempo todo sem parar. Tentei fazer a devolução e o site não permite fazer a solicitação. Assim, fiquei no prejuízo. ( Nunca mais compro nas lojas <empresa> depois desse ocorrido.)
-",negative
+",negative,negative
 negative,"Comprei um produto e ele não foi entregue durante um mês. Oproduto voltou para a loja porque a transportadora não se dignava a passar no meu setor. Esta alegava falsamente que eu não estava no local. Transportadora devolver o meu produto sem o meu pedido ou consentimento. Pedi para cancelar a compra.
-",negative
+",negative,negative
 positive,"Excelente produto , valeu cada real pago, recomendo com certeza!!!
-",positive
+",positive,positive
 negative,"Quando escolhi o produto não notei que era com o sistema operacional Linux, gostaria de saber se posso fazer a troca por um Windows, pois não utilizei o mesmo
-",negative
+",negative,negative
 positive,"Atendeu as minhas expectativas funciona perfeitamente e bonito leve .Estou satisfeita com a compra
-",positive
+",positive,positive
 negative,"Comprei o computador para a faculdade e precisava dele urgentemente. Pedi a entrega turbo, em 1 dia e o site confirmou. Apos algumas horas do pedido a <empresa> me informou que o computador nao havia mais em estoque, adiando o prazo em 5 dias e atrasando tudo. Como se nao bastasse o pessimo atendimento, eles adiaram,hoje, o prazo novamente para mais 2 dias, totalizando 1 semana de espera para receber o produto. Uma loja dessas proporcoes devia ter o minimo de respeito com seus clientes. Pessimo atendimento, nunca comprem desse site a menos que queiram passar nervoso
-",negative
+",negative,negative
 negative,"Esse equipamento la fora deve ser vendido como sucata, mais enquanto houve brasil eles vão mandar essas sucata pra cá
-",negative
+",negative,negative
 positive,"Otimo produto. muito satisfeita. Indico o produto, ele cumpre muito bem o que é oferecido.
-",positive
+",positive,positive
 positive,"Notebook Dell muito bom estou adorando nota dez minha neta faz trabalhos do cursinho direcionado para o vestibular de medicina e o produto é excelente
-",positive
+",positive,positive
 positive,"Produto de Qualidade em Todos os Sentidos... Acabamento, Visual, Performance, Velocidade, Facil de Manusear..... É isso aí mesmo Tudo Ok... Satisfeito. Elogios a Loja Também em Todos os  Sentidos... Desde a Compra até a Entrega tudo Certo... Parabéns...  100 % Aprovado...
-",positive
+",positive,positive
 positive,"Exatamente como eu estava procurando. Fiquei muito feliz com o meu produto. Bonito, pequeno e leve.
-",positive
+",positive,positive
 positive,"Muito boa qualidade e rápido para uso moderado. Já houve época de notebooks mais baratos com essas configurações, mas entregou uma boa experiência
-",positive
+",positive,positive
 positive,"O notebook é bom mas esse tela TN é muito ruim, muito azulada, ta ai o motivo da oferta. O ideal seria comprar com  a tela IPS, mas o valor sera um pouco mais caro.  Fica a dica, grupo de hardware muito bons mas tela muito ruim. xD
-",negative
+",negative,negative
 negative,"Comprei o produto, após ver alguns vídeos na internet sobre seu funcionamento que parecia ser bem simples, porém não funciona com IOS11 e deveria já ter saído de circulação. Um crime contra o consumidor
-",negative
+",negative,negative
 positive,"Produto de primeira qualidade,gostei muito,e o preço foi muito bom,as configurações são ótimas,foi uma bela compra.
-",positive
+",positive,positive
 positive,"Produto bom, um pouco complicado pra formatar, mas nada que não se resolva em alguns minutos.
-",positive
+",positive,positive
 negative,"Venceu o prazo e mercadoria não foi enviado. Não tenho rastreio do produto e não consigo pegar o dinheiro de volta. O SAC da <empresa> é o pior no pós venda que eu já vi até hoje. Não tem um 0800 para o interior e  não se consegue falar com ninguém; somente respostas do sistema. Péssimo? Péssimo é pouco!
-",negative
+",negative,negative
 positive,"Entrega rápida, produto muito bom e ótimo custo benefício.
-",positive
+",positive,positive
 positive,"Comprei para a minha mãe de 73 anos que adora tecnologia e ela está se divertindo muito com o notebook novo.
-",positive
+",positive,positive
 positive,"Entrega super rápida e produto bem embalado, até agora esta tendo um bom desempenho e nenhum problema.
-",positive
+",positive,positive
 positive,"Produto bom, preço acessível e facilidade na aquisição junto a <empresa>.  Recomendo o produto e a loja
-",positive
+",positive,positive
 positive,"Gostei muito do produto, bom desempenh da atividades
-",positive
+",positive,positive
 positive,"Notebook muito bom,  leve,  bem bonito, bom desempenho recomendo
-",positive
+",positive,positive
 positive,"Gostei muito do produto.  Utilizo para assistir aulas e Internet. Não tenho necessidade de instalar programas pesados
-",positive
+",positive,positive
 positive,"Produto bom, apesar de achar que pela configuração deveria ser  um pouco mais rápido. Mas até agora não me causou qualquer problema.
-",positive
+",negative,positive
 positive,"O notebook é muito leve e satisfaz perfeitamente minhas necessidades. Consigo levá-lo comigo pra todos os lugares sem problema nenhum, a bateria tem ótima duração e as configurações são excelentes.
-",positive
+",positive,positive
 positive,"O equipamento é bom. Comprei a três semanas e ainda estou avaliando. Meu uso é principalmente doméstico e estou aprendendo a usar o Windows 10 ainda, mas todos os programas estão rodando bem e o equipamento é bem robusto.
-",positive
+",positive,positive
 positive,"Acertei na escolha do produto e estou muito satisfeita com a rapidez com que foi feita a entrega. Já desfruto do uso de meu aparelho   e recomendo a loja e o produto!
-",positive
+",positive,positive
 positive,"Notebook excelente! Ótimo custo e benefício! Funcionamento perfeito! Alta qualidade! Recomendo para navegar na internet,  ver filmes, redes sociais, usos básicos! Nos primeiros dias de uso, tem muitas atualizações do sistema!
-",positive
+",positive,positive
 positive,"Preço super em conta e o desempenho do notebook é maravilhoso! Roda jogos e programas gráficos super bem. Estou apaixonada pelo meu novo Dell, super recomendo.
-",positive
+",positive,positive
 positive,"Bom computador, mas parece que já apresenta lentidão para iniciar ainda novo. Me causou apreensão.
-",negative
+",negative,negative
 negative,"Bateria não dura nada, máquina lenta, trava muito, atualizações demoram horas.
-",negative
+",negative,negative
 positive,"Me atende muito bem com meus trabalhos escolares além de ser ultra fino e leve para transportar.
-",positive
+",positive,positive
 positive,"Estou satisfeito porque atende a todas as minhas necessidades
-",positive
+",positive,positive
 negative,"Desde a primeira vez que liguei o notebook, do jeito que ele veio de fábrica mesmo ele já era lento. Liguei diversas vezes para a assistência técnica da Samsung e só me mandam resetar ao padrão de fábrica (já resetei 5x). Depois de ligar o notebook, para conseguir executar uma ação simples, como abrir o windows explorer, são quase 2 minutos. A última coisa que este notebook tem, é alto desempenho!
-",negative
+",negative,negative
 positive,"Ótimo computador, apenas falta a tela ser Full HD.
-",positive
+",positive,positive
 positive,"Notebook de Lenovo de alta capacidade, recomendo a terceiros
-",positive
+",positive,positive
 positive,"Bom computador, apesar do teclado numérico ser um estorvo para canhotos. Para as necessidades básicas é bem útil, torna-se lento quando aberta várias abas na internet, mas não chega a ser um problema.
-",negative
+",negative,negative
 negative,"Deu problema no computador fiz a devolução e até o momento não chegou o outro computador
-",negative
+",negative,negative
 positive,"Notebook muito bonito,rápido e leve. É meu primeiro notebook Acer, e me surpreendeu bastante. Bateria dura umas 7h em média. O negativo, fica por conta da tela, pois não é antirreflexiva, mas é uma boa tela.
-",positive
+",positive,positive
 positive,"Notebook extremamente rápido e que realiza perfeitamente as tarefas básicas do dia-a-dia, assim como atividades em programas mais pesados (como de programação e estatística). O som é muito bom e o desempenho do notebook em jogos é espetacular também! Recomendo a compra, vale muito o investimento!!
-",positive
+",positive,positive
 positive,"Está suprindo minhas necessidades.  Fino, leve e muito bom. To adorando ele.
-",positive
+",positive,positive
 positive,"Alem de chegar bem antes do prazo o produto é ótimo, vale mt o custo benefício ❤
-",positive
+",positive,positive
 positive,"O produto atende minhas necessidades, como jogos, acesso a internet. Possui as ferramentas que me interessam.
-",positive
+",positive,positive
 negative,"""O notebook esteticamente é muito bonito, porém, o windows apresenta um erro o tempo todo.  Primeiro, o equipamento já vem de fábrica com o erro """"HD 100%"""" em uso, impossível de executar qualquer tarefa, trava tudo o tempo todo. Entrei em contato com o suporte da Lenovo, fizeram um acesso remoto, e consertaram, porém, agora fica com o erro """"CPU 100%"""", trava o tempo todo e toda fecha o CHROME.  Tem sido um inferno trabalhar com este notebook travando. Novamente entrei em contato com a Lenovo, disseram que eu teria que fazer """"RECOVERY"""", informei que eu não era técnico em informática é que não poderia deixar o equipamento em assistência técnica por que eu preciso dele para trabalhar. A resposta foi a mesma """"o senhor precisar fazer um recovery"""".  Por fim, irei comprar outro notebook possivelmente DELL e irei ter que infelizmente acionar a Lenovo na justiça.""
-",negative
+",negative,negative
 positive,"Gostei muito do notebook, tamanho perfeito, ótima qualidade, super hiper recomendo.
-",positive
+",positive,positive
 positive,"gostei do prazo de entrega e do produto quando chegou. Atende minhas necessidades.
-",positive
+",positive,positive
 positive,"Gostei muito do produto e na agilidade na entrega.
-",positive
+",positive,positive
 positive,"produto de excelência qualidade e chegou antes do prazo
-",positive
+",positive,positive
 positive,"É um computador que desempenha muito bem, tanto para trabalho como para jogos (uso os jogos da série Civilization). Até agora, em 3 semanas de uso, nenhum travamento.
-",positive
+",positive,positive
 negative,"Estou com uma grande dor de cabeça com esse note. Que está inclusive na assistência técnica onde  não me deram solução. Disseram que o problema era sistema operacional, providenciei a troca e não resolveu a lentidão absurda para iniciar, algo em torno de 10 minutos A decepção não podia ser maior.não recomendo.um produto que não corresponde ao que anuncia.espero o contato da <empresa> ou fabrincante para uma solução efetiva
-",negative
+",negative,negative
 positive,"Excelente produto, design e funcionamento superperfeito, não me arrependo da compra entrega super rápida, a <empresa> esta de parabéns,NOTA 1000 !!!!
-",positive
+",positive,positive
 positive,"Entrega Rápida, atende as necessidades do dia a dia.
-",positive
+",positive,positive
 positive,"Notebook leve, bonito, rápido, muito bom para mexer com programas pesados de arquitetura,  só achei que esquenta muito e a bateria poderia durar mais, fora isso tudo ok!
-",positive
+",positive,positive
 positive,"Fiquei muito satisfeita com o produto, inclusive, só pra constar, adquirimos 3 notebooks, para uso escolar, excelente performance, embora deu falta do drive de DVD, porém, considerando que hoje já esta em desuso, não prejudicará em nada a utilização. Quero ressaltar ainda que os produtos chegou bem antes do prazo estipulado pela empresa. Supersatisfeita com a eficiência e rapidez na entrega.
-",positive
+",positive,positive
 positive,"Ótimo produto, leve e bonito, chegou antes do prazo
-",positive
+",positive,positive
 positive,"Até o momento não tive nenhum problema  e as configurações são ótimas.
-",positive
+",positive,positive
 positive,"Estou muito satisfeito com o produto. É uma compra segura e acompanhei todo o transporte. Pude rastrear a carga passo a passo.
-",positive
+",positive,positive
 positive,"Produto excelente ,chegou bem antes da data prevista , estão de parabéns amei !
-",positive
+",positive,positive
 positive,"Gente, esse Notebook é ótimo nada a reclamar chegou muito bem antes do prazo. Um produto lindo, leve ótimo para levar para a faculdade. Super recomendável, to apaixonada por ele. ADOREI
-",positive
+",positive,positive
 positive,"Atende bem ao que se propõe. Configuração bastante simples, mas pelo valor, é bem coerente. Ótima relação custo x benefício.
-",positive
+",positive,positive
 positive,"O produto atende muito bem às minhas pretensões de uso e veio muito bem embalado. A entrega foi rápida, considerando que teve o feriado de carnaval, mesmo assim o produto chegou dentro do prazo e em perfeito estado.
-",positive
+",positive,positive
 positive,"Gostei muito, bem rápido e as teclas iluminadas  são ótimas!
-",positive
+",positive,positive
 positive,"eu gostei ele muito bom ótimo e fácil de mexer nele
-",positive
+",positive,positive
 positive,"Ótimo produto para quem procura um notebook para estudos e diversão.
-",positive
+",positive,positive
 positive,"Muito bom, prático, bom processador, Boa velocidade.
-",positive
+",positive,positive
 negative,"Não gostei do produto. Comprei dois notebooks dessa marca e os dois vieram com defeito.
-",negative
+",negative,negative
 positive,"muito bom este notebook recomendo a quer queira para estudar
-",positive
+",positive,positive
 negative,"Pior notebook que já comprei. Este é o meu segundo Dell e comprei acreditando na marca. Máquina ruim e desempenho sofrível. Péssima escolha.
-",negative
+",negative,negative
 positive,"Chegou, antes do previsto e em perfeito estado. Gosto muito de comprar nesse site. E o produto é execelente.
-",positive
+",positive,positive
 negative,"Horrível, lento, tudo demora pra responder. Desde a inicialização até comandos simples como abrir abas e programas. Não vale o investimento.
-",negative
+",negative,negative
 positive,"Gostei muito do produto, chegou rápido, em perfeitas condições, minhas expectativas referente ao produção são muito satisfatória, produto é rápido, ótimo mesmo.
-",positive
+",positive,positive
 negative,"Comprei o produto em menos de 10 dias não quis ligar mais! Horrível, pior investimento que já fiz. Sem contar que a gente tenta entrar em contato com a empresa e não obtém resposta.
-",negative
+",negative,negative
 positive,"gostei ele era o que eu queria fonciona mt bema  não tenho do que reclamar até agora só tenho a dizer que o produto é excelente estou feliz
-",positive
+",positive,positive
 positive,"Produto excelente, corresponde as expectativas, prático e leve para manuseio.
-",positive
+",positive,positive
 positive,"Devo comprar outro em breve pro outro filho! kkk Obrigado !
-",positive
+",positive,positive
 positive,"Ótimo notebook ... excelente para estudo ... Simplesmente amei!
-",positive
+",positive,positive
 positive,"Atendeu minhas expectativas muito bem. Rápido, eficiente e esquenta pouco.
-",positive
+",positive,positive
 positive,"Chegou em tempo hábil. Notebook bonito, leve, confortável de usar. Excelente para trabalhar.
-",positive
+",positive,positive
 positive,"Finíssimo, leve, lindo! A <empresa> postou dia 10/03 na direct log e dia 14/03 eu ja estou com ele em mãos <3 (PS. Maranhão)
-",positive
+",positive,positive
 negative,"Computador péssimo. Lento e neste momento não está ligando nem mesmo com bateria na tomada.
-",negative
+",negative,negative
 negative,"O Notebook é muito lento, seus aplicativos travam e suas atualizações parecem nunca acabarem.
-",negative
+",negative,negative
 positive,"Excelente produto  e a entrega foi antes do prazo gostei do atendimento e da rapidez para entregar  E  também  o tratamento com o cliente  a forma de informações.
-",positive
+",positive,positive
 positive,"O produto chegou bem antes do previsto e em ótimo estado. Até agora não tive problemas, mas estou com ele a poucos dias. Posteriormente, se apresentar algum defeito, irei avaliar novamente.
-",positive
+",positive,positive
 positive,"Amei muito dentro do que imaginávamos que fosse!recomendo!
-",positive
+",positive,positive
 negative,"Aparentemente o produto parece ser bom só que o teclado veio desconfigurado ou como o técnico da Dell informou teclado americano, não gostei pois se fazem um produto para ser vendido no Brasil deveria vim com as configurações para nós brasileiros. ou deveria ser testado antes de coloca-lo a venda. há também o som veio com problema.
-",negative
+",negative,negative
 positive,"TL;DR; Custo beneficio excelente.  --- Tenho ele faz 1 ano, Recomendo formente. Notebook leve, silencioso, não esquenta igual a torradeira do HP-G42 q eu tinha.   Utilizo para programação, então o i5 + 8 GB de Ram atende perfeitamente para rodar Android Studio, e outras IDEs mais parrudas.  Alem do Trabalho utilizo para lazer, roda a maioria dos jogos no medium, em um fps bem agradável para jogar.   Um notebook com placa de vídeo (mesmo q singela) faz toda a diferença.
-",positive
+",positive,positive
 positive,"Notebook muito rápido e moderno, cumpre o que promete.
-",positive
+",positive,positive
 negative,"O produto veio com defeito e estou esperando o reenvio de outro produto...
-",negative
+",negative,negative
 negative,"Não recomendado, produto de baixa qualidade e vc não tem respaldo da empresa! Descaso total! Né <empresa>?
-",negative
+",negative,negative
 negative,"Não gostei, não recomendo, não tem 1T de HD como informa. é lento, tudo demora, e esqueça abrir mais de uma tela com ele.
-",negative
+",negative,negative
 positive,"Ótimo produto para quem gosta de uma máquina moderna e produtiva.
-",positive
+",positive,positive
 positive,"Chegou certinho, sem problemas. Sem defeito. Veio como descrito.
-",positive
+",positive,positive
 positive,"Muito bom produto, utilizo para estudos e jogos. Sem problemas até o momento.
-",positive
+",positive,positive
 positive,"Notebook muito bom atende o que preciso, poderia estar escrito que o formato do teclado é diferente do padrão Brasileiro
-",positive
+",positive,positive
 positive,"O produto condiz com o informado. Muito bonito e compacto além da entrega super rápida.
-",positive
+",positive,positive
 negative,"Tive a infelicidade de receber o notebook ruim.  A tela fica no azul,  sinalizando que necessita de reparo. Recebi o note ontem e ja esta com problemas.  Solicitei a devolução e que me devolvam o meu dinheiro.  Primeira vez que me acontece isso. Sempre tem a primeira vez.  Decepcionada.
-",negative
+",negative,negative
 positive,"Adorei muitas funções exercente,  chegou na data combinada e em perfeitas condições.
-",positive
+",positive,positive
 positive,"Produto bom, leve, bonito e é exatamente o que eu preciso para a faculdade, trabalhos em Word, Excel, redes sociais, etc. Entrega dentro prazo. Produto bem embalado.
-",positive
+",positive,positive
 positive,"Parabéns a lojas <empresa> pela entrega, entrega feita bem antes do prazo e produto com perfeitas condições.
-",positive
+",positive,positive
 negative,"A Venda e Entrega das <empresa> foi muito Boa (Preço e entrega no Prazo) porém quando chegou o produto ele NÃO liga, abri um chamado na DELL e será enviado um técnico de 3 a 5 dias!!!!
-",negative
+",negative,negative
 positive,"O produto é muito bom, chegou em perfeito estado, e dentro do prazo da entrega. Gostei muito!
-",positive
+",positive,positive
 positive,"Muito bom, o produto é ótimo e a entrega foi super rápida.
-",positive
+",positive,positive
 positive,"Para o meu tipo de trabalho, atende perfeitamente.
-",positive
+",positive,positive
 positive,"Notebook de excelente performance, rápido, design moderno. Entrega antes do prazo estipulado. Fiz com garantia estendida de 3 anos, pois tive um problema com HP Pavillion. tenho um telefone Asus e resolvi seguir o fabricante! recomendaço!
-",positive
+",positive,positive
 positive,"Produto muito bom, atendeu minhas expectativas, única coisa é q achei ele um pouco pesado, mas de resto, é maravilhoso.
-",positive
+",positive,positive
 positive,"Mas a entrega deixou a desejar, atrasou certa de 1 semana do prazo inicial... Porém nao muda o fato do noot book ser ótimo e funcionar perfeitamente
-",negative
+",negative,negative
 positive,"Não se pode querer uma Ferrari pelo valor de um fusca. Os dois são carros - teem a mesma função-,mas não devemos comprar um Atom se a nossa necessidade é um I7. Esse é um notebook para o dia-a-dia. Se precisar de um editor de imagens, indico um MAC.
-",negative
+",negative,negative
 positive,"Primeira compra, chegou antes do prazo tudo certo!  uma ótima compra, no momento muito satisfeito.
-",positive
+",positive,positive
 positive,"Produto excelente para as atividades básicas que se propõe a fazer com um notebook e entrega rápida!
-",positive
+",positive,positive
 positive,"pode comparar sem medo , chega antes do prazo, produto de qualidade
-",positive
+",positive,positive
 positive,"Gostei do produto, da entrega da loja e ainda estou me familiarizando com o mesmo. Até o momento satisfez 90%. Poderia vir com pacote Microsoft Office. No mais só aguardar o uso e o tempo.
-",positive
+",positive,positive
 positive,"Muito bom pra ajuda ele na escola.Pra estuda.Amou o presente.
-",positive
+",positive,positive
 positive,"excelente, rápido acesso a cor o teclado enfim eu recomendo
-",positive
+",positive,positive
 positive,"muito top comprem por que vai valer a pena nao vao se arrepender de comprar obrigado
-",positive
+",positive,positive
 positive,"Notebook rápido, leve, design moderno e cumpre o que promete. Bateria de boa durabilidade, mais de 2 horas. Ideal para quem estuda e faz tarefas rotineiras.
-",positive
+",positive,positive
 positive,"Extremamente leve e fino. Ótimo para minha utilização.
-",positive
+",positive,positive
 positive,"notebook bom, a unica coisa que é ruim nele é ter o windows 10 instalado.
-",negative
+",negative,negative
 negative,"Não gastem seu dinheiro com essa porcaria  Só trava! Não tenho 3 meses de uso e já apresentou defeitos no teclado diversas vezes
-",negative
+",negative,negative
 positive,"Excelente produto, desempenho sensacional, atende super bem minhas necessidades.
-",positive
+",positive,positive
 positive,"Muito rápido e de ótimo desempenho. O preço também é bem mais em conta que nas outras lojas. A entrega chegou antes do prazo.
-",positive
+",positive,positive
 positive,"Laptop muito bonito, leve e rápido. Consigo rodar alguns jogos como Skyrim, lol e Paladins sem problemas, seu processador i5 da conta do recado A bateria poderia ser melhor.
-",positive
+",positive,positive
 positive,"Otimo produto parceiro confiavel Recomendo Comprarei mais vezes
-",positive
+",positive,positive
 positive,"O produto chegou rápido,vou utilizar pra trabalhos acadêmicos,de início gostei.
-",positive
+",positive,positive
 positive,"O produto é muito bom. A entrega foi muito rápida eu o recomendo.
-",positive
+",positive,positive
 positive,"Ótimo notebook ! Recomendo a todos, tanto pra trabalho como pra casa.
-",positive
+",positive,positive
 positive,"Ótimo, leve para transportar na muchila , rápido para acessar, a loja entregou antes do prazo prometido.
-",positive
+",positive,positive
 negative,"Não  gostei do equipamento,  muito lento para as configurações  que pssui,  problemas  no armazenamento  dos arquivos. Não  gostei  e não  recomendo  este produto,  espero que o problema do equipamento seja solucionado!
-",negative
+",negative,negative
 positive,"Ótimo laptop. Leve. Rápido. Teclado bem confortável. Recomendo
-",positive
+",positive,positive
 positive,"Muito bom, ótima qualidade, bem rápido, cumpre o que promete!
-",positive
+",positive,positive
 negative,"O produto não atendeu às minhas espectativas. A bateria não dura muito tempo, o que é ruim tendo em vista que ele é novo, além da tela ranger toda vez que eu abro o notebook. As vezes trava, o que é inaceitável para uma máquina nova.
-",negative
+",negative,negative
 negative,"Pouco espaço de memória e não vem com o espaço na nuvem.  Parceiro de venda da <empresa> me atendeu excelentemente bem, porém, a <empresa> não deu nenhum parecer ainda acerca do estorno financeiro.
-",negative
+",negative,negative
 positive,"notebook muito bom..... preço compatível com o resultado.
-",positive
+",positive,positive
 positive,"Excelente, muito bom para estudo e trabalho, até o momento não posso reclamar. Ótimo custo/benefício.
-",positive
+",positive,positive
 positive,"Gostei do produto. Chegou dentro do prazo. Acho que não devo escrever mais do que é necessário para avaliar minha satisfação ou o contrário.
-",positive
+",positive,positive
 negative,"Infelizmente comprei e ñ recebi o produto e por esse motivo estou sendo muito prejudicada comprei em carater de urgência e ja faz im mês e ñ recebi meu produto .e quero ima solução urgente pois preciso estou perdendo trabalho
-",negative
+",negative,negative
 positive,"Meu uso é o pacote de escritório (editor de texto, planilha e apresentação), IDE, navegação pela Web, e filmes. Estou plenamente satisfeito.
-",positive
+",positive,positive
 positive,"""Notebook Essentials E25s Intel Celeron Dual Core 4GB 500GB Tela LED HD 14"""" Windows 10 Preto - Samsung, tudo de bom.  A entrega foi no prazo dado o produto em otimo estado parabens     RECOMENDO""
-",positive
+",positive,positive
 positive,"Recomendo para utilização do dia a dia, rapido e fino.
-",positive
+",positive,positive
 negative,"Primeiramente ele demora muito para ligar, além disso, ele demora para abrir programas como word, e Excel, um primo meu tem um ACER  com core 2 duo e 2 de ran e abre as coisas muito mais rápido. estou decepcionado, tenho que deixar ele em stanby para não ficar tendo que lembrar que ele demora para ligar. sem falar que se fosse para usar ele com todos os app que veio, teria que acostumar com o disco rodando a 100% (gerenciador de tarefas).
-",negative
+",negative,negative
 positive,"O produto é bonito ..e tem uma boa configuração...
-",positive
+",positive,positive
 positive,"Produto muito bom e versátil, ideal para uso no dia a dia.
-",positive
+",positive,positive
 positive,"Produto de ótima qualidade para o preço. Destaco a qualidade da tela, que por sinal é ótima.
-",positive
+",positive,positive
 positive,"Ótimo produto, possui várias funções que auxiliam no dia a dia. Perfeito para levar na faculdade, muito leve para carregar e nao faz barulho.
-",positive
+",positive,positive
 positive,"Muito bom gostei do produto excelente indico podem compra
-",positive
+",positive,positive
 negative,"Não recomendo, o sistema é muito lento, leva mil anos pra abrir qualquer coisas
-",negative
+",negative,negative
 negative,"Deu 15 dias de uso sem usufruir muito do aparelho deu problema, nao carrega mas o Windows, fica na tela de suport assist nao da pra formatar e a loja nao que devolver um novo,vou procurar meus direitos no procon, ja fui instruido por um profissional.
-",negative
+",negative,negative
 positive,"Produto excelente, Funcionando perfeitamente acabamento perfeito, imagem boa, com muito detalhes no acabamento, Porem a entrega deu um atraso, o prazo era ate o dia 15 quinta feira, pagando uma quantia a mais.. mas chegou dia 19. mas tive todo o contato com a loja <empresa> e a direct bom suporte. fora isso excelente produto
-",positive
+",positive,positive
 positive,"Gostei. Chegou tudo em ordem Entrega no prazo. Preço  acessível.
-",positive
+",positive,positive
 positive,"Design perfeito, entrega bem antes do prazo, ótimo custo benefício, parabéns a loja e a fabricante!
-",positive
+",positive,positive
 positive,"O notebook acer é um ótimo aparelho e gostei muito, porém algumas de suas configurações estão em inglês, o que me atrapalha um pouco. Do contrário adorei e super recomendo. Obrigada!
-",positive
+",positive,positive
 positive,"Ainda estou experimentando, mas até o momento está me atendendo muito bem.
-",positive
+",positive,positive
 positive,"Gostei bastante do produto, foi o que eu esperava, uma pronta entrega excelente, estão de parabéns
-",positive
+",positive,positive
 positive,"O produto veio super dentro do prazo. Muito bem embalado. O notebook é muito bom, bastante direcionado para tarefas do dia a dia. Ele é bem leve e fino, e com teclado numérico que faz toda a diferença. Já é o meu segundo Dell e a parceria continua.
-",positive
+",positive,positive
 positive,"Foi entregue o prometido, excelente produto, computador com ótimos recursos.
-",positive
+",positive,positive
 negative,"""Não vale a pena a economia, em 04 dias de uso eu precisei mandar o pc de volta, eu comprei apenas para escrever minha dissertação e usar a web. Demora mais de um minuto para iniciar; desliga sozinho e por vezes quando eu desliguei, depois de fechar a tela ele entrava no modo """"suspender"""" e acaba a bateria.""
-",negative
+",negative,negative
 positive,"o note é excelente mas o Windows 10 não funcionou direito e tive que desinstalar ele e instalar o W8
-",negative
+",negative,negative
 negative,"Pessoal,É RIDÍCULO UMA MÁQUINA COMO ESSA, ESTÁ SENDO VENDIDA NO MERCADO. É querer enganar o consumidor, pois, além do desempenho ABAIXO DO FRACO e apresentará muita LENTIDÃO COM O WINDOWS 10, NÃO EXISTE SISTEMA DE REFRIGERAÇÃO! (Algo essencial para uma máquina funcionar com segurança). Se você pretende instalar o Windows XP(NÃO recomendo migrar para um Sistema Operacional antigo e desatualizado), pode comprar, mas não esqueça que ele IRÁ ESQUENTAR MUITO.  RESUMINDO(a linguagem popular): NÃO COMPREM, pois o notebook não tem o mínimo para abrir o Windows 10 e NÃO TEM SISTEMA DE REFRIGERAÇÃO e que ele vai ESQUENTAR TANTO que o seu DINHEIRO será TORRADO junto com o calor desse notebook.
-",negative
+",negative,negative
 positive,"Excelente, ótimo custo-benefício. Atendeu às expectativas.
-",positive
+",positive,positive
 negative,"Produto de péssima qualidade, tenho tablet que funciona melhor do que esse notebook. Não recomendo. Pague um pouco mais mas tenha um produto que não vai dar dor de cabeça.
-",negative
+",negative,negative
 positive,"muito bom o produto, perfeito funcionamento, garantindo bom desempenho e performance do mesmo, recomendo
-",positive
+",positive,positive
 positive,"Tenho um desse é muito bom eu reconfortante produto de primeira garantia na certa sem palavras bom mesmo
-",positive
+",positive,positive
 positive,"Ótimo produto! Super recomendo. Atende a tudo que está na descrição do produto.
-",positive
+",positive,positive
 negative,"Não recomendo o produto, pois apesar da boa configuração, ele não é tão rápido e deu tela azul na segunda semana, dizendo que algum componente não estava funcionando ou estava mal instalado. Ao entrar em contato com a <empresa>, a reclamação foi repassada para a Acer, que praticamente lavou as mãos.
-",negative
+",negative,negative
 positive,"Minha opinião, detalhada, será encaminhada à Le novo. O produto é bom
-",positive
+",positive,positive
 positive,"Este é um problema pra quem quer um notebook para se movimentar, trabalhar e precisa carregá-lo junto, pois é leve e bem fino. Suas configurações são modestas, mas suficientes para quem vai usá-los apenas para tarefas diárias de trabalho (Internet, Pacote Office), assim como entretenimento (assistir vídeos e séries), ainda quebra um galho rodando bem jogos mais simples, que não exijam gráfico muito pesado.
-",positive
+",positive,positive
 positive,"Produto com ótimo custo/benefício e de ótima qualidade. Atende as expectativas.
-",positive
+",positive,positive
 positive,"O notebook é muito bom e com um design muito atrativo. Porém ele esquenta um pouco, mas a média de temperatura é entre 40°C e 70° dependendo do jogo e gráficos. Eu recomendo o mesmo.
-",positive
+",positive,positive
 positive,"Sem duvidas o melhor notebook gaming do momento, não é gigantesco igual os outros, melhor tela e desempenho excelente.
-",positive
+",positive,positive
 positive,"Ótimo notebook, tanto para tarefas cotidianas, edição de videos, jogos e estudos.
-",positive
+",positive,positive
 positive,"Ainda não testei todas as suas funcionalidades, devido as atualizações do Windows, que demoram....muito....mas acredito que esteja tudo bem.
-",negative
+",negative,negative
 negative,"""Tenho o notebook apenas para uso profissional, por isso não tenho muitos softwares instalados, apenas alguns sistemas offlines e pequenas outras instalações, nada significativo. Ainda assim o computador consegue travar, ser lento e por vezes não abre os aplicativos quando se clica em cima do ícone, mesmo que se faça isso mil vezes. Estou chocada pois paguei super caro em uma máquina para não ter que me incomodar, e ainda tenho que lidar com travamentos, reinicializações e outros pequenos defeitos que não são aceitáveis em um equipamento tão caro e tão """"top de linha"""". Eu paguei caro num produto que é similar a um i5 de 4GB, nem de longe me agradou. Estou buscando suporte da Dell e caso seja apenas um defeito no meu produto, o que eu espero sinceramente que seja, posso reconsiderar a minha avaliação.""
-",negative
+",negative,negative
 positive,"Produto muito bom, rapido, atendeu as espectativas.
-",positive
+",positive,positive
