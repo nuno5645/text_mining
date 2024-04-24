@@ -21,12 +21,12 @@ The project begins with an initial sentiment classification of the test data usi
 The dataset used in this project comprises 48,902 training reviews and 2,417 testing reviews from Amazon, categorized into 'positive' or 'negative' sentiment.
 
 ## Repository Structure
-- data/
-─ models/ 
-─ notebooks/ 
-─ src/ 
-─ LICENSE
-─ README.md 
+ - data/
+ - models/ 
+ - notebooks/ 
+ - src/ 
+ - LICENSE
+ - README.md 
 
 ## Installation
 To replicate this analysis, you need to install the required Python libraries:
