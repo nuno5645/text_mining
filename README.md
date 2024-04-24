@@ -33,8 +33,7 @@ To replicate this analysis, you need to install the required Python libraries:
 pip install -r requirements.txt
 
 ## Usage
-To run the sentiment analysis, navigate to the src directory and execute:
-python sentiment_analysis.py
+To run the sentiment analysis, navigate to the src directory and please open the file Text_Mining.ipynb and run each cell
 
 ## Results
 The project has explored various combinations of preprocessing techniques and models. 
